@@ -1,0 +1,10 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  comparing-monitors: comparing-monitors.html
+  timeledger: timeledger.html
+last_built: 2026-11-21T15:28Z
+urls:
+  reference: https://tsfire99-bot.github.io/timeledger/reference
+  article: https://tsfire99-bot.github.io/timeledger/articles

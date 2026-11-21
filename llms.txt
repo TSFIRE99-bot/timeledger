@@ -1,0 +1,166 @@
+# timeledger
+
+Auditable time accounting for evaluating detectors of events in long,
+continuous recordings.
+
+Two monitors read the same 24-hour ECG. One skips four hard hours.
+Judged only on the hours it answered, it can beat the other monitor and
+still miss more atrial fibrillation (AF) over the day. It can even
+report the right number of AF minutes while flagging the wrong ones.
+timeledger keeps the reference, the input status and each detector’s
+answers in one table of non-overlapping time intervals, and every number
+it reports is computed from that table.
+
+``` r
+
+library(timeledger)
+fx <- tl_fixture("acceptance")              # the 100-minute example
+led <- tl_ledger(fx$records, fx$reference, fx$predictions, time_unit = "min")
+m <- tl_match(led, policy = "one_to_one")
+tl_get(tl_metrics(led, m), c("answer_coverage", "answered_sensitivity",
+                             "full_capture", "episode_sensitivity"))
+tl_explain(led, m, episode = "rec1:e002")   # the seconds behind a missed episode
+```
+
+What it keeps apart:
+
+| Situation | Ledger state |
+|----|----|
+| Reference rhythm unknown | `reference = "unknown"`, left out of truth-based denominators |
+| Monitor had no input | `response = "no_input"`, from an explicit observation table |
+| Input available, detector declined | `response = "abstain"`, with its reason |
+| Detector answered “no event” | `response = "negative"` |
+| No prediction row and no declared meaning | `response = "unknown"` (never silently negative) |
+
+Main functions:
+[`tl_ledger()`](https://tsfire99-bot.github.io/timeledger/reference/tl_ledger.md),
+[`tl_check()`](https://tsfire99-bot.github.io/timeledger/reference/tl_check.md),
+[`tl_metrics()`](https://tsfire99-bot.github.io/timeledger/reference/tl_metrics.md),
+[`tl_match()`](https://tsfire99-bot.github.io/timeledger/reference/tl_match.md)
+(one-to-one with exact dynamic programming, or any-overlap),
+[`tl_compare()`](https://tsfire99-bot.github.io/timeledger/reference/tl_compare.md)
+(own, shared and full time),
+[`tl_bootstrap()`](https://tsfire99-bot.github.io/timeledger/reference/tl_bootstrap.md)
+(subject-level, paired),
+[`tl_trace()`](https://tsfire99-bot.github.io/timeledger/reference/tl_trace.md)
+/
+[`tl_explain()`](https://tsfire99-bot.github.io/timeledger/reference/tl_trace.md),
+[`plot()`](https://rdrr.io/r/graphics/plot.default.html); WFDB adapters
+[`read_wfdb_ann()`](https://tsfire99-bot.github.io/timeledger/reference/read_wfdb_ann.md),
+[`write_wfdb_ann()`](https://tsfire99-bot.github.io/timeledger/reference/read_wfdb_ann.md),
+[`wfdb_rhythm_intervals()`](https://tsfire99-bot.github.io/timeledger/reference/wfdb_rhythm_intervals.md),
+and
+[`wfdb_epicmp_af()`](https://tsfire99-bot.github.io/timeledger/reference/wfdb_epicmp_af.md),
+which reproduces the AF statistics of WFDB `epicmp` 10.7.0 (verified
+against the executable on 109 records under two detector policies; this
+is a compatibility mode, not a claim of standards compliance).
+
+The package depends only on base R (`graphics`, `stats`, `utils`).
+
+## Installation
+
+``` r
+
+# development version (not yet on CRAN)
+install.packages("timeledger_0.1.0.tar.gz", repos = NULL, type = "source")
+```
+
+## Status
+
+Version 0.1.0 is a first release. It has not yet been used by anyone
+other than its author. Bug reports and use cases are welcome via the
+issue tracker.
+
+## Data
+
+`inst/extdata` contains the annotation files of record 04015 of the
+MIT-BIH Atrial Fibrillation Database (Moody and Mark 1983), distributed
+by PhysioNet under the Open Data Commons Attribution License v1.0. See
+`data-raw/README.md`.
+
+# Package index
+
+## Build and check the ledger
+
+- [`tl_records()`](https://tsfire99-bot.github.io/timeledger/reference/tl_records.md)
+  : Describe the recordings to be evaluated
+- [`tl_ledger()`](https://tsfire99-bot.github.io/timeledger/reference/tl_ledger.md)
+  : Build the time ledger
+- [`tl_validate()`](https://tsfire99-bot.github.io/timeledger/reference/tl_validate.md)
+  : Validate evaluation inputs without building a ledger
+- [`tl_check()`](https://tsfire99-bot.github.io/timeledger/reference/tl_check.md)
+  : Check the accounting identities of a ledger
+- [`summary(`*`<tl_ledger>`*`)`](https://tsfire99-bot.github.io/timeledger/reference/summary.tl_ledger.md)
+  : Duration totals for every state in a ledger
+- [`tl_split()`](https://tsfire99-bot.github.io/timeledger/reference/tl_split.md)
+  : Split ledger rows at given times
+- [`tl_restrict()`](https://tsfire99-bot.github.io/timeledger/reference/tl_restrict.md)
+  : Restrict a ledger to part of its time
+
+## Episodes, alarms and matching
+
+- [`tl_episodes()`](https://tsfire99-bot.github.io/timeledger/reference/tl_episodes.md)
+  : Reference episodes
+- [`tl_alarms()`](https://tsfire99-bot.github.io/timeledger/reference/tl_alarms.md)
+  : Alarms raised by each detector
+- [`tl_match()`](https://tsfire99-bot.github.io/timeledger/reference/tl_match.md)
+  : Match reference episodes to alarms
+
+## Metrics, comparisons and uncertainty
+
+- [`tl_metrics()`](https://tsfire99-bot.github.io/timeledger/reference/tl_metrics.md)
+  : Performance metrics with their denominators
+- [`tl_get()`](https://tsfire99-bot.github.io/timeledger/reference/tl_get.md)
+  : Extract one metric as a compact table
+- [`tl_record_mean()`](https://tsfire99-bot.github.io/timeledger/reference/tl_record_mean.md)
+  : Equal-record summaries of metrics
+- [`tl_contributions()`](https://tsfire99-bot.github.io/timeledger/reference/tl_contributions.md)
+  : Additive contributions of each record
+- [`tl_compare()`](https://tsfire99-bot.github.io/timeledger/reference/tl_compare.md)
+  : Compare two detectors on own, shared and full time
+- [`tl_bootstrap()`](https://tsfire99-bot.github.io/timeledger/reference/tl_bootstrap.md)
+  : Cluster bootstrap for pooled metrics and paired differences
+
+## Inspect
+
+- [`tl_trace()`](https://tsfire99-bot.github.io/timeledger/reference/tl_trace.md)
+  [`tl_explain()`](https://tsfire99-bot.github.io/timeledger/reference/tl_trace.md)
+  : Inspect the ledger rows behind a number
+- [`plot(`*`<tl_ledger>`*`)`](https://tsfire99-bot.github.io/timeledger/reference/plot.tl_ledger.md)
+  : Timeline plot of one record
+
+## Prepare predictions and experiments
+
+- [`tl_from_windows()`](https://tsfire99-bot.github.io/timeledger/reference/tl_from_windows.md)
+  : Turn window decisions into prediction intervals
+- [`tl_simulate_outages()`](https://tsfire99-bot.github.io/timeledger/reference/tl_simulate_outages.md)
+  : Simulated input outages for controlled experiments
+- [`tl_fixture()`](https://tsfire99-bot.github.io/timeledger/reference/tl_fixture.md)
+  : Small worked examples with known answers
+
+## WFDB files and epicmp compatibility
+
+- [`read_wfdb_header()`](https://tsfire99-bot.github.io/timeledger/reference/read_wfdb_header.md)
+  : Read a WFDB header file
+- [`read_wfdb_ann()`](https://tsfire99-bot.github.io/timeledger/reference/read_wfdb_ann.md)
+  [`write_wfdb_ann()`](https://tsfire99-bot.github.io/timeledger/reference/read_wfdb_ann.md)
+  : Read and write WFDB annotation files
+- [`wfdb_rhythm_intervals()`](https://tsfire99-bot.github.io/timeledger/reference/wfdb_rhythm_intervals.md)
+  : Reference rhythm intervals from WFDB rhythm annotations
+- [`wfdb_beats()`](https://tsfire99-bot.github.io/timeledger/reference/wfdb_beats.md)
+  : Beat annotations from a WFDB annotation table
+- [`write_wfdb_rhythm()`](https://tsfire99-bot.github.io/timeledger/reference/write_wfdb_rhythm.md)
+  : Write detector responses as WFDB rhythm annotations
+- [`wfdb_epicmp_af()`](https://tsfire99-bot.github.io/timeledger/reference/wfdb_epicmp_af.md)
+  : WFDB epicmp-compatible AF episode comparison
+- [`wfdb_parse_epicmp()`](https://tsfire99-bot.github.io/timeledger/reference/wfdb_parse_epicmp.md)
+  : Parse the matrix-format output of WFDB epicmp
+
+# Articles
+
+### All vignettes
+
+- [Comparing two monitoring policies on a real
+  recording](https://tsfire99-bot.github.io/timeledger/articles/comparing-monitors.md):
+- [Getting started with
+  timeledger](https://tsfire99-bot.github.io/timeledger/articles/timeledger.md):
