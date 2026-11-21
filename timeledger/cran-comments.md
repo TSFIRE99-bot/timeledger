@@ -8,7 +8,8 @@ This is a new submission.
   release), macos-latest (R release), `R CMD check --as-cran` with vignettes
   and the PDF manual.
 * Local: Windows 11, R 4.6.2.
-* win-builder (R devel): [to be run before submission]
+* win-builder (R Under development, 2026-11-17 r90926 ucrt): 1 NOTE
+  (New submission).
 
 ## R CMD check results
 
