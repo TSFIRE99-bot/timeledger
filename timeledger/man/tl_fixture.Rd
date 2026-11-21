@@ -4,7 +4,7 @@
 \title{Small worked examples with known answers}
 \description{
 \itemize{
-\item \code{"acceptance"}: a 100-minute recording with complete reference. True AF on \eqn{[10, 20)} and \eqn{[40, 60)}; the detector flags \eqn{[10, 20)} and \eqn{[70, 80)}, abstains on \eqn{[40, 60)} and otherwise answers "no AF". Under one-to-one positive-overlap matching: answer coverage 80\%, answered-time sensitivity 100\%, full-period capture 33.3\%, episode detection 1/2, one unmatched alarm, 0.75 false alarms per answered hour, predicted burden 25\% and reference burden 12.5\% on answered time, and full-period predicted burden between 20\% and 40\%.
+\item \code{"acceptance"}: a 100-minute recording with complete reference. True AF on \code{[10, 20)} and \code{[40, 60)}; the detector flags \code{[10, 20)} and \code{[70, 80)}, abstains on \code{[40, 60)} and otherwise answers "no AF". Under one-to-one positive-overlap matching: answer coverage 80\%, answered-time sensitivity 100\%, full-period capture 33.3\%, episode detection 1/2, one unmatched alarm, 0.75 false alarms per answered hour, predicted burden 25\% and reference burden 12.5\% on answered time, and full-period predicted burden between 20\% and 40\%.
 \item \code{"burden_mismatch"}: predicted and reference AF durations are equal (20 minutes each) but never overlap, so the burden error is zero while no AF time is captured.
 \item \code{"two_detectors"}: detector A answers throughout; detector B declines during the hardest period. B looks better on its own answered time and captures less AF over the full period.
 }

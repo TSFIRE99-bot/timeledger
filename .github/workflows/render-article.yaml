@@ -26,9 +26,14 @@ jobs:
             any::rmarkdown
             any::knitr
             any::tinytex
+            any::harbinger
+            any::yardstick
+            any::ivs
             local::.
       - name: Package tests
         run: Rscript tools/run_tests.R
+      - name: Execute harbinger, yardstick and ivs on the same inputs
+        run: Rscript comparators/r_toolkits.R results/comparators/r_toolkits.csv
       - name: Render article
         run: |
           Rscript -e 'tinytex::tlmgr_install(c("fancyhdr", "microtype", "setspace", "titlesec", "placeins", "caption", "environ", "trimspaces", "booktabs", "xcolor", "framed"))' || true
@@ -50,3 +55,4 @@ jobs:
             paper/*.tex
             paper/RJwrapper.*
             results/tests_summary.csv
+            results/comparators/r_toolkits.csv

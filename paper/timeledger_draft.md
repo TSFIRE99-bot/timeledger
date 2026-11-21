@@ -1,4 +1,4 @@
-# timeledger: Auditable Time Accounting for Evaluating Continuous Event Detectors in R
+# Auditable Time Accounting for Evaluating Continuous Event Detectors: The R Package 'timeledger'
 
 Abstract.
 Detectors that run continuously on long recordings, such as monitors for atrial fibrillation in 24-hour electrocardiograms, rarely answer for every second. They lose their input, decline to answer when the signal is poor, and split one true event into several alarms. Two detectors evaluated on the same recordings can then report sensitivities computed over different time, and the difference is usually invisible in the published number. The R package timeledger reduces the reference annotations, the input availability and every detector's responses to one table of disjoint half-open intervals per record. Unknown reference, missing input, abstention and a negative answer are separate states, and time without a prediction is never silently counted as negative. Every reported quantity is a sum over that table and carries its numerator, denominator and excluded time, so any number can be traced to the seconds behind it. The package adds an exact one-to-one episode matching rule, paired comparisons on each detector's own, shared and full time, a subject-level bootstrap, and a base R reader for WFDB annotation files whose atrial fibrillation statistics agree with the WFDB program epicmp on all 109 records of two PhysioNet databases. On the Long Term AF Database, a quality-gated policy of a published detector matched the ungated policy on answered time but captured less atrial fibrillation over the full period.
@@ -386,7 +386,7 @@ event-concentrated outages, with bounds widening to
 34% to
 52%.
 
-# A second application: sleep apnea
+# Application to sleep apnea
 
 The engine has no AF-specific code. The Apnea-ECG Database [@penzel2000]
 contains 70 overnight records with expert annotations of apnea for

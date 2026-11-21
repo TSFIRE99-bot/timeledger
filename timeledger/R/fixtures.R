@@ -1,8 +1,8 @@
 #' Small worked examples with known answers
 #'
 #' * `"acceptance"`: a 100-minute recording with complete reference. True
-#'   AF on \eqn{[10, 20)} and \eqn{[40, 60)}; the detector flags
-#'   \eqn{[10, 20)} and \eqn{[70, 80)}, abstains on \eqn{[40, 60)} and
+#'   AF on `[10, 20)` and `[40, 60)`; the detector flags
+#'   `[10, 20)` and `[70, 80)`, abstains on `[40, 60)` and
 #'   otherwise answers "no AF". Under one-to-one positive-overlap matching:
 #'   answer coverage 80%, answered-time sensitivity 100%, full-period capture
 #'   33.3%, episode detection 1/2, one unmatched alarm, 0.75 false alarms per
@@ -76,7 +76,7 @@ tl_fixture <- function(name = c("acceptance", "burden_mismatch",
 #'   from that moment until the next decision of the same record and
 #'   detector, or for at most `max_hold`. This uses no future signal.
 #' * `mode = "window"` (retrospective): each decision is assigned to its own
-#'   window \eqn{[window_start, window_end)}. Where windows overlap, the
+#'   window `[window_start, window_end)`. Where windows overlap, the
 #'   window decided last wins. Window ends must increase with window starts.
 #'
 #' Time not covered by any decision gets no row; its meaning is then set by

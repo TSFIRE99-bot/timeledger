@@ -1,5 +1,5 @@
 ---
-title: "timeledger: Auditable Time Accounting for Evaluating Continuous Event Detectors in R"
+title: "Auditable Time Accounting for Evaluating Continuous Event Detectors: The R Package 'timeledger'"
 date: "2026-11-20"
 abstract: >
   Detectors that run continuously on long recordings, such as monitors for
@@ -33,7 +33,7 @@ output:
   rjtools::rjournal_article:
     self_contained: yes
     toc: no
-bibliography: RJreferences.bib
+bibliography: timeledger.bib
 ---
 
 ```{r setup, include = FALSE}
@@ -44,7 +44,7 @@ knitr::opts_knit$set(root.dir = "..")
 
 ```{r numbers, include = FALSE}
 library(timeledger)
-source("paper/numbers.R")
+source("paper/scripts/numbers.R")
 source("analysis/figures.R")
 L <- N$ltafdb
 A <- N$afdb
@@ -134,7 +134,7 @@ prior <- data.frame(
                          "none", "left to the analyst", "overlap with tolerances",
                          "collars", "none"),
   check.names = FALSE)
-knitr::kable(prior, caption = "Tools inspected (details and how each was inspected in the reproduction repository, audit/PRIOR\\_ART.md).",
+knitr::kable(prior, caption = "Tools inspected (details and how each was inspected in the reproduction repository, file audit/PRIOR_ART.md).",
              booktabs = TRUE)
 ```
 
@@ -438,7 +438,7 @@ event-concentrated outages, with bounds widening to
 `r pct(N$sim("event_concentrated", "burden_bound_lower"), 0)` to
 `r pct(N$sim("event_concentrated", "burden_bound_upper"), 0)`.
 
-# A second application: sleep apnea
+# Application to sleep apnea
 
 The engine has no AF-specific code. The Apnea-ECG Database [@penzel2000]
 contains `r N$apnea_n` overnight records with expert annotations of apnea for
@@ -500,7 +500,7 @@ tab <- data.frame(Decision = di$decision,
                   epicmp = di[["epicmp 10.7.0"]],
                   `Measured effect` = di[["measured effect"]],
                   check.names = FALSE)
-knitr::kable(tab, caption = "Consequential decisions, the default of three existing tools, and the effect measured on AFDB or LTAFDB with the frozen detector (full inventory and sources in results/comparators/decision\_inventory.csv).",
+knitr::kable(tab, caption = "Consequential decisions, the default of three existing tools, and the effect measured on AFDB or LTAFDB with the frozen detector (full inventory and sources in results/comparators/decision_inventory.csv).",
              booktabs = TRUE)
 ```
 

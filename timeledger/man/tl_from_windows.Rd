@@ -34,7 +34,7 @@ tl_from_windows(record, detector, decided_at, response, window_start = NULL,
 \details{
 \itemize{
 \item \code{mode = "hold"} (real time): a decision issued at \code{decided_at} holds from that moment until the next decision of the same record and detector, or for at most \code{max_hold}. This uses no future signal.
-\item \code{mode = "window"} (retrospective): each decision is assigned to its own window \eqn{[window_start, window_end)}. Where windows overlap, the window decided last wins. Window ends must increase with window starts.
+\item \code{mode = "window"} (retrospective): each decision is assigned to its own window \code{[window_start, window_end)}. Where windows overlap, the window decided last wins. Window ends must increase with window starts.
 }
 
 Time not covered by any decision gets no row; its meaning is then set by

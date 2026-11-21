@@ -147,10 +147,11 @@ plot.tl_ledger <- function(x, record = NULL, from = NULL, to = NULL,
   if (legend) {
     usr <- graphics::par("usr")
     graphics::legend(x = mean(usr[1:2]), y = usr[4], xjust = 0.5, yjust = 0,
-                     horiz = TRUE, bty = "n", cex = 0.75, xpd = NA,
+                     horiz = TRUE, bty = "n", cex = 0.7, xpd = NA,
+                     x.intersp = 0.5,
                      fill = c(resp_col[1:4], "white"),
                      density = c(NA, NA, NA, NA, 20),
-                     legend = c("event / positive", "non-event / negative",
+                     legend = c("event/positive", "non-event/negative",
                                 "abstain", "no input", "unknown"))
   }
   invisible(x)

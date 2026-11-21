@@ -5,7 +5,7 @@
 \description{
 Builds the record table that anchors every other input. Each record has its
 own clock: \code{start} and \code{end} give the target period, in the same time unit
-as the interval tables, and intervals are half-open, \eqn{[start, end)}.
+as the interval tables, and intervals are half-open, \code{[start, end)}.
 }
 \usage{
 tl_records(record, start = 0, end, subject = record, fs = NA_real_,

@@ -2,7 +2,7 @@
 #'
 #' Builds the record table that anchors every other input. Each record has its
 #' own clock: `start` and `end` give the target period, in the same time unit
-#' as the interval tables, and intervals are half-open, \eqn{[start, end)}.
+#' as the interval tables, and intervals are half-open, `[start, end)`.
 #'
 #' @param record Character record identifiers (unique).
 #' @param start,end Numeric start and end of the target period of each record.
