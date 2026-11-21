@@ -59,7 +59,3 @@
 
 # Run identifiers: a new run starts whenever `new` is TRUE.
 .run_id <- function(new) cumsum(new)
-
-.fmt_num <- function(x, digits = 3) {
-  formatC(x, digits = digits, format = "fg", flag = "#")
-}

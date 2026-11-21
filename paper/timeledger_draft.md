@@ -214,7 +214,7 @@ annotation format in base R, `wfdb_rhythm_intervals()` turns rhythm annotations
 into reference intervals and labels time before the first rhythm annotation as
 `"(unlabelled)"`, and `wfdb_epicmp_af()` reproduces the `epicmp` AF statistics
 for the conventions documented in its help page. The tests (tinytest,
-@vanderloo2021) contain 204 expectations, including the 100-minute
+@vanderloo2021) contain 229 expectations, including the 100-minute
 example above, a fixture in which predicted and true burden are equal while no
 AF minute overlaps, and a comparison against an independently written
 brute-force implementation that expands random integer timelines to one cell
