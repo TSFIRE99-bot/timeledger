@@ -47,9 +47,13 @@ reference event), \code{"ineligible_overlap"} (overlaps only ineligible
 episodes), \code{"unassessable"} (no reference-known time) or
 \code{"learning_period"}.
 
-\strong{Latency} is reported only when the episode onset was observed, the
-matched alarm has an \code{issued_at} time, and the detector was answering at
-the onset. Otherwise \code{latency} is \code{NA} and \code{latency_status} says why.
+\strong{Latency} is the time from the episode onset to the issue time of the
+first positive decision of the matched alarm inside the episode. It is
+reported only when the onset was observed, the detector was answering at
+the onset, and \code{issued_at} was supplied. When the alarm was already active
+at the onset (a decision issued before the onset still holds), latency is
+not defined and \code{latency_status} is \code{"alarm already active at onset"}.
+Otherwise \code{latency} is \code{NA} and \code{latency_status} says why.
 }
 \value{
 An object of class \code{tl_match}: a list with \code{episodes} (one row per

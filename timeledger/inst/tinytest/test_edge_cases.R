@@ -190,3 +190,13 @@ ep <- x$m$episodes
 expect_equal(ep$latency[ep$episode_id == "r:e001"], 2)
 expect_equal(ep$latency[ep$episode_id == "r:e002"], 5)
 expect_true(all(ep$latency_status == "observed"))
+
+# An alarm that was already active at onset has no latency.
+pe <- tl_from_windows("r", "D", decided_at = c(0, 5, 22, 45, 61),
+                      response = c("negative", "positive", "negative",
+                                   "positive", "negative"), until = 100)
+x <- run(ref_std, pe)
+ep <- x$m$episodes
+expect_equal(ep$latency_status[ep$episode_id == "r:e001"], "alarm already active at onset")
+expect_true(is.na(ep$latency[ep$episode_id == "r:e001"]))
+expect_equal(ep$latency[ep$episode_id == "r:e002"], 5)

@@ -36,9 +36,13 @@
 #' episodes), `"unassessable"` (no reference-known time) or
 #' `"learning_period"`.
 #'
-#' **Latency** is reported only when the episode onset was observed, the
-#' matched alarm has an `issued_at` time, and the detector was answering at
-#' the onset. Otherwise `latency` is `NA` and `latency_status` says why.
+#' **Latency** is the time from the episode onset to the issue time of the
+#' first positive decision of the matched alarm inside the episode. It is
+#' reported only when the onset was observed, the detector was answering at
+#' the onset, and `issued_at` was supplied. When the alarm was already active
+#' at the onset (a decision issued before the onset still holds), latency is
+#' not defined and `latency_status` is `"alarm already active at onset"`.
+#' Otherwise `latency` is `NA` and `latency_status` says why.
 #'
 #' @param ledger A `tl_ledger`.
 #' @param policy `"one_to_one"` or `"any_overlap"`.
@@ -231,6 +235,13 @@ tl_match <- function(ledger, policy = c("one_to_one", "any_overlap"),
   n <- nrow(e)
   lat <- rep(NA_real_, n)
   st <- rep(NA_character_, n)
+  # Precompute lookups once: the ledger row starting at each onset, and the
+  # positive event rows of each original episode in time order.
+  onset_row <- match(.group_key(e$record, e$start), .group_key(Ld$record, Ld$start))
+  pos_rows <- Ld[Ld$reference == "event" & Ld$response == "positive" &
+                   !is.na(Ld$ref_episode), ]
+  pos_rows <- pos_rows[order(pos_rows$start), ]
+  by_ep <- split(seq_len(nrow(pos_rows)), pos_rows$ref_episode)
   for (i in seq_len(n)) {
     if (!isTRUE(e$detected[i])) {
       st[i] <- "not detected"
@@ -240,17 +251,24 @@ tl_match <- function(ledger, policy = c("one_to_one", "any_overlap"),
       st[i] <- paste0("onset not observed (", e$onset_status[i], ")")
       next
     }
-    iss <- a$issued_at[match(e$alarm_id[i], a$alarm_id)]
-    if (is.na(iss)) {
-      st[i] <- "issued_at not supplied"
-      next
-    }
-    at_onset <- Ld[Ld$record == e$record[i] & Ld$start == e$start[i], ]
-    if (!nrow(at_onset) || !(at_onset$response[1] %in% .answered)) {
+    if (is.na(onset_row[i]) || !(Ld$response[onset_row[i]] %in% .answered)) {
       st[i] <- "detector not answering at onset"
       next
     }
-    lat[i] <- iss - e$start[i]
+    # First positive row of the matched alarm inside the episode.
+    memb <- strsplit(e$members[i], "+", fixed = TRUE)[[1]]
+    pr <- pos_rows[unlist(by_ep[memb], use.names = FALSE), , drop = FALSE]
+    pr <- pr[pr$alarm_id %in% e$alarm_id[i], , drop = FALSE]
+    pr <- pr[order(pr$start), , drop = FALSE]
+    if (!nrow(pr) || is.na(pr$issued_at[1])) {
+      st[i] <- "issued_at not supplied"
+      next
+    }
+    if (pr$start[1] <= e$start[i] && pr$issued_at[1] < e$start[i]) {
+      st[i] <- "alarm already active at onset"
+      next
+    }
+    lat[i] <- pr$issued_at[1] - e$start[i]
     st[i] <- "observed"
   }
   list(latency = lat, status = st)

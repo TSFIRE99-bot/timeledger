@@ -60,22 +60,16 @@ tl_episodes <- function(ledger, merge_gap = 0) {
   }
   # Onset and offset status from the neighbouring reference rows.
   refk <- ref[order(ref$record, ref$start), ]
-  stat_at <- function(rr, t, side) {
-    x <- refk[refk$record == rr, ]
-    if (side == "before") {
-      i <- which(x$end == t)
-      if (!length(i)) return("unknown")
-      x$state[i[1]]
-    } else {
-      i <- which(x$start == t)
-      if (!length(i)) return("unknown")
-      x$state[i[1]]
-    }
-  }
+  # State of the reference row that ends where the episode starts, and of
+  # the row that starts where it ends (keyed lookups, linear time).
+  before <- refk$state[match(.group_key(sp$record, sp$start),
+                             .group_key(refk$record, refk$end))]
+  after <- refk$state[match(.group_key(sp$record, sp$end),
+                            .group_key(refk$record, refk$start))]
+  before[is.na(before)] <- "unknown"
+  after[is.na(after)] <- "unknown"
   rs <- rec$start[match(sp$record, rec$record)]
   re <- rec$end[match(sp$record, rec$record)]
-  before <- mapply(stat_at, sp$record, sp$start, "before")
-  after <- mapply(stat_at, sp$record, sp$end, "after")
   sp$onset_status <- ifelse(sp$start <= rs, "recording_start",
                             ifelse(before == "nonevent", "observed",
                                    "after_unknown_reference"))

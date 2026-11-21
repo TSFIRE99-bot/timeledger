@@ -1,0 +1,6 @@
+"detector","metric","estimate","lower","upper","B","n_undefined","n_subjects","resampling_unit"
+"CVHR_demo","full_capture",0.711696995992956,0.615611552624016,0.798838581219533,2000,0,70,"record (subject identity not available)"
+"CVHR_demo","answered_sensitivity",0.718370816910117,0.622153014789534,0.806068715650415,2000,0,70,"record (subject identity not available)"
+"CVHR_demo","answer_coverage",0.985641793366256,0.977221770030831,0.992311455820963,2000,0,70,"record (subject identity not available)"
+"CVHR_demo","answered_specificity",0.76618084188321,0.7246383322799,0.803877523083867,2000,0,70,"record (subject identity not available)"
+"CVHR_demo","episode_sensitivity",0.593354430379747,0.544520547945205,0.645811877076412,2000,0,70,"record (subject identity not available)"

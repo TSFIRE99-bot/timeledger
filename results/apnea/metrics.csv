@@ -1,0 +1,1563 @@
+"level","record","detector","metric","estimate","numerator","denominator","unit","excluded_time","undefined_reason"
+"pooled","<pooled>","CVHR_demo","answer_coverage",0.985641793366256,2027820,2057360,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",7880,"input availability not declared"
+"pooled","<pooled>","CVHR_demo","answered_sensitivity",0.718370816910117,557700,776340,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","answered_specificity",0.76618084188321,958860,1251480,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","full_capture",0.711696995992956,557700,783620,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","duration_ppv",0.655870731018911,557700,850320,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","episode_sensitivity",0.593354430379747,375,632,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","false_alarms_per_answered_hour",1.17347693582271,661,2027820,"per hour",7880,NA
+"pooled","<pooled>","CVHR_demo","false_alarms_per_known_hour",1.15662791149823,661,2057360,"per hour",7880,NA
+"pooled","<pooled>","CVHR_demo","unmatched_alarms_per_answered_hour",1.69186614196526,953,2027820,"per hour",7880,NA
+"pooled","<pooled>","CVHR_demo","pred_burden_answered",0.419327159215315,850320,2027820,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","ref_burden_answered",0.382844631180282,776340,2027820,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","ref_burden_full",0.380886184236108,783620,2057360,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","burden_diff_pp",3.64825280350327,73980,2027820,"percentage points",7880,NA
+"pooled","<pooled>","CVHR_demo","burden_bound_lower",0.412891479924851,852720,2065240,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","burden_bound_upper",0.428802463636188,885580,2065240,"proportion",7880,NA
+"pooled","<pooled>","CVHR_demo","burden_error_min",1233,73980,NA,"minutes",7880,NA
+"pooled","<pooled>","CVHR_demo","missed_negative_min",3644,218640,NA,"minutes",7880,NA
+"pooled","<pooled>","CVHR_demo","missed_abstain_min",119,7140,NA,"minutes",7880,NA
+"pooled","<pooled>","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",7880,NA
+"pooled","<pooled>","CVHR_demo","missed_unknown_min",2.33333333333333,140,NA,"minutes",7880,NA
+"pooled","<pooled>","CVHR_demo","unmatched_alarms",953,953,NA,"count",7880,NA
+"record","a01","CVHR_demo","answer_coverage",1,29340,29340,"proportion",230,NA
+"record","a01","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",230,"input availability not declared"
+"record","a01","CVHR_demo","answered_sensitivity",0.982978723404255,27720,28200,"proportion",230,NA
+"record","a01","CVHR_demo","answered_specificity",0.0526315789473684,60,1140,"proportion",230,NA
+"record","a01","CVHR_demo","full_capture",0.982978723404255,27720,28200,"proportion",230,NA
+"record","a01","CVHR_demo","duration_ppv",0.9625,27720,28800,"proportion",230,NA
+"record","a01","CVHR_demo","episode_sensitivity",0.333333333333333,1,3,"proportion",230,NA
+"record","a01","CVHR_demo","false_alarms_per_answered_hour",0.122699386503067,1,29340,"per hour",230,NA
+"record","a01","CVHR_demo","false_alarms_per_known_hour",0.122699386503067,1,29340,"per hour",230,NA
+"record","a01","CVHR_demo","unmatched_alarms_per_answered_hour",0.122699386503067,1,29340,"per hour",230,NA
+"record","a01","CVHR_demo","pred_burden_answered",0.98159509202454,28800,29340,"proportion",230,NA
+"record","a01","CVHR_demo","ref_burden_answered",0.961145194274029,28200,29340,"proportion",230,NA
+"record","a01","CVHR_demo","ref_burden_full",0.961145194274029,28200,29340,"proportion",230,NA
+"record","a01","CVHR_demo","burden_diff_pp",2.04498977505112,600,29340,"percentage points",230,NA
+"record","a01","CVHR_demo","burden_bound_lower",0.980047345282381,28980,29570,"proportion",230,NA
+"record","a01","CVHR_demo","burden_bound_upper",0.981738248224552,29030,29570,"proportion",230,NA
+"record","a01","CVHR_demo","burden_error_min",10,600,NA,"minutes",230,NA
+"record","a01","CVHR_demo","missed_negative_min",8,480,NA,"minutes",230,NA
+"record","a01","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",230,NA
+"record","a01","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",230,NA
+"record","a01","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",230,NA
+"record","a01","CVHR_demo","unmatched_alarms",1,1,NA,"count",230,NA
+"record","a02","CVHR_demo","answer_coverage",0.929924242424242,29460,31680,"proportion",140,NA
+"record","a02","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",140,"input availability not declared"
+"record","a02","CVHR_demo","answered_sensitivity",0.929503916449086,21360,22980,"proportion",140,NA
+"record","a02","CVHR_demo","answered_specificity",0.657407407407407,4260,6480,"proportion",140,NA
+"record","a02","CVHR_demo","full_capture",0.847619047619048,21360,25200,"proportion",140,NA
+"record","a02","CVHR_demo","duration_ppv",0.905852417302799,21360,23580,"proportion",140,NA
+"record","a02","CVHR_demo","episode_sensitivity",0.909090909090909,10,11,"proportion",140,NA
+"record","a02","CVHR_demo","false_alarms_per_answered_hour",0.244399185336049,2,29460,"per hour",140,NA
+"record","a02","CVHR_demo","false_alarms_per_known_hour",0.227272727272727,2,31680,"per hour",140,NA
+"record","a02","CVHR_demo","unmatched_alarms_per_answered_hour",1.22199592668024,10,29460,"per hour",140,NA
+"record","a02","CVHR_demo","pred_burden_answered",0.80040733197556,23580,29460,"proportion",140,NA
+"record","a02","CVHR_demo","ref_burden_answered",0.780040733197556,22980,29460,"proportion",140,NA
+"record","a02","CVHR_demo","ref_burden_full",0.795454545454545,25200,31680,"proportion",140,NA
+"record","a02","CVHR_demo","burden_diff_pp",2.03665987780041,600,29460,"percentage points",140,NA
+"record","a02","CVHR_demo","burden_bound_lower",0.744814582023884,23700,31820,"proportion",140,NA
+"record","a02","CVHR_demo","burden_bound_upper",0.815210559396606,25940,31820,"proportion",140,NA
+"record","a02","CVHR_demo","burden_error_min",10,600,NA,"minutes",140,NA
+"record","a02","CVHR_demo","missed_negative_min",27,1620,NA,"minutes",140,NA
+"record","a02","CVHR_demo","missed_abstain_min",37,2220,NA,"minutes",140,NA
+"record","a02","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",140,NA
+"record","a02","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",140,NA
+"record","a02","CVHR_demo","unmatched_alarms",10,10,NA,"count",140,NA
+"record","a03","CVHR_demo","answer_coverage",1,31140,31140,"proportion",210,NA
+"record","a03","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",210,"input availability not declared"
+"record","a03","CVHR_demo","answered_sensitivity",0.995934959349594,14700,14760,"proportion",210,NA
+"record","a03","CVHR_demo","answered_specificity",0.644688644688645,10560,16380,"proportion",210,NA
+"record","a03","CVHR_demo","full_capture",0.995934959349594,14700,14760,"proportion",210,NA
+"record","a03","CVHR_demo","duration_ppv",0.716374269005848,14700,20520,"proportion",210,NA
+"record","a03","CVHR_demo","episode_sensitivity",1,11,11,"proportion",210,NA
+"record","a03","CVHR_demo","false_alarms_per_answered_hour",0.346820809248555,3,31140,"per hour",210,NA
+"record","a03","CVHR_demo","false_alarms_per_known_hour",0.346820809248555,3,31140,"per hour",210,NA
+"record","a03","CVHR_demo","unmatched_alarms_per_answered_hour",0.346820809248555,3,31140,"per hour",210,NA
+"record","a03","CVHR_demo","pred_burden_answered",0.658959537572254,20520,31140,"proportion",210,NA
+"record","a03","CVHR_demo","ref_burden_answered",0.473988439306358,14760,31140,"proportion",210,NA
+"record","a03","CVHR_demo","ref_burden_full",0.473988439306358,14760,31140,"proportion",210,NA
+"record","a03","CVHR_demo","burden_diff_pp",18.4971098265896,5760,31140,"percentage points",210,NA
+"record","a03","CVHR_demo","burden_bound_lower",0.660287081339713,20700,31350,"proportion",210,NA
+"record","a03","CVHR_demo","burden_bound_upper",0.661244019138756,20730,31350,"proportion",210,NA
+"record","a03","CVHR_demo","burden_error_min",96,5760,NA,"minutes",210,NA
+"record","a03","CVHR_demo","missed_negative_min",1,60,NA,"minutes",210,NA
+"record","a03","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",210,NA
+"record","a03","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",210,NA
+"record","a03","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",210,NA
+"record","a03","CVHR_demo","unmatched_alarms",3,3,NA,"count",210,NA
+"record","a04","CVHR_demo","answer_coverage",1,29520,29520,"proportion",280,NA
+"record","a04","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",280,"input availability not declared"
+"record","a04","CVHR_demo","answered_sensitivity",0.920529801324503,25020,27180,"proportion",280,NA
+"record","a04","CVHR_demo","answered_specificity",0.871794871794872,2040,2340,"proportion",280,NA
+"record","a04","CVHR_demo","full_capture",0.920529801324503,25020,27180,"proportion",280,NA
+"record","a04","CVHR_demo","duration_ppv",0.988151658767773,25020,25320,"proportion",280,NA
+"record","a04","CVHR_demo","episode_sensitivity",1,3,3,"proportion",280,NA
+"record","a04","CVHR_demo","false_alarms_per_answered_hour",0.121951219512195,1,29520,"per hour",280,NA
+"record","a04","CVHR_demo","false_alarms_per_known_hour",0.121951219512195,1,29520,"per hour",280,NA
+"record","a04","CVHR_demo","unmatched_alarms_per_answered_hour",1.34146341463415,11,29520,"per hour",280,NA
+"record","a04","CVHR_demo","pred_burden_answered",0.857723577235772,25320,29520,"proportion",280,NA
+"record","a04","CVHR_demo","ref_burden_answered",0.920731707317073,27180,29520,"proportion",280,NA
+"record","a04","CVHR_demo","ref_burden_full",0.920731707317073,27180,29520,"proportion",280,NA
+"record","a04","CVHR_demo","burden_diff_pp",-6.30081300813008,-1860,29520,"percentage points",280,NA
+"record","a04","CVHR_demo","burden_bound_lower",0.851677852348993,25380,29800,"proportion",280,NA
+"record","a04","CVHR_demo","burden_bound_upper",0.853020134228188,25420,29800,"proportion",280,NA
+"record","a04","CVHR_demo","burden_error_min",-31,-1860,NA,"minutes",280,NA
+"record","a04","CVHR_demo","missed_negative_min",36,2160,NA,"minutes",280,NA
+"record","a04","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",280,NA
+"record","a04","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",280,NA
+"record","a04","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",280,NA
+"record","a04","CVHR_demo","unmatched_alarms",11,11,NA,"count",280,NA
+"record","a05","CVHR_demo","answer_coverage",0.999448428019857,27180,27195,"proportion",0,NA
+"record","a05","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a05","CVHR_demo","answered_sensitivity",0.471014492753623,7800,16560,"proportion",0,NA
+"record","a05","CVHR_demo","answered_specificity",0.807909604519774,8580,10620,"proportion",0,NA
+"record","a05","CVHR_demo","full_capture",0.471014492753623,7800,16560,"proportion",0,NA
+"record","a05","CVHR_demo","duration_ppv",0.792682926829268,7800,9840,"proportion",0,NA
+"record","a05","CVHR_demo","episode_sensitivity",0.733333333333333,11,15,"proportion",0,NA
+"record","a05","CVHR_demo","false_alarms_per_answered_hour",0.397350993377483,3,27180,"per hour",0,NA
+"record","a05","CVHR_demo","false_alarms_per_known_hour",0.397131825703254,3,27195,"per hour",0,NA
+"record","a05","CVHR_demo","unmatched_alarms_per_answered_hour",2.3841059602649,18,27180,"per hour",0,NA
+"record","a05","CVHR_demo","pred_burden_answered",0.362030905077263,9840,27180,"proportion",0,NA
+"record","a05","CVHR_demo","ref_burden_answered",0.609271523178808,16560,27180,"proportion",0,NA
+"record","a05","CVHR_demo","ref_burden_full",0.608935466078323,16560,27195,"proportion",0,NA
+"record","a05","CVHR_demo","burden_diff_pp",-24.7240618101545,-6720,27180,"percentage points",0,NA
+"record","a05","CVHR_demo","burden_bound_lower",0.361831218974076,9840,27195,"proportion",0,NA
+"record","a05","CVHR_demo","burden_bound_upper",0.36238279095422,9855,27195,"proportion",0,NA
+"record","a05","CVHR_demo","burden_error_min",-112,-6720,NA,"minutes",0,NA
+"record","a05","CVHR_demo","missed_negative_min",146,8760,NA,"minutes",0,NA
+"record","a05","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a05","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a05","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","a05","CVHR_demo","unmatched_alarms",18,18,NA,"count",0,NA
+"record","a06","CVHR_demo","answer_coverage",0.835840418574232,25560,30580,"proportion",0,NA
+"record","a06","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a06","CVHR_demo","answered_sensitivity",0.540229885057471,5640,10440,"proportion",0,NA
+"record","a06","CVHR_demo","answered_specificity",0.658730158730159,9960,15120,"proportion",0,NA
+"record","a06","CVHR_demo","full_capture",0.456310679611651,5640,12360,"proportion",0,NA
+"record","a06","CVHR_demo","duration_ppv",0.522222222222222,5640,10800,"proportion",0,NA
+"record","a06","CVHR_demo","episode_sensitivity",0.9,9,10,"proportion",0,NA
+"record","a06","CVHR_demo","false_alarms_per_answered_hour",0.845070422535211,6,25560,"per hour",0,NA
+"record","a06","CVHR_demo","false_alarms_per_known_hour",0.706344015696534,6,30580,"per hour",0,NA
+"record","a06","CVHR_demo","unmatched_alarms_per_answered_hour",2.11267605633803,15,25560,"per hour",0,NA
+"record","a06","CVHR_demo","pred_burden_answered",0.422535211267606,10800,25560,"proportion",0,NA
+"record","a06","CVHR_demo","ref_burden_answered",0.408450704225352,10440,25560,"proportion",0,NA
+"record","a06","CVHR_demo","ref_burden_full",0.404185742315239,12360,30580,"proportion",0,NA
+"record","a06","CVHR_demo","burden_diff_pp",1.40845070422535,360,25560,"percentage points",0,NA
+"record","a06","CVHR_demo","burden_bound_lower",0.353172007848267,10800,30580,"proportion",0,NA
+"record","a06","CVHR_demo","burden_bound_upper",0.517331589274035,15820,30580,"proportion",0,NA
+"record","a06","CVHR_demo","burden_error_min",6,360,NA,"minutes",0,NA
+"record","a06","CVHR_demo","missed_negative_min",80,4800,NA,"minutes",0,NA
+"record","a06","CVHR_demo","missed_abstain_min",32,1920,NA,"minutes",0,NA
+"record","a06","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a06","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","a06","CVHR_demo","unmatched_alarms",15,15,NA,"count",0,NA
+"record","a07","CVHR_demo","answer_coverage",0.99983662800196,30600,30605,"proportion",0,NA
+"record","a07","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a07","CVHR_demo","answered_sensitivity",0.825545171339564,15900,19260,"proportion",0,NA
+"record","a07","CVHR_demo","answered_specificity",0.333333333333333,3780,11340,"proportion",0,NA
+"record","a07","CVHR_demo","full_capture",0.825330910978458,15900,19265,"proportion",0,NA
+"record","a07","CVHR_demo","duration_ppv",0.677749360613811,15900,23460,"proportion",0,NA
+"record","a07","CVHR_demo","episode_sensitivity",0.478260869565217,11,23,"proportion",0,NA
+"record","a07","CVHR_demo","false_alarms_per_answered_hour",0.352941176470588,3,30600,"per hour",0,NA
+"record","a07","CVHR_demo","false_alarms_per_known_hour",0.352883515765398,3,30605,"per hour",0,NA
+"record","a07","CVHR_demo","unmatched_alarms_per_answered_hour",1.05882352941176,9,30600,"per hour",0,NA
+"record","a07","CVHR_demo","pred_burden_answered",0.766666666666667,23460,30600,"proportion",0,NA
+"record","a07","CVHR_demo","ref_burden_answered",0.629411764705882,19260,30600,"proportion",0,NA
+"record","a07","CVHR_demo","ref_burden_full",0.629472308446332,19265,30605,"proportion",0,NA
+"record","a07","CVHR_demo","burden_diff_pp",13.7254901960784,4200,30600,"percentage points",0,NA
+"record","a07","CVHR_demo","burden_bound_lower",0.766541414801503,23460,30605,"proportion",0,NA
+"record","a07","CVHR_demo","burden_bound_upper",0.766704786799543,23465,30605,"proportion",0,NA
+"record","a07","CVHR_demo","burden_error_min",70,4200,NA,"minutes",0,NA
+"record","a07","CVHR_demo","missed_negative_min",56,3360,NA,"minutes",0,NA
+"record","a07","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a07","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a07","CVHR_demo","missed_unknown_min",0.0833333333333333,5,NA,"minutes",0,NA
+"record","a07","CVHR_demo","unmatched_alarms",9,9,NA,"count",0,NA
+"record","a08","CVHR_demo","answer_coverage",0.999167360532889,30000,30025,"proportion",0,NA
+"record","a08","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a08","CVHR_demo","answered_sensitivity",0.883597883597884,10020,11340,"proportion",0,NA
+"record","a08","CVHR_demo","answered_specificity",0.768488745980707,14340,18660,"proportion",0,NA
+"record","a08","CVHR_demo","full_capture",0.883597883597884,10020,11340,"proportion",0,NA
+"record","a08","CVHR_demo","duration_ppv",0.698744769874477,10020,14340,"proportion",0,NA
+"record","a08","CVHR_demo","episode_sensitivity",0.40625,13,32,"proportion",0,NA
+"record","a08","CVHR_demo","false_alarms_per_answered_hour",0.84,7,30000,"per hour",0,NA
+"record","a08","CVHR_demo","false_alarms_per_known_hour",0.839300582847627,7,30025,"per hour",0,NA
+"record","a08","CVHR_demo","unmatched_alarms_per_answered_hour",1.08,9,30000,"per hour",0,NA
+"record","a08","CVHR_demo","pred_burden_answered",0.478,14340,30000,"proportion",0,NA
+"record","a08","CVHR_demo","ref_burden_answered",0.378,11340,30000,"proportion",0,NA
+"record","a08","CVHR_demo","ref_burden_full",0.377685262281432,11340,30025,"proportion",0,NA
+"record","a08","CVHR_demo","burden_diff_pp",10,3000,30000,"percentage points",0,NA
+"record","a08","CVHR_demo","burden_bound_lower",0.477601998334721,14340,30025,"proportion",0,NA
+"record","a08","CVHR_demo","burden_bound_upper",0.478434637801832,14365,30025,"proportion",0,NA
+"record","a08","CVHR_demo","burden_error_min",50,3000,NA,"minutes",0,NA
+"record","a08","CVHR_demo","missed_negative_min",22,1320,NA,"minutes",0,NA
+"record","a08","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a08","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a08","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","a08","CVHR_demo","unmatched_alarms",9,9,NA,"count",0,NA
+"record","a09","CVHR_demo","answer_coverage",1,29700,29700,"proportion",180,NA
+"record","a09","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",180,"input availability not declared"
+"record","a09","CVHR_demo","answered_sensitivity",0.144356955380577,3300,22860,"proportion",180,NA
+"record","a09","CVHR_demo","answered_specificity",1,6840,6840,"proportion",180,NA
+"record","a09","CVHR_demo","full_capture",0.144356955380577,3300,22860,"proportion",180,NA
+"record","a09","CVHR_demo","duration_ppv",1,3300,3300,"proportion",180,NA
+"record","a09","CVHR_demo","episode_sensitivity",0.357142857142857,5,14,"proportion",180,NA
+"record","a09","CVHR_demo","false_alarms_per_answered_hour",0,0,29700,"per hour",180,NA
+"record","a09","CVHR_demo","false_alarms_per_known_hour",0,0,29700,"per hour",180,NA
+"record","a09","CVHR_demo","unmatched_alarms_per_answered_hour",0.96969696969697,8,29700,"per hour",180,NA
+"record","a09","CVHR_demo","pred_burden_answered",0.111111111111111,3300,29700,"proportion",180,NA
+"record","a09","CVHR_demo","ref_burden_answered",0.76969696969697,22860,29700,"proportion",180,NA
+"record","a09","CVHR_demo","ref_burden_full",0.76969696969697,22860,29700,"proportion",180,NA
+"record","a09","CVHR_demo","burden_diff_pp",-65.8585858585859,-19560,29700,"percentage points",180,NA
+"record","a09","CVHR_demo","burden_bound_lower",0.110441767068273,3300,29880,"proportion",180,NA
+"record","a09","CVHR_demo","burden_bound_upper",0.110441767068273,3300,29880,"proportion",180,NA
+"record","a09","CVHR_demo","burden_error_min",-326,-19560,NA,"minutes",180,NA
+"record","a09","CVHR_demo","missed_negative_min",326,19560,NA,"minutes",180,NA
+"record","a09","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",180,NA
+"record","a09","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",180,NA
+"record","a09","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",180,NA
+"record","a09","CVHR_demo","unmatched_alarms",8,8,NA,"count",180,NA
+"record","a10","CVHR_demo","answer_coverage",0.998226664517169,30960,31015,"proportion",0,NA
+"record","a10","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a10","CVHR_demo","answered_sensitivity",0.393939393939394,2340,5940,"proportion",0,NA
+"record","a10","CVHR_demo","answered_specificity",0.906474820143885,22680,25020,"proportion",0,NA
+"record","a10","CVHR_demo","full_capture",0.390325271059216,2340,5995,"proportion",0,NA
+"record","a10","CVHR_demo","duration_ppv",0.5,2340,4680,"proportion",0,NA
+"record","a10","CVHR_demo","episode_sensitivity",0.5,9,18,"proportion",0,NA
+"record","a10","CVHR_demo","false_alarms_per_answered_hour",0.930232558139535,8,30960,"per hour",0,NA
+"record","a10","CVHR_demo","false_alarms_per_known_hour",0.928582943736902,8,31015,"per hour",0,NA
+"record","a10","CVHR_demo","unmatched_alarms_per_answered_hour",1.16279069767442,10,30960,"per hour",0,NA
+"record","a10","CVHR_demo","pred_burden_answered",0.151162790697674,4680,30960,"proportion",0,NA
+"record","a10","CVHR_demo","ref_burden_answered",0.191860465116279,5940,30960,"proportion",0,NA
+"record","a10","CVHR_demo","ref_burden_full",0.193293567628567,5995,31015,"proportion",0,NA
+"record","a10","CVHR_demo","burden_diff_pp",-4.06976744186047,-1260,30960,"percentage points",0,NA
+"record","a10","CVHR_demo","burden_bound_lower",0.150894728357246,4680,31015,"proportion",0,NA
+"record","a10","CVHR_demo","burden_bound_upper",0.152668063840077,4735,31015,"proportion",0,NA
+"record","a10","CVHR_demo","burden_error_min",-21,-1260,NA,"minutes",0,NA
+"record","a10","CVHR_demo","missed_negative_min",60,3600,NA,"minutes",0,NA
+"record","a10","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a10","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a10","CVHR_demo","missed_unknown_min",0.916666666666667,55,NA,"minutes",0,NA
+"record","a10","CVHR_demo","unmatched_alarms",10,10,NA,"count",0,NA
+"record","a11","CVHR_demo","answer_coverage",1,27960,27960,"proportion",120,NA
+"record","a11","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",120,"input availability not declared"
+"record","a11","CVHR_demo","answered_sensitivity",0.126126126126126,1680,13320,"proportion",120,NA
+"record","a11","CVHR_demo","answered_specificity",0.963114754098361,14100,14640,"proportion",120,NA
+"record","a11","CVHR_demo","full_capture",0.126126126126126,1680,13320,"proportion",120,NA
+"record","a11","CVHR_demo","duration_ppv",0.756756756756757,1680,2220,"proportion",120,NA
+"record","a11","CVHR_demo","episode_sensitivity",0.857142857142857,6,7,"proportion",120,NA
+"record","a11","CVHR_demo","false_alarms_per_answered_hour",0.257510729613734,2,27960,"per hour",120,NA
+"record","a11","CVHR_demo","false_alarms_per_known_hour",0.257510729613734,2,27960,"per hour",120,NA
+"record","a11","CVHR_demo","unmatched_alarms_per_answered_hour",1.03004291845494,8,27960,"per hour",120,NA
+"record","a11","CVHR_demo","pred_burden_answered",0.0793991416309013,2220,27960,"proportion",120,NA
+"record","a11","CVHR_demo","ref_burden_answered",0.476394849785408,13320,27960,"proportion",120,NA
+"record","a11","CVHR_demo","ref_burden_full",0.476394849785408,13320,27960,"proportion",120,NA
+"record","a11","CVHR_demo","burden_diff_pp",-39.6995708154506,-11100,27960,"percentage points",120,NA
+"record","a11","CVHR_demo","burden_bound_lower",0.0833333333333333,2340,28080,"proportion",120,NA
+"record","a11","CVHR_demo","burden_bound_upper",0.0833333333333333,2340,28080,"proportion",120,NA
+"record","a11","CVHR_demo","burden_error_min",-185,-11100,NA,"minutes",120,NA
+"record","a11","CVHR_demo","missed_negative_min",194,11640,NA,"minutes",120,NA
+"record","a11","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",120,NA
+"record","a11","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",120,NA
+"record","a11","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",120,NA
+"record","a11","CVHR_demo","unmatched_alarms",8,8,NA,"count",120,NA
+"record","a12","CVHR_demo","answer_coverage",1,34620,34620,"proportion",0,NA
+"record","a12","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a12","CVHR_demo","answered_sensitivity",0.859550561797753,27540,32040,"proportion",0,NA
+"record","a12","CVHR_demo","answered_specificity",0.604651162790698,1560,2580,"proportion",0,NA
+"record","a12","CVHR_demo","full_capture",0.859550561797753,27540,32040,"proportion",0,NA
+"record","a12","CVHR_demo","duration_ppv",0.964285714285714,27540,28560,"proportion",0,NA
+"record","a12","CVHR_demo","episode_sensitivity",0.857142857142857,6,7,"proportion",0,NA
+"record","a12","CVHR_demo","false_alarms_per_answered_hour",0.103986135181976,1,34620,"per hour",0,NA
+"record","a12","CVHR_demo","false_alarms_per_known_hour",0.103986135181976,1,34620,"per hour",0,NA
+"record","a12","CVHR_demo","unmatched_alarms_per_answered_hour",2.18370883882149,21,34620,"per hour",0,NA
+"record","a12","CVHR_demo","pred_burden_answered",0.824956672443674,28560,34620,"proportion",0,NA
+"record","a12","CVHR_demo","ref_burden_answered",0.925476603119584,32040,34620,"proportion",0,NA
+"record","a12","CVHR_demo","ref_burden_full",0.925476603119584,32040,34620,"proportion",0,NA
+"record","a12","CVHR_demo","burden_diff_pp",-10.051993067591,-3480,34620,"percentage points",0,NA
+"record","a12","CVHR_demo","burden_bound_lower",0.824956672443674,28560,34620,"proportion",0,NA
+"record","a12","CVHR_demo","burden_bound_upper",0.824956672443674,28560,34620,"proportion",0,NA
+"record","a12","CVHR_demo","burden_error_min",-58,-3480,NA,"minutes",0,NA
+"record","a12","CVHR_demo","missed_negative_min",75,4500,NA,"minutes",0,NA
+"record","a12","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a12","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a12","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","a12","CVHR_demo","unmatched_alarms",21,21,NA,"count",0,NA
+"record","a13","CVHR_demo","answer_coverage",0.999494183105716,29640,29655,"proportion",0,NA
+"record","a13","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a13","CVHR_demo","answered_sensitivity",0.938271604938272,13680,14580,"proportion",0,NA
+"record","a13","CVHR_demo","answered_specificity",0.589641434262948,8880,15060,"proportion",0,NA
+"record","a13","CVHR_demo","full_capture",0.937307297019527,13680,14595,"proportion",0,NA
+"record","a13","CVHR_demo","duration_ppv",0.688821752265861,13680,19860,"proportion",0,NA
+"record","a13","CVHR_demo","episode_sensitivity",0.6,12,20,"proportion",0,NA
+"record","a13","CVHR_demo","false_alarms_per_answered_hour",0.607287449392713,5,29640,"per hour",0,NA
+"record","a13","CVHR_demo","false_alarms_per_known_hour",0.606980273141123,5,29655,"per hour",0,NA
+"record","a13","CVHR_demo","unmatched_alarms_per_answered_hour",0.728744939271255,6,29640,"per hour",0,NA
+"record","a13","CVHR_demo","pred_burden_answered",0.67004048582996,19860,29640,"proportion",0,NA
+"record","a13","CVHR_demo","ref_burden_answered",0.491902834008097,14580,29640,"proportion",0,NA
+"record","a13","CVHR_demo","ref_burden_full",0.492159838138594,14595,29655,"proportion",0,NA
+"record","a13","CVHR_demo","burden_diff_pp",17.8137651821862,5280,29640,"percentage points",0,NA
+"record","a13","CVHR_demo","burden_bound_lower",0.669701568032372,19860,29655,"proportion",0,NA
+"record","a13","CVHR_demo","burden_bound_upper",0.670207384926657,19875,29655,"proportion",0,NA
+"record","a13","CVHR_demo","burden_error_min",88,5280,NA,"minutes",0,NA
+"record","a13","CVHR_demo","missed_negative_min",15,900,NA,"minutes",0,NA
+"record","a13","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a13","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a13","CVHR_demo","missed_unknown_min",0.25,15,NA,"minutes",0,NA
+"record","a13","CVHR_demo","unmatched_alarms",6,6,NA,"count",0,NA
+"record","a14","CVHR_demo","answer_coverage",1,30540,30540,"proportion",810,NA
+"record","a14","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",810,"input availability not declared"
+"record","a14","CVHR_demo","answered_sensitivity",0.801566579634465,18420,22980,"proportion",810,NA
+"record","a14","CVHR_demo","answered_specificity",0.484126984126984,3660,7560,"proportion",810,NA
+"record","a14","CVHR_demo","full_capture",0.801566579634465,18420,22980,"proportion",810,NA
+"record","a14","CVHR_demo","duration_ppv",0.825268817204301,18420,22320,"proportion",810,NA
+"record","a14","CVHR_demo","episode_sensitivity",0.875,7,8,"proportion",810,NA
+"record","a14","CVHR_demo","false_alarms_per_answered_hour",0.707269155206287,6,30540,"per hour",810,NA
+"record","a14","CVHR_demo","false_alarms_per_known_hour",0.707269155206287,6,30540,"per hour",810,NA
+"record","a14","CVHR_demo","unmatched_alarms_per_answered_hour",1.17878192534381,10,30540,"per hour",810,NA
+"record","a14","CVHR_demo","pred_burden_answered",0.730844793713163,22320,30540,"proportion",810,NA
+"record","a14","CVHR_demo","ref_burden_answered",0.7524557956778,22980,30540,"proportion",810,NA
+"record","a14","CVHR_demo","ref_burden_full",0.7524557956778,22980,30540,"proportion",810,NA
+"record","a14","CVHR_demo","burden_diff_pp",-2.16110019646365,-660,30540,"percentage points",810,NA
+"record","a14","CVHR_demo","burden_bound_lower",0.734928229665072,23040,31350,"proportion",810,NA
+"record","a14","CVHR_demo","burden_bound_upper",0.735885167464115,23070,31350,"proportion",810,NA
+"record","a14","CVHR_demo","burden_error_min",-11,-660,NA,"minutes",810,NA
+"record","a14","CVHR_demo","missed_negative_min",76,4560,NA,"minutes",810,NA
+"record","a14","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",810,NA
+"record","a14","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",810,NA
+"record","a14","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",810,NA
+"record","a14","CVHR_demo","unmatched_alarms",10,10,NA,"count",810,NA
+"record","a15","CVHR_demo","answer_coverage",0.99934554973822,30540,30560,"proportion",0,NA
+"record","a15","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a15","CVHR_demo","answered_sensitivity",0.809782608695652,17880,22080,"proportion",0,NA
+"record","a15","CVHR_demo","answered_specificity",0.75177304964539,6360,8460,"proportion",0,NA
+"record","a15","CVHR_demo","full_capture",0.809782608695652,17880,22080,"proportion",0,NA
+"record","a15","CVHR_demo","duration_ppv",0.894894894894895,17880,19980,"proportion",0,NA
+"record","a15","CVHR_demo","episode_sensitivity",0.6875,11,16,"proportion",0,NA
+"record","a15","CVHR_demo","false_alarms_per_answered_hour",0.353634577603143,3,30540,"per hour",0,NA
+"record","a15","CVHR_demo","false_alarms_per_known_hour",0.353403141361257,3,30560,"per hour",0,NA
+"record","a15","CVHR_demo","unmatched_alarms_per_answered_hour",1.29666011787819,11,30540,"per hour",0,NA
+"record","a15","CVHR_demo","pred_burden_answered",0.654223968565815,19980,30540,"proportion",0,NA
+"record","a15","CVHR_demo","ref_burden_answered",0.722986247544204,22080,30540,"proportion",0,NA
+"record","a15","CVHR_demo","ref_burden_full",0.722513089005236,22080,30560,"proportion",0,NA
+"record","a15","CVHR_demo","burden_diff_pp",-6.8762278978389,-2100,30540,"percentage points",0,NA
+"record","a15","CVHR_demo","burden_bound_lower",0.653795811518325,19980,30560,"proportion",0,NA
+"record","a15","CVHR_demo","burden_bound_upper",0.654450261780105,20000,30560,"proportion",0,NA
+"record","a15","CVHR_demo","burden_error_min",-35,-2100,NA,"minutes",0,NA
+"record","a15","CVHR_demo","missed_negative_min",70,4200,NA,"minutes",0,NA
+"record","a15","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a15","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a15","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","a15","CVHR_demo","unmatched_alarms",11,11,NA,"count",0,NA
+"record","a16","CVHR_demo","answer_coverage",0.999307479224377,28860,28880,"proportion",0,NA
+"record","a16","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a16","CVHR_demo","answered_sensitivity",0.840625,16140,19200,"proportion",0,NA
+"record","a16","CVHR_demo","answered_specificity",0.428571428571429,4140,9660,"proportion",0,NA
+"record","a16","CVHR_demo","full_capture",0.840625,16140,19200,"proportion",0,NA
+"record","a16","CVHR_demo","duration_ppv",0.745152354570637,16140,21660,"proportion",0,NA
+"record","a16","CVHR_demo","episode_sensitivity",0.692307692307692,9,13,"proportion",0,NA
+"record","a16","CVHR_demo","false_alarms_per_answered_hour",0.997920997920998,8,28860,"per hour",0,NA
+"record","a16","CVHR_demo","false_alarms_per_known_hour",0.997229916897507,8,28880,"per hour",0,NA
+"record","a16","CVHR_demo","unmatched_alarms_per_answered_hour",1.87110187110187,15,28860,"per hour",0,NA
+"record","a16","CVHR_demo","pred_burden_answered",0.750519750519751,21660,28860,"proportion",0,NA
+"record","a16","CVHR_demo","ref_burden_answered",0.665280665280665,19200,28860,"proportion",0,NA
+"record","a16","CVHR_demo","ref_burden_full",0.664819944598338,19200,28880,"proportion",0,NA
+"record","a16","CVHR_demo","burden_diff_pp",8.52390852390852,2460,28860,"percentage points",0,NA
+"record","a16","CVHR_demo","burden_bound_lower",0.75,21660,28880,"proportion",0,NA
+"record","a16","CVHR_demo","burden_bound_upper",0.750692520775623,21680,28880,"proportion",0,NA
+"record","a16","CVHR_demo","burden_error_min",41,2460,NA,"minutes",0,NA
+"record","a16","CVHR_demo","missed_negative_min",51,3060,NA,"minutes",0,NA
+"record","a16","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a16","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a16","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","a16","CVHR_demo","unmatched_alarms",15,15,NA,"count",0,NA
+"record","a17","CVHR_demo","answer_coverage",0.999827853331038,29040,29045,"proportion",0,NA
+"record","a17","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a17","CVHR_demo","answered_sensitivity",0.841772151898734,7980,9480,"proportion",0,NA
+"record","a17","CVHR_demo","answered_specificity",0.871165644171779,17040,19560,"proportion",0,NA
+"record","a17","CVHR_demo","full_capture",0.841772151898734,7980,9480,"proportion",0,NA
+"record","a17","CVHR_demo","duration_ppv",0.76,7980,10500,"proportion",0,NA
+"record","a17","CVHR_demo","episode_sensitivity",0.714285714285714,10,14,"proportion",0,NA
+"record","a17","CVHR_demo","false_alarms_per_answered_hour",1.11570247933884,9,29040,"per hour",0,NA
+"record","a17","CVHR_demo","false_alarms_per_known_hour",1.11551041487347,9,29045,"per hour",0,NA
+"record","a17","CVHR_demo","unmatched_alarms_per_answered_hour",1.48760330578512,12,29040,"per hour",0,NA
+"record","a17","CVHR_demo","pred_burden_answered",0.361570247933884,10500,29040,"proportion",0,NA
+"record","a17","CVHR_demo","ref_burden_answered",0.326446280991736,9480,29040,"proportion",0,NA
+"record","a17","CVHR_demo","ref_burden_full",0.326390084351868,9480,29045,"proportion",0,NA
+"record","a17","CVHR_demo","burden_diff_pp",3.51239669421488,1020,29040,"percentage points",0,NA
+"record","a17","CVHR_demo","burden_bound_lower",0.361508004820107,10500,29045,"proportion",0,NA
+"record","a17","CVHR_demo","burden_bound_upper",0.361680151489069,10505,29045,"proportion",0,NA
+"record","a17","CVHR_demo","burden_error_min",17,1020,NA,"minutes",0,NA
+"record","a17","CVHR_demo","missed_negative_min",25,1500,NA,"minutes",0,NA
+"record","a17","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a17","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a17","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","a17","CVHR_demo","unmatched_alarms",12,12,NA,"count",0,NA
+"record","a18","CVHR_demo","answer_coverage",1,29340,29340,"proportion",230,NA
+"record","a18","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",230,"input availability not declared"
+"record","a18","CVHR_demo","answered_sensitivity",0.0342465753424658,900,26280,"proportion",230,NA
+"record","a18","CVHR_demo","answered_specificity",0.92156862745098,2820,3060,"proportion",230,NA
+"record","a18","CVHR_demo","full_capture",0.0342465753424658,900,26280,"proportion",230,NA
+"record","a18","CVHR_demo","duration_ppv",0.789473684210526,900,1140,"proportion",230,NA
+"record","a18","CVHR_demo","episode_sensitivity",0.166666666666667,1,6,"proportion",230,NA
+"record","a18","CVHR_demo","false_alarms_per_answered_hour",0.122699386503067,1,29340,"per hour",230,NA
+"record","a18","CVHR_demo","false_alarms_per_known_hour",0.122699386503067,1,29340,"per hour",230,NA
+"record","a18","CVHR_demo","unmatched_alarms_per_answered_hour",0.613496932515337,5,29340,"per hour",230,NA
+"record","a18","CVHR_demo","pred_burden_answered",0.0388548057259714,1140,29340,"proportion",230,NA
+"record","a18","CVHR_demo","ref_burden_answered",0.895705521472393,26280,29340,"proportion",230,NA
+"record","a18","CVHR_demo","ref_burden_full",0.895705521472393,26280,29340,"proportion",230,NA
+"record","a18","CVHR_demo","burden_diff_pp",-85.6850715746421,-25140,29340,"percentage points",230,NA
+"record","a18","CVHR_demo","burden_bound_lower",0.0385525870815015,1140,29570,"proportion",230,NA
+"record","a18","CVHR_demo","burden_bound_upper",0.0402434900236726,1190,29570,"proportion",230,NA
+"record","a18","CVHR_demo","burden_error_min",-419,-25140,NA,"minutes",230,NA
+"record","a18","CVHR_demo","missed_negative_min",423,25380,NA,"minutes",230,NA
+"record","a18","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",230,NA
+"record","a18","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",230,NA
+"record","a18","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",230,NA
+"record","a18","CVHR_demo","unmatched_alarms",5,5,NA,"count",230,NA
+"record","a19","CVHR_demo","answer_coverage",1,30120,30120,"proportion",0,NA
+"record","a19","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a19","CVHR_demo","answered_sensitivity",0.726829268292683,8940,12300,"proportion",0,NA
+"record","a19","CVHR_demo","answered_specificity",0.993265993265993,17700,17820,"proportion",0,NA
+"record","a19","CVHR_demo","full_capture",0.726829268292683,8940,12300,"proportion",0,NA
+"record","a19","CVHR_demo","duration_ppv",0.986754966887417,8940,9060,"proportion",0,NA
+"record","a19","CVHR_demo","episode_sensitivity",0.625,10,16,"proportion",0,NA
+"record","a19","CVHR_demo","false_alarms_per_answered_hour",0.119521912350598,1,30120,"per hour",0,NA
+"record","a19","CVHR_demo","false_alarms_per_known_hour",0.119521912350598,1,30120,"per hour",0,NA
+"record","a19","CVHR_demo","unmatched_alarms_per_answered_hour",0.597609561752988,5,30120,"per hour",0,NA
+"record","a19","CVHR_demo","pred_burden_answered",0.300796812749004,9060,30120,"proportion",0,NA
+"record","a19","CVHR_demo","ref_burden_answered",0.408366533864542,12300,30120,"proportion",0,NA
+"record","a19","CVHR_demo","ref_burden_full",0.408366533864542,12300,30120,"proportion",0,NA
+"record","a19","CVHR_demo","burden_diff_pp",-10.7569721115538,-3240,30120,"percentage points",0,NA
+"record","a19","CVHR_demo","burden_bound_lower",0.300796812749004,9060,30120,"proportion",0,NA
+"record","a19","CVHR_demo","burden_bound_upper",0.300796812749004,9060,30120,"proportion",0,NA
+"record","a19","CVHR_demo","burden_error_min",-54,-3240,NA,"minutes",0,NA
+"record","a19","CVHR_demo","missed_negative_min",56,3360,NA,"minutes",0,NA
+"record","a19","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a19","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a19","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","a19","CVHR_demo","unmatched_alarms",5,5,NA,"count",0,NA
+"record","a20","CVHR_demo","answer_coverage",1,30600,30600,"proportion",0,NA
+"record","a20","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","a20","CVHR_demo","answered_sensitivity",0.177777777777778,3360,18900,"proportion",0,NA
+"record","a20","CVHR_demo","answered_specificity",0.912820512820513,10680,11700,"proportion",0,NA
+"record","a20","CVHR_demo","full_capture",0.177777777777778,3360,18900,"proportion",0,NA
+"record","a20","CVHR_demo","duration_ppv",0.767123287671233,3360,4380,"proportion",0,NA
+"record","a20","CVHR_demo","episode_sensitivity",0.625,10,16,"proportion",0,NA
+"record","a20","CVHR_demo","false_alarms_per_answered_hour",0.352941176470588,3,30600,"per hour",0,NA
+"record","a20","CVHR_demo","false_alarms_per_known_hour",0.352941176470588,3,30600,"per hour",0,NA
+"record","a20","CVHR_demo","unmatched_alarms_per_answered_hour",1.52941176470588,13,30600,"per hour",0,NA
+"record","a20","CVHR_demo","pred_burden_answered",0.143137254901961,4380,30600,"proportion",0,NA
+"record","a20","CVHR_demo","ref_burden_answered",0.617647058823529,18900,30600,"proportion",0,NA
+"record","a20","CVHR_demo","ref_burden_full",0.617647058823529,18900,30600,"proportion",0,NA
+"record","a20","CVHR_demo","burden_diff_pp",-47.4509803921569,-14520,30600,"percentage points",0,NA
+"record","a20","CVHR_demo","burden_bound_lower",0.143137254901961,4380,30600,"proportion",0,NA
+"record","a20","CVHR_demo","burden_bound_upper",0.143137254901961,4380,30600,"proportion",0,NA
+"record","a20","CVHR_demo","burden_error_min",-242,-14520,NA,"minutes",0,NA
+"record","a20","CVHR_demo","missed_negative_min",259,15540,NA,"minutes",0,NA
+"record","a20","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","a20","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","a20","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","a20","CVHR_demo","unmatched_alarms",13,13,NA,"count",0,NA
+"record","b01","CVHR_demo","answer_coverage",0.999657182036339,29160,29170,"proportion",0,NA
+"record","b01","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","b01","CVHR_demo","answered_sensitivity",0.842105263157895,960,1140,"proportion",0,NA
+"record","b01","CVHR_demo","answered_specificity",0.773019271948608,21660,28020,"proportion",0,NA
+"record","b01","CVHR_demo","full_capture",0.842105263157895,960,1140,"proportion",0,NA
+"record","b01","CVHR_demo","duration_ppv",0.131147540983607,960,7320,"proportion",0,NA
+"record","b01","CVHR_demo","episode_sensitivity",0.333333333333333,2,6,"proportion",0,NA
+"record","b01","CVHR_demo","false_alarms_per_answered_hour",2.59259259259259,21,29160,"per hour",0,NA
+"record","b01","CVHR_demo","false_alarms_per_known_hour",2.5917038052794,21,29170,"per hour",0,NA
+"record","b01","CVHR_demo","unmatched_alarms_per_answered_hour",2.59259259259259,21,29160,"per hour",0,NA
+"record","b01","CVHR_demo","pred_burden_answered",0.251028806584362,7320,29160,"proportion",0,NA
+"record","b01","CVHR_demo","ref_burden_answered",0.0390946502057613,1140,29160,"proportion",0,NA
+"record","b01","CVHR_demo","ref_burden_full",0.0390812478573877,1140,29170,"proportion",0,NA
+"record","b01","CVHR_demo","burden_diff_pp",21.1934156378601,6180,29160,"percentage points",0,NA
+"record","b01","CVHR_demo","burden_bound_lower",0.250942749400069,7320,29170,"proportion",0,NA
+"record","b01","CVHR_demo","burden_bound_upper",0.25128556736373,7330,29170,"proportion",0,NA
+"record","b01","CVHR_demo","burden_error_min",103,6180,NA,"minutes",0,NA
+"record","b01","CVHR_demo","missed_negative_min",3,180,NA,"minutes",0,NA
+"record","b01","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","b01","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","b01","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","b01","CVHR_demo","unmatched_alarms",21,21,NA,"count",0,NA
+"record","b02","CVHR_demo","answer_coverage",0.984526112185687,30540,31020,"proportion",685,NA
+"record","b02","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",685,"input availability not declared"
+"record","b02","CVHR_demo","answered_sensitivity",0.870967741935484,4860,5580,"proportion",685,NA
+"record","b02","CVHR_demo","answered_specificity",0.855769230769231,21360,24960,"proportion",685,NA
+"record","b02","CVHR_demo","full_capture",0.870967741935484,4860,5580,"proportion",685,NA
+"record","b02","CVHR_demo","duration_ppv",0.574468085106383,4860,8460,"proportion",685,NA
+"record","b02","CVHR_demo","episode_sensitivity",0.692307692307692,9,13,"proportion",685,NA
+"record","b02","CVHR_demo","false_alarms_per_answered_hour",1.53241650294695,13,30540,"per hour",685,NA
+"record","b02","CVHR_demo","false_alarms_per_known_hour",1.50870406189555,13,31020,"per hour",685,NA
+"record","b02","CVHR_demo","unmatched_alarms_per_answered_hour",1.53241650294695,13,30540,"per hour",685,NA
+"record","b02","CVHR_demo","pred_burden_answered",0.277013752455796,8460,30540,"proportion",685,NA
+"record","b02","CVHR_demo","ref_burden_answered",0.182711198428291,5580,30540,"proportion",685,NA
+"record","b02","CVHR_demo","ref_burden_full",0.179883945841393,5580,31020,"proportion",685,NA
+"record","b02","CVHR_demo","burden_diff_pp",9.43025540275049,2880,30540,"percentage points",685,NA
+"record","b02","CVHR_demo","burden_bound_lower",0.266834884087683,8460,31705,"proportion",685,NA
+"record","b02","CVHR_demo","burden_bound_upper",0.292225201072386,9265,31705,"proportion",685,NA
+"record","b02","CVHR_demo","burden_error_min",48,2880,NA,"minutes",685,NA
+"record","b02","CVHR_demo","missed_negative_min",12,720,NA,"minutes",685,NA
+"record","b02","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",685,NA
+"record","b02","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",685,NA
+"record","b02","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",685,NA
+"record","b02","CVHR_demo","unmatched_alarms",13,13,NA,"count",685,NA
+"record","b03","CVHR_demo","answer_coverage",0.998864926220204,26400,26430,"proportion",0,NA
+"record","b03","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","b03","CVHR_demo","answered_sensitivity",0.931506849315068,4080,4380,"proportion",0,NA
+"record","b03","CVHR_demo","answered_specificity",0.904632152588556,19920,22020,"proportion",0,NA
+"record","b03","CVHR_demo","full_capture",0.931506849315068,4080,4380,"proportion",0,NA
+"record","b03","CVHR_demo","duration_ppv",0.660194174757282,4080,6180,"proportion",0,NA
+"record","b03","CVHR_demo","episode_sensitivity",0.545454545454545,6,11,"proportion",0,NA
+"record","b03","CVHR_demo","false_alarms_per_answered_hour",0.681818181818182,5,26400,"per hour",0,NA
+"record","b03","CVHR_demo","false_alarms_per_known_hour",0.681044267877412,5,26430,"per hour",0,NA
+"record","b03","CVHR_demo","unmatched_alarms_per_answered_hour",0.681818181818182,5,26400,"per hour",0,NA
+"record","b03","CVHR_demo","pred_burden_answered",0.234090909090909,6180,26400,"proportion",0,NA
+"record","b03","CVHR_demo","ref_burden_answered",0.165909090909091,4380,26400,"proportion",0,NA
+"record","b03","CVHR_demo","ref_burden_full",0.16572077185017,4380,26430,"proportion",0,NA
+"record","b03","CVHR_demo","burden_diff_pp",6.81818181818182,1800,26400,"percentage points",0,NA
+"record","b03","CVHR_demo","burden_bound_lower",0.233825198637911,6180,26430,"proportion",0,NA
+"record","b03","CVHR_demo","burden_bound_upper",0.234960272417707,6210,26430,"proportion",0,NA
+"record","b03","CVHR_demo","burden_error_min",30,1800,NA,"minutes",0,NA
+"record","b03","CVHR_demo","missed_negative_min",5,300,NA,"minutes",0,NA
+"record","b03","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","b03","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","b03","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","b03","CVHR_demo","unmatched_alarms",5,5,NA,"count",0,NA
+"record","b04","CVHR_demo","answer_coverage",0.977069568596968,25140,25730,"proportion",0,NA
+"record","b04","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","b04","CVHR_demo","answered_sensitivity",1,600,600,"proportion",0,NA
+"record","b04","CVHR_demo","answered_specificity",0.718826405867971,17640,24540,"proportion",0,NA
+"record","b04","CVHR_demo","full_capture",1,600,600,"proportion",0,NA
+"record","b04","CVHR_demo","duration_ppv",0.08,600,7500,"proportion",0,NA
+"record","b04","CVHR_demo","episode_sensitivity",1,3,3,"proportion",0,NA
+"record","b04","CVHR_demo","false_alarms_per_answered_hour",2.57756563245823,18,25140,"per hour",0,NA
+"record","b04","CVHR_demo","false_alarms_per_known_hour",2.51846094053634,18,25730,"per hour",0,NA
+"record","b04","CVHR_demo","unmatched_alarms_per_answered_hour",2.57756563245823,18,25140,"per hour",0,NA
+"record","b04","CVHR_demo","pred_burden_answered",0.298329355608592,7500,25140,"proportion",0,NA
+"record","b04","CVHR_demo","ref_burden_answered",0.0238663484486874,600,25140,"proportion",0,NA
+"record","b04","CVHR_demo","ref_burden_full",0.0233190827827439,600,25730,"proportion",0,NA
+"record","b04","CVHR_demo","burden_diff_pp",27.4463007159904,6900,25140,"percentage points",0,NA
+"record","b04","CVHR_demo","burden_bound_lower",0.291488534784298,7500,25730,"proportion",0,NA
+"record","b04","CVHR_demo","burden_bound_upper",0.31441896618733,8090,25730,"proportion",0,NA
+"record","b04","CVHR_demo","burden_error_min",115,6900,NA,"minutes",0,NA
+"record","b04","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","b04","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","b04","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","b04","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","b04","CVHR_demo","unmatched_alarms",18,18,NA,"count",0,NA
+"record","b05","CVHR_demo","answer_coverage",0.895315211104685,23220,25935,"proportion",0,NA
+"record","b05","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","b05","CVHR_demo","answered_sensitivity",0.824561403508772,2820,3420,"proportion",0,NA
+"record","b05","CVHR_demo","answered_specificity",0.490909090909091,9720,19800,"proportion",0,NA
+"record","b05","CVHR_demo","full_capture",0.824561403508772,2820,3420,"proportion",0,NA
+"record","b05","CVHR_demo","duration_ppv",0.218604651162791,2820,12900,"proportion",0,NA
+"record","b05","CVHR_demo","episode_sensitivity",0.571428571428571,4,7,"proportion",0,NA
+"record","b05","CVHR_demo","false_alarms_per_answered_hour",2.7906976744186,18,23220,"per hour",0,NA
+"record","b05","CVHR_demo","false_alarms_per_known_hour",2.49855407750145,18,25935,"per hour",0,NA
+"record","b05","CVHR_demo","unmatched_alarms_per_answered_hour",2.94573643410853,19,23220,"per hour",0,NA
+"record","b05","CVHR_demo","pred_burden_answered",0.555555555555556,12900,23220,"proportion",0,NA
+"record","b05","CVHR_demo","ref_burden_answered",0.147286821705426,3420,23220,"proportion",0,NA
+"record","b05","CVHR_demo","ref_burden_full",0.131868131868132,3420,25935,"proportion",0,NA
+"record","b05","CVHR_demo","burden_diff_pp",40.8268733850129,9480,23220,"percentage points",0,NA
+"record","b05","CVHR_demo","burden_bound_lower",0.497397339502603,12900,25935,"proportion",0,NA
+"record","b05","CVHR_demo","burden_bound_upper",0.602082128397918,15615,25935,"proportion",0,NA
+"record","b05","CVHR_demo","burden_error_min",158,9480,NA,"minutes",0,NA
+"record","b05","CVHR_demo","missed_negative_min",10,600,NA,"minutes",0,NA
+"record","b05","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","b05","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","b05","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","b05","CVHR_demo","unmatched_alarms",19,19,NA,"count",0,NA
+"record","c01","CVHR_demo","answer_coverage",0.981027940669196,28440,28990,"proportion",0,NA
+"record","c01","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","c01","CVHR_demo","answered_sensitivity",NA,0,0,"proportion",0,"no event time during answered time"
+"record","c01","CVHR_demo","answered_specificity",0.833333333333333,23700,28440,"proportion",0,NA
+"record","c01","CVHR_demo","full_capture",NA,0,0,"proportion",0,"no reference-known event time"
+"record","c01","CVHR_demo","duration_ppv",0,0,4740,"proportion",0,NA
+"record","c01","CVHR_demo","episode_sensitivity",NA,0,0,"proportion",0,"no eligible episodes"
+"record","c01","CVHR_demo","false_alarms_per_answered_hour",2.91139240506329,23,28440,"per hour",0,NA
+"record","c01","CVHR_demo","false_alarms_per_known_hour",2.85615729561918,23,28990,"per hour",0,NA
+"record","c01","CVHR_demo","unmatched_alarms_per_answered_hour",2.91139240506329,23,28440,"per hour",0,NA
+"record","c01","CVHR_demo","pred_burden_answered",0.166666666666667,4740,28440,"proportion",0,NA
+"record","c01","CVHR_demo","ref_burden_answered",0,0,28440,"proportion",0,NA
+"record","c01","CVHR_demo","ref_burden_full",0,0,28990,"proportion",0,NA
+"record","c01","CVHR_demo","burden_diff_pp",16.6666666666667,4740,28440,"percentage points",0,NA
+"record","c01","CVHR_demo","burden_bound_lower",0.163504656778199,4740,28990,"proportion",0,NA
+"record","c01","CVHR_demo","burden_bound_upper",0.182476716109003,5290,28990,"proportion",0,NA
+"record","c01","CVHR_demo","burden_error_min",79,4740,NA,"minutes",0,NA
+"record","c01","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","c01","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","c01","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","c01","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","c01","CVHR_demo","unmatched_alarms",23,23,NA,"count",0,NA
+"record","c02","CVHR_demo","answer_coverage",0.981709344861989,29520,30070,"proportion",0,NA
+"record","c02","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","c02","CVHR_demo","answered_sensitivity",1,60,60,"proportion",0,NA
+"record","c02","CVHR_demo","answered_specificity",0.887983706720978,26160,29460,"proportion",0,NA
+"record","c02","CVHR_demo","full_capture",1,60,60,"proportion",0,NA
+"record","c02","CVHR_demo","duration_ppv",0.0178571428571429,60,3360,"proportion",0,NA
+"record","c02","CVHR_demo","episode_sensitivity",1,1,1,"proportion",0,NA
+"record","c02","CVHR_demo","false_alarms_per_answered_hour",1.09756097560976,9,29520,"per hour",0,NA
+"record","c02","CVHR_demo","false_alarms_per_known_hour",1.07748586631194,9,30070,"per hour",0,NA
+"record","c02","CVHR_demo","unmatched_alarms_per_answered_hour",1.09756097560976,9,29520,"per hour",0,NA
+"record","c02","CVHR_demo","pred_burden_answered",0.113821138211382,3360,29520,"proportion",0,NA
+"record","c02","CVHR_demo","ref_burden_answered",0.00203252032520325,60,29520,"proportion",0,NA
+"record","c02","CVHR_demo","ref_burden_full",0.00199534419687396,60,30070,"proportion",0,NA
+"record","c02","CVHR_demo","burden_diff_pp",11.1788617886179,3300,29520,"percentage points",0,NA
+"record","c02","CVHR_demo","burden_bound_lower",0.111739275024942,3360,30070,"proportion",0,NA
+"record","c02","CVHR_demo","burden_bound_upper",0.130029930162953,3910,30070,"proportion",0,NA
+"record","c02","CVHR_demo","burden_error_min",55,3300,NA,"minutes",0,NA
+"record","c02","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","c02","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","c02","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","c02","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","c02","CVHR_demo","unmatched_alarms",9,9,NA,"count",0,NA
+"record","c03","CVHR_demo","answer_coverage",0.999264705882353,27180,27200,"proportion",0,NA
+"record","c03","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","c03","CVHR_demo","answered_sensitivity",NA,0,0,"proportion",0,"no event time during answered time"
+"record","c03","CVHR_demo","answered_specificity",0.677704194260486,18420,27180,"proportion",0,NA
+"record","c03","CVHR_demo","full_capture",NA,0,0,"proportion",0,"no reference-known event time"
+"record","c03","CVHR_demo","duration_ppv",0,0,8760,"proportion",0,NA
+"record","c03","CVHR_demo","episode_sensitivity",NA,0,0,"proportion",0,"no eligible episodes"
+"record","c03","CVHR_demo","false_alarms_per_answered_hour",2.64900662251656,20,27180,"per hour",0,NA
+"record","c03","CVHR_demo","false_alarms_per_known_hour",2.64705882352941,20,27200,"per hour",0,NA
+"record","c03","CVHR_demo","unmatched_alarms_per_answered_hour",2.64900662251656,20,27180,"per hour",0,NA
+"record","c03","CVHR_demo","pred_burden_answered",0.322295805739514,8760,27180,"proportion",0,NA
+"record","c03","CVHR_demo","ref_burden_answered",0,0,27180,"proportion",0,NA
+"record","c03","CVHR_demo","ref_burden_full",0,0,27200,"proportion",0,NA
+"record","c03","CVHR_demo","burden_diff_pp",32.2295805739514,8760,27180,"percentage points",0,NA
+"record","c03","CVHR_demo","burden_bound_lower",0.322058823529412,8760,27200,"proportion",0,NA
+"record","c03","CVHR_demo","burden_bound_upper",0.322794117647059,8780,27200,"proportion",0,NA
+"record","c03","CVHR_demo","burden_error_min",146,8760,NA,"minutes",0,NA
+"record","c03","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","c03","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","c03","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","c03","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","c03","CVHR_demo","unmatched_alarms",20,20,NA,"count",0,NA
+"record","c04","CVHR_demo","answer_coverage",0.960166262556287,27720,28870,"proportion",0,NA
+"record","c04","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","c04","CVHR_demo","answered_sensitivity",NA,0,0,"proportion",0,"no event time during answered time"
+"record","c04","CVHR_demo","answered_specificity",0.387445887445887,10740,27720,"proportion",0,NA
+"record","c04","CVHR_demo","full_capture",NA,0,0,"proportion",0,"no reference-known event time"
+"record","c04","CVHR_demo","duration_ppv",0,0,16980,"proportion",0,NA
+"record","c04","CVHR_demo","episode_sensitivity",NA,0,0,"proportion",0,"no eligible episodes"
+"record","c04","CVHR_demo","false_alarms_per_answered_hour",2.85714285714286,22,27720,"per hour",0,NA
+"record","c04","CVHR_demo","false_alarms_per_known_hour",2.74333217873225,22,28870,"per hour",0,NA
+"record","c04","CVHR_demo","unmatched_alarms_per_answered_hour",2.85714285714286,22,27720,"per hour",0,NA
+"record","c04","CVHR_demo","pred_burden_answered",0.612554112554113,16980,27720,"proportion",0,NA
+"record","c04","CVHR_demo","ref_burden_answered",0,0,27720,"proportion",0,NA
+"record","c04","CVHR_demo","ref_burden_full",0,0,28870,"proportion",0,NA
+"record","c04","CVHR_demo","burden_diff_pp",61.2554112554113,16980,27720,"percentage points",0,NA
+"record","c04","CVHR_demo","burden_bound_lower",0.588153792864565,16980,28870,"proportion",0,NA
+"record","c04","CVHR_demo","burden_bound_upper",0.627987530308278,18130,28870,"proportion",0,NA
+"record","c04","CVHR_demo","burden_error_min",283,16980,NA,"minutes",0,NA
+"record","c04","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","c04","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","c04","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","c04","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","c04","CVHR_demo","unmatched_alarms",22,22,NA,"count",0,NA
+"record","c05","CVHR_demo","answer_coverage",0.996777658431794,27840,27930,"proportion",0,NA
+"record","c05","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","c05","CVHR_demo","answered_sensitivity",0.666666666666667,120,180,"proportion",0,NA
+"record","c05","CVHR_demo","answered_specificity",0.971800433839479,26880,27660,"proportion",0,NA
+"record","c05","CVHR_demo","full_capture",0.666666666666667,120,180,"proportion",0,NA
+"record","c05","CVHR_demo","duration_ppv",0.133333333333333,120,900,"proportion",0,NA
+"record","c05","CVHR_demo","episode_sensitivity",0.5,1,2,"proportion",0,NA
+"record","c05","CVHR_demo","false_alarms_per_answered_hour",0.646551724137931,5,27840,"per hour",0,NA
+"record","c05","CVHR_demo","false_alarms_per_known_hour",0.644468313641246,5,27930,"per hour",0,NA
+"record","c05","CVHR_demo","unmatched_alarms_per_answered_hour",0.646551724137931,5,27840,"per hour",0,NA
+"record","c05","CVHR_demo","pred_burden_answered",0.0323275862068966,900,27840,"proportion",0,NA
+"record","c05","CVHR_demo","ref_burden_answered",0.00646551724137931,180,27840,"proportion",0,NA
+"record","c05","CVHR_demo","ref_burden_full",0.00644468313641246,180,27930,"proportion",0,NA
+"record","c05","CVHR_demo","burden_diff_pp",2.58620689655172,720,27840,"percentage points",0,NA
+"record","c05","CVHR_demo","burden_bound_lower",0.0322234156820623,900,27930,"proportion",0,NA
+"record","c05","CVHR_demo","burden_bound_upper",0.0354457572502685,990,27930,"proportion",0,NA
+"record","c05","CVHR_demo","burden_error_min",12,720,NA,"minutes",0,NA
+"record","c05","CVHR_demo","missed_negative_min",1,60,NA,"minutes",0,NA
+"record","c05","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","c05","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","c05","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","c05","CVHR_demo","unmatched_alarms",5,5,NA,"count",0,NA
+"record","c06","CVHR_demo","answer_coverage",0.999286733238231,28020,28040,"proportion",0,NA
+"record","c06","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","c06","CVHR_demo","answered_sensitivity",0,0,60,"proportion",0,NA
+"record","c06","CVHR_demo","answered_specificity",0.959227467811159,26820,27960,"proportion",0,NA
+"record","c06","CVHR_demo","full_capture",0,0,60,"proportion",0,NA
+"record","c06","CVHR_demo","duration_ppv",0,0,1140,"proportion",0,NA
+"record","c06","CVHR_demo","episode_sensitivity",0,0,1,"proportion",0,NA
+"record","c06","CVHR_demo","false_alarms_per_answered_hour",0.770877944325482,6,28020,"per hour",0,NA
+"record","c06","CVHR_demo","false_alarms_per_known_hour",0.770328102710414,6,28040,"per hour",0,NA
+"record","c06","CVHR_demo","unmatched_alarms_per_answered_hour",0.770877944325482,6,28020,"per hour",0,NA
+"record","c06","CVHR_demo","pred_burden_answered",0.0406852248394004,1140,28020,"proportion",0,NA
+"record","c06","CVHR_demo","ref_burden_answered",0.00214132762312634,60,28020,"proportion",0,NA
+"record","c06","CVHR_demo","ref_burden_full",0.0021398002853067,60,28040,"proportion",0,NA
+"record","c06","CVHR_demo","burden_diff_pp",3.85438972162741,1080,28020,"percentage points",0,NA
+"record","c06","CVHR_demo","burden_bound_lower",0.0406562054208274,1140,28040,"proportion",0,NA
+"record","c06","CVHR_demo","burden_bound_upper",0.0413694721825963,1160,28040,"proportion",0,NA
+"record","c06","CVHR_demo","burden_error_min",18,1080,NA,"minutes",0,NA
+"record","c06","CVHR_demo","missed_negative_min",1,60,NA,"minutes",0,NA
+"record","c06","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","c06","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","c06","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","c06","CVHR_demo","unmatched_alarms",6,6,NA,"count",0,NA
+"record","c07","CVHR_demo","answer_coverage",0.999610743479953,25680,25690,"proportion",0,NA
+"record","c07","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","c07","CVHR_demo","answered_sensitivity",0.5,120,240,"proportion",0,NA
+"record","c07","CVHR_demo","answered_specificity",0.799528301886792,20340,25440,"proportion",0,NA
+"record","c07","CVHR_demo","full_capture",0.5,120,240,"proportion",0,NA
+"record","c07","CVHR_demo","duration_ppv",0.0229885057471264,120,5220,"proportion",0,NA
+"record","c07","CVHR_demo","episode_sensitivity",0.5,2,4,"proportion",0,NA
+"record","c07","CVHR_demo","false_alarms_per_answered_hour",2.52336448598131,18,25680,"per hour",0,NA
+"record","c07","CVHR_demo","false_alarms_per_known_hour",2.52238224990269,18,25690,"per hour",0,NA
+"record","c07","CVHR_demo","unmatched_alarms_per_answered_hour",2.52336448598131,18,25680,"per hour",0,NA
+"record","c07","CVHR_demo","pred_burden_answered",0.203271028037383,5220,25680,"proportion",0,NA
+"record","c07","CVHR_demo","ref_burden_answered",0.00934579439252336,240,25680,"proportion",0,NA
+"record","c07","CVHR_demo","ref_burden_full",0.00934215648112106,240,25690,"proportion",0,NA
+"record","c07","CVHR_demo","burden_diff_pp",19.392523364486,4980,25680,"percentage points",0,NA
+"record","c07","CVHR_demo","burden_bound_lower",0.203191903464383,5220,25690,"proportion",0,NA
+"record","c07","CVHR_demo","burden_bound_upper",0.20358115998443,5230,25690,"proportion",0,NA
+"record","c07","CVHR_demo","burden_error_min",83,4980,NA,"minutes",0,NA
+"record","c07","CVHR_demo","missed_negative_min",2,120,NA,"minutes",0,NA
+"record","c07","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","c07","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","c07","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","c07","CVHR_demo","unmatched_alarms",18,18,NA,"count",0,NA
+"record","c08","CVHR_demo","answer_coverage",1,30780,30780,"proportion",60,NA
+"record","c08","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",60,"input availability not declared"
+"record","c08","CVHR_demo","answered_sensitivity",NA,0,0,"proportion",60,"no event time during answered time"
+"record","c08","CVHR_demo","answered_specificity",0.668615984405458,20580,30780,"proportion",60,NA
+"record","c08","CVHR_demo","full_capture",NA,0,0,"proportion",60,"no reference-known event time"
+"record","c08","CVHR_demo","duration_ppv",0,0,10200,"proportion",60,NA
+"record","c08","CVHR_demo","episode_sensitivity",NA,0,0,"proportion",60,"no eligible episodes"
+"record","c08","CVHR_demo","false_alarms_per_answered_hour",3.27485380116959,28,30780,"per hour",60,NA
+"record","c08","CVHR_demo","false_alarms_per_known_hour",3.27485380116959,28,30780,"per hour",60,NA
+"record","c08","CVHR_demo","unmatched_alarms_per_answered_hour",3.27485380116959,28,30780,"per hour",60,NA
+"record","c08","CVHR_demo","pred_burden_answered",0.331384015594542,10200,30780,"proportion",60,NA
+"record","c08","CVHR_demo","ref_burden_answered",0,0,30780,"proportion",60,NA
+"record","c08","CVHR_demo","ref_burden_full",0,0,30780,"proportion",60,NA
+"record","c08","CVHR_demo","burden_diff_pp",33.1384015594542,10200,30780,"percentage points",60,NA
+"record","c08","CVHR_demo","burden_bound_lower",0.332684824902724,10260,30840,"proportion",60,NA
+"record","c08","CVHR_demo","burden_bound_upper",0.332684824902724,10260,30840,"proportion",60,NA
+"record","c08","CVHR_demo","burden_error_min",170,10200,NA,"minutes",60,NA
+"record","c08","CVHR_demo","missed_negative_min",0,0,NA,"minutes",60,NA
+"record","c08","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",60,NA
+"record","c08","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",60,NA
+"record","c08","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",60,NA
+"record","c08","CVHR_demo","unmatched_alarms",28,28,NA,"count",60,NA
+"record","c09","CVHR_demo","answer_coverage",0.973262032085562,27300,28050,"proportion",0,NA
+"record","c09","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","c09","CVHR_demo","answered_sensitivity",1,120,120,"proportion",0,NA
+"record","c09","CVHR_demo","answered_specificity",0.907284768211921,24660,27180,"proportion",0,NA
+"record","c09","CVHR_demo","full_capture",1,120,120,"proportion",0,NA
+"record","c09","CVHR_demo","duration_ppv",0.0454545454545455,120,2640,"proportion",0,NA
+"record","c09","CVHR_demo","episode_sensitivity",0.5,1,2,"proportion",0,NA
+"record","c09","CVHR_demo","false_alarms_per_answered_hour",1.45054945054945,11,27300,"per hour",0,NA
+"record","c09","CVHR_demo","false_alarms_per_known_hour",1.41176470588235,11,28050,"per hour",0,NA
+"record","c09","CVHR_demo","unmatched_alarms_per_answered_hour",1.45054945054945,11,27300,"per hour",0,NA
+"record","c09","CVHR_demo","pred_burden_answered",0.0967032967032967,2640,27300,"proportion",0,NA
+"record","c09","CVHR_demo","ref_burden_answered",0.0043956043956044,120,27300,"proportion",0,NA
+"record","c09","CVHR_demo","ref_burden_full",0.00427807486631016,120,28050,"proportion",0,NA
+"record","c09","CVHR_demo","burden_diff_pp",9.23076923076923,2520,27300,"percentage points",0,NA
+"record","c09","CVHR_demo","burden_bound_lower",0.0941176470588235,2640,28050,"proportion",0,NA
+"record","c09","CVHR_demo","burden_bound_upper",0.120855614973262,3390,28050,"proportion",0,NA
+"record","c09","CVHR_demo","burden_error_min",42,2520,NA,"minutes",0,NA
+"record","c09","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","c09","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","c09","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","c09","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","c09","CVHR_demo","unmatched_alarms",11,11,NA,"count",0,NA
+"record","c10","CVHR_demo","answer_coverage",0.972533849129594,25140,25850,"proportion",0,NA
+"record","c10","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","c10","CVHR_demo","answered_sensitivity",0,0,60,"proportion",0,NA
+"record","c10","CVHR_demo","answered_specificity",0.815789473684211,20460,25080,"proportion",0,NA
+"record","c10","CVHR_demo","full_capture",0,0,60,"proportion",0,NA
+"record","c10","CVHR_demo","duration_ppv",0,0,4620,"proportion",0,NA
+"record","c10","CVHR_demo","episode_sensitivity",0,0,1,"proportion",0,NA
+"record","c10","CVHR_demo","false_alarms_per_answered_hour",2.29116945107399,16,25140,"per hour",0,NA
+"record","c10","CVHR_demo","false_alarms_per_known_hour",2.22823984526112,16,25850,"per hour",0,NA
+"record","c10","CVHR_demo","unmatched_alarms_per_answered_hour",2.29116945107399,16,25140,"per hour",0,NA
+"record","c10","CVHR_demo","pred_burden_answered",0.183770883054893,4620,25140,"proportion",0,NA
+"record","c10","CVHR_demo","ref_burden_answered",0.00238663484486874,60,25140,"proportion",0,NA
+"record","c10","CVHR_demo","ref_burden_full",0.002321083172147,60,25850,"proportion",0,NA
+"record","c10","CVHR_demo","burden_diff_pp",18.1384248210024,4560,25140,"percentage points",0,NA
+"record","c10","CVHR_demo","burden_bound_lower",0.178723404255319,4620,25850,"proportion",0,NA
+"record","c10","CVHR_demo","burden_bound_upper",0.206189555125725,5330,25850,"proportion",0,NA
+"record","c10","CVHR_demo","burden_error_min",76,4560,NA,"minutes",0,NA
+"record","c10","CVHR_demo","missed_negative_min",1,60,NA,"minutes",0,NA
+"record","c10","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","c10","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","c10","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","c10","CVHR_demo","unmatched_alarms",16,16,NA,"count",0,NA
+"record","x01","CVHR_demo","answer_coverage",0.979279566464775,30720,31370,"proportion",0,NA
+"record","x01","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x01","CVHR_demo","answered_sensitivity",0.608,13680,22500,"proportion",0,NA
+"record","x01","CVHR_demo","answered_specificity",0.751824817518248,6180,8220,"proportion",0,NA
+"record","x01","CVHR_demo","full_capture",0.608,13680,22500,"proportion",0,NA
+"record","x01","CVHR_demo","duration_ppv",0.870229007633588,13680,15720,"proportion",0,NA
+"record","x01","CVHR_demo","episode_sensitivity",0.636363636363636,14,22,"proportion",0,NA
+"record","x01","CVHR_demo","false_alarms_per_answered_hour",0.3515625,3,30720,"per hour",0,NA
+"record","x01","CVHR_demo","false_alarms_per_known_hour",0.344277972585273,3,31370,"per hour",0,NA
+"record","x01","CVHR_demo","unmatched_alarms_per_answered_hour",1.640625,14,30720,"per hour",0,NA
+"record","x01","CVHR_demo","pred_burden_answered",0.51171875,15720,30720,"proportion",0,NA
+"record","x01","CVHR_demo","ref_burden_answered",0.732421875,22500,30720,"proportion",0,NA
+"record","x01","CVHR_demo","ref_burden_full",0.717245776219318,22500,31370,"proportion",0,NA
+"record","x01","CVHR_demo","burden_diff_pp",-22.0703125,-6780,30720,"percentage points",0,NA
+"record","x01","CVHR_demo","burden_bound_lower",0.501115715651897,15720,31370,"proportion",0,NA
+"record","x01","CVHR_demo","burden_bound_upper",0.521836149187121,16370,31370,"proportion",0,NA
+"record","x01","CVHR_demo","burden_error_min",-113,-6780,NA,"minutes",0,NA
+"record","x01","CVHR_demo","missed_negative_min",147,8820,NA,"minutes",0,NA
+"record","x01","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x01","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x01","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x01","CVHR_demo","unmatched_alarms",14,14,NA,"count",0,NA
+"record","x02","CVHR_demo","answer_coverage",1,28140,28140,"proportion",190,NA
+"record","x02","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",190,"input availability not declared"
+"record","x02","CVHR_demo","answered_sensitivity",1,12540,12540,"proportion",190,NA
+"record","x02","CVHR_demo","answered_specificity",0.626923076923077,9780,15600,"proportion",190,NA
+"record","x02","CVHR_demo","full_capture",1,12540,12540,"proportion",190,NA
+"record","x02","CVHR_demo","duration_ppv",0.683006535947712,12540,18360,"proportion",190,NA
+"record","x02","CVHR_demo","episode_sensitivity",0.555555555555556,5,9,"proportion",190,NA
+"record","x02","CVHR_demo","false_alarms_per_answered_hour",0.895522388059701,7,28140,"per hour",190,NA
+"record","x02","CVHR_demo","false_alarms_per_known_hour",0.895522388059701,7,28140,"per hour",190,NA
+"record","x02","CVHR_demo","unmatched_alarms_per_answered_hour",0.895522388059701,7,28140,"per hour",190,NA
+"record","x02","CVHR_demo","pred_burden_answered",0.652452025586354,18360,28140,"proportion",190,NA
+"record","x02","CVHR_demo","ref_burden_answered",0.445628997867804,12540,28140,"proportion",190,NA
+"record","x02","CVHR_demo","ref_burden_full",0.445628997867804,12540,28140,"proportion",190,NA
+"record","x02","CVHR_demo","burden_diff_pp",20.682302771855,5820,28140,"percentage points",190,NA
+"record","x02","CVHR_demo","burden_bound_lower",0.654429932933286,18540,28330,"proportion",190,NA
+"record","x02","CVHR_demo","burden_bound_upper",0.654782915637134,18550,28330,"proportion",190,NA
+"record","x02","CVHR_demo","burden_error_min",97,5820,NA,"minutes",190,NA
+"record","x02","CVHR_demo","missed_negative_min",0,0,NA,"minutes",190,NA
+"record","x02","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",190,NA
+"record","x02","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",190,NA
+"record","x02","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",190,NA
+"record","x02","CVHR_demo","unmatched_alarms",7,7,NA,"count",190,NA
+"record","x03","CVHR_demo","answer_coverage",1,27900,27900,"proportion",0,NA
+"record","x03","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x03","CVHR_demo","answered_sensitivity",0.75,540,720,"proportion",0,NA
+"record","x03","CVHR_demo","answered_specificity",0.803532008830022,21840,27180,"proportion",0,NA
+"record","x03","CVHR_demo","full_capture",0.75,540,720,"proportion",0,NA
+"record","x03","CVHR_demo","duration_ppv",0.0918367346938776,540,5880,"proportion",0,NA
+"record","x03","CVHR_demo","episode_sensitivity",0.571428571428571,4,7,"proportion",0,NA
+"record","x03","CVHR_demo","false_alarms_per_answered_hour",1.80645161290323,14,27900,"per hour",0,NA
+"record","x03","CVHR_demo","false_alarms_per_known_hour",1.80645161290323,14,27900,"per hour",0,NA
+"record","x03","CVHR_demo","unmatched_alarms_per_answered_hour",1.80645161290323,14,27900,"per hour",0,NA
+"record","x03","CVHR_demo","pred_burden_answered",0.210752688172043,5880,27900,"proportion",0,NA
+"record","x03","CVHR_demo","ref_burden_answered",0.0258064516129032,720,27900,"proportion",0,NA
+"record","x03","CVHR_demo","ref_burden_full",0.0258064516129032,720,27900,"proportion",0,NA
+"record","x03","CVHR_demo","burden_diff_pp",18.494623655914,5160,27900,"percentage points",0,NA
+"record","x03","CVHR_demo","burden_bound_lower",0.210752688172043,5880,27900,"proportion",0,NA
+"record","x03","CVHR_demo","burden_bound_upper",0.210752688172043,5880,27900,"proportion",0,NA
+"record","x03","CVHR_demo","burden_error_min",86,5160,NA,"minutes",0,NA
+"record","x03","CVHR_demo","missed_negative_min",3,180,NA,"minutes",0,NA
+"record","x03","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x03","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x03","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x03","CVHR_demo","unmatched_alarms",14,14,NA,"count",0,NA
+"record","x04","CVHR_demo","answer_coverage",0.979591836734694,28320,28910,"proportion",0,NA
+"record","x04","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x04","CVHR_demo","answered_sensitivity",NA,0,0,"proportion",0,"no event time during answered time"
+"record","x04","CVHR_demo","answered_specificity",0.652542372881356,18480,28320,"proportion",0,NA
+"record","x04","CVHR_demo","full_capture",NA,0,0,"proportion",0,"no reference-known event time"
+"record","x04","CVHR_demo","duration_ppv",0,0,9840,"proportion",0,NA
+"record","x04","CVHR_demo","episode_sensitivity",NA,0,0,"proportion",0,"no eligible episodes"
+"record","x04","CVHR_demo","false_alarms_per_answered_hour",3.43220338983051,27,28320,"per hour",0,NA
+"record","x04","CVHR_demo","false_alarms_per_known_hour",3.36215842269111,27,28910,"per hour",0,NA
+"record","x04","CVHR_demo","unmatched_alarms_per_answered_hour",3.43220338983051,27,28320,"per hour",0,NA
+"record","x04","CVHR_demo","pred_burden_answered",0.347457627118644,9840,28320,"proportion",0,NA
+"record","x04","CVHR_demo","ref_burden_answered",0,0,28320,"proportion",0,NA
+"record","x04","CVHR_demo","ref_burden_full",0,0,28910,"proportion",0,NA
+"record","x04","CVHR_demo","burden_diff_pp",34.7457627118644,9840,28320,"percentage points",0,NA
+"record","x04","CVHR_demo","burden_bound_lower",0.340366655136631,9840,28910,"proportion",0,NA
+"record","x04","CVHR_demo","burden_bound_upper",0.360774818401937,10430,28910,"proportion",0,NA
+"record","x04","CVHR_demo","burden_error_min",164,9840,NA,"minutes",0,NA
+"record","x04","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","x04","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x04","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x04","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x04","CVHR_demo","unmatched_alarms",27,27,NA,"count",0,NA
+"record","x05","CVHR_demo","answer_coverage",0.999008919722498,30240,30270,"proportion",0,NA
+"record","x05","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x05","CVHR_demo","answered_sensitivity",0.791139240506329,15000,18960,"proportion",0,NA
+"record","x05","CVHR_demo","answered_specificity",0.888297872340426,10020,11280,"proportion",0,NA
+"record","x05","CVHR_demo","full_capture",0.791139240506329,15000,18960,"proportion",0,NA
+"record","x05","CVHR_demo","duration_ppv",0.922509225092251,15000,16260,"proportion",0,NA
+"record","x05","CVHR_demo","episode_sensitivity",0.409090909090909,9,22,"proportion",0,NA
+"record","x05","CVHR_demo","false_alarms_per_answered_hour",0.595238095238095,5,30240,"per hour",0,NA
+"record","x05","CVHR_demo","false_alarms_per_known_hour",0.594648166501487,5,30270,"per hour",0,NA
+"record","x05","CVHR_demo","unmatched_alarms_per_answered_hour",0.952380952380952,8,30240,"per hour",0,NA
+"record","x05","CVHR_demo","pred_burden_answered",0.537698412698413,16260,30240,"proportion",0,NA
+"record","x05","CVHR_demo","ref_burden_answered",0.626984126984127,18960,30240,"proportion",0,NA
+"record","x05","CVHR_demo","ref_burden_full",0.626362735381566,18960,30270,"proportion",0,NA
+"record","x05","CVHR_demo","burden_diff_pp",-8.92857142857143,-2700,30240,"percentage points",0,NA
+"record","x05","CVHR_demo","burden_bound_lower",0.537165510406343,16260,30270,"proportion",0,NA
+"record","x05","CVHR_demo","burden_bound_upper",0.538156590683845,16290,30270,"proportion",0,NA
+"record","x05","CVHR_demo","burden_error_min",-45,-2700,NA,"minutes",0,NA
+"record","x05","CVHR_demo","missed_negative_min",66,3960,NA,"minutes",0,NA
+"record","x05","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x05","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x05","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x05","CVHR_demo","unmatched_alarms",8,8,NA,"count",0,NA
+"record","x06","CVHR_demo","answer_coverage",0.987764182424917,26640,26970,"proportion",0,NA
+"record","x06","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x06","CVHR_demo","answered_sensitivity",NA,0,0,"proportion",0,"no event time during answered time"
+"record","x06","CVHR_demo","answered_specificity",0.894144144144144,23820,26640,"proportion",0,NA
+"record","x06","CVHR_demo","full_capture",NA,0,0,"proportion",0,"no reference-known event time"
+"record","x06","CVHR_demo","duration_ppv",0,0,2820,"proportion",0,NA
+"record","x06","CVHR_demo","episode_sensitivity",NA,0,0,"proportion",0,"no eligible episodes"
+"record","x06","CVHR_demo","false_alarms_per_answered_hour",2.16216216216216,16,26640,"per hour",0,NA
+"record","x06","CVHR_demo","false_alarms_per_known_hour",2.1357063403782,16,26970,"per hour",0,NA
+"record","x06","CVHR_demo","unmatched_alarms_per_answered_hour",2.16216216216216,16,26640,"per hour",0,NA
+"record","x06","CVHR_demo","pred_burden_answered",0.105855855855856,2820,26640,"proportion",0,NA
+"record","x06","CVHR_demo","ref_burden_answered",0,0,26640,"proportion",0,NA
+"record","x06","CVHR_demo","ref_burden_full",0,0,26970,"proportion",0,NA
+"record","x06","CVHR_demo","burden_diff_pp",10.5855855855856,2820,26640,"percentage points",0,NA
+"record","x06","CVHR_demo","burden_bound_lower",0.104560622914349,2820,26970,"proportion",0,NA
+"record","x06","CVHR_demo","burden_bound_upper",0.116796440489433,3150,26970,"proportion",0,NA
+"record","x06","CVHR_demo","burden_error_min",47,2820,NA,"minutes",0,NA
+"record","x06","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","x06","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x06","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x06","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x06","CVHR_demo","unmatched_alarms",16,16,NA,"count",0,NA
+"record","x07","CVHR_demo","answer_coverage",0.999344262295082,30480,30500,"proportion",0,NA
+"record","x07","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x07","CVHR_demo","answered_sensitivity",0.502092050209205,7200,14340,"proportion",0,NA
+"record","x07","CVHR_demo","answered_specificity",0.840148698884758,13560,16140,"proportion",0,NA
+"record","x07","CVHR_demo","full_capture",0.501392757660167,7200,14360,"proportion",0,NA
+"record","x07","CVHR_demo","duration_ppv",0.736196319018405,7200,9780,"proportion",0,NA
+"record","x07","CVHR_demo","episode_sensitivity",0.647058823529412,11,17,"proportion",0,NA
+"record","x07","CVHR_demo","false_alarms_per_answered_hour",1.06299212598425,9,30480,"per hour",0,NA
+"record","x07","CVHR_demo","false_alarms_per_known_hour",1.06229508196721,9,30500,"per hour",0,NA
+"record","x07","CVHR_demo","unmatched_alarms_per_answered_hour",2.59842519685039,22,30480,"per hour",0,NA
+"record","x07","CVHR_demo","pred_burden_answered",0.320866141732283,9780,30480,"proportion",0,NA
+"record","x07","CVHR_demo","ref_burden_answered",0.470472440944882,14340,30480,"proportion",0,NA
+"record","x07","CVHR_demo","ref_burden_full",0.470819672131148,14360,30500,"proportion",0,NA
+"record","x07","CVHR_demo","burden_diff_pp",-14.9606299212598,-4560,30480,"percentage points",0,NA
+"record","x07","CVHR_demo","burden_bound_lower",0.320655737704918,9780,30500,"proportion",0,NA
+"record","x07","CVHR_demo","burden_bound_upper",0.321311475409836,9800,30500,"proportion",0,NA
+"record","x07","CVHR_demo","burden_error_min",-76,-4560,NA,"minutes",0,NA
+"record","x07","CVHR_demo","missed_negative_min",119,7140,NA,"minutes",0,NA
+"record","x07","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x07","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x07","CVHR_demo","missed_unknown_min",0.333333333333333,20,NA,"minutes",0,NA
+"record","x07","CVHR_demo","unmatched_alarms",22,22,NA,"count",0,NA
+"record","x08","CVHR_demo","answer_coverage",1,31020,31020,"proportion",0,NA
+"record","x08","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x08","CVHR_demo","answered_sensitivity",0.780864197530864,15180,19440,"proportion",0,NA
+"record","x08","CVHR_demo","answered_specificity",0.958549222797927,11100,11580,"proportion",0,NA
+"record","x08","CVHR_demo","full_capture",0.780864197530864,15180,19440,"proportion",0,NA
+"record","x08","CVHR_demo","duration_ppv",0.969348659003831,15180,15660,"proportion",0,NA
+"record","x08","CVHR_demo","episode_sensitivity",0.533333333333333,8,15,"proportion",0,NA
+"record","x08","CVHR_demo","false_alarms_per_answered_hour",0.2321083172147,2,31020,"per hour",0,NA
+"record","x08","CVHR_demo","false_alarms_per_known_hour",0.2321083172147,2,31020,"per hour",0,NA
+"record","x08","CVHR_demo","unmatched_alarms_per_answered_hour",1.74081237911025,15,31020,"per hour",0,NA
+"record","x08","CVHR_demo","pred_burden_answered",0.504835589941973,15660,31020,"proportion",0,NA
+"record","x08","CVHR_demo","ref_burden_answered",0.626692456479691,19440,31020,"proportion",0,NA
+"record","x08","CVHR_demo","ref_burden_full",0.626692456479691,19440,31020,"proportion",0,NA
+"record","x08","CVHR_demo","burden_diff_pp",-12.1856866537718,-3780,31020,"percentage points",0,NA
+"record","x08","CVHR_demo","burden_bound_lower",0.504835589941973,15660,31020,"proportion",0,NA
+"record","x08","CVHR_demo","burden_bound_upper",0.504835589941973,15660,31020,"proportion",0,NA
+"record","x08","CVHR_demo","burden_error_min",-63,-3780,NA,"minutes",0,NA
+"record","x08","CVHR_demo","missed_negative_min",71,4260,NA,"minutes",0,NA
+"record","x08","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x08","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x08","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x08","CVHR_demo","unmatched_alarms",15,15,NA,"count",0,NA
+"record","x09","CVHR_demo","answer_coverage",0.998359041680341,30420,30470,"proportion",0,NA
+"record","x09","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x09","CVHR_demo","answered_sensitivity",0.281437125748503,2820,10020,"proportion",0,NA
+"record","x09","CVHR_demo","answered_specificity",0.776470588235294,15840,20400,"proportion",0,NA
+"record","x09","CVHR_demo","full_capture",0.281437125748503,2820,10020,"proportion",0,NA
+"record","x09","CVHR_demo","duration_ppv",0.382113821138211,2820,7380,"proportion",0,NA
+"record","x09","CVHR_demo","episode_sensitivity",1,3,3,"proportion",0,NA
+"record","x09","CVHR_demo","false_alarms_per_answered_hour",1.06508875739645,9,30420,"per hour",0,NA
+"record","x09","CVHR_demo","false_alarms_per_known_hour",1.06334099113882,9,30470,"per hour",0,NA
+"record","x09","CVHR_demo","unmatched_alarms_per_answered_hour",2.72189349112426,23,30420,"per hour",0,NA
+"record","x09","CVHR_demo","pred_burden_answered",0.242603550295858,7380,30420,"proportion",0,NA
+"record","x09","CVHR_demo","ref_burden_answered",0.329388560157791,10020,30420,"proportion",0,NA
+"record","x09","CVHR_demo","ref_burden_full",0.3288480472596,10020,30470,"proportion",0,NA
+"record","x09","CVHR_demo","burden_diff_pp",-8.67850098619329,-2640,30420,"percentage points",0,NA
+"record","x09","CVHR_demo","burden_bound_lower",0.242205447981621,7380,30470,"proportion",0,NA
+"record","x09","CVHR_demo","burden_bound_upper",0.24384640630128,7430,30470,"proportion",0,NA
+"record","x09","CVHR_demo","burden_error_min",-44,-2640,NA,"minutes",0,NA
+"record","x09","CVHR_demo","missed_negative_min",120,7200,NA,"minutes",0,NA
+"record","x09","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x09","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x09","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x09","CVHR_demo","unmatched_alarms",23,23,NA,"count",0,NA
+"record","x10","CVHR_demo","answer_coverage",0.998855273916599,30540,30575,"proportion",0,NA
+"record","x10","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x10","CVHR_demo","answered_sensitivity",0.9375,5400,5760,"proportion",0,NA
+"record","x10","CVHR_demo","answered_specificity",0.593220338983051,14700,24780,"proportion",0,NA
+"record","x10","CVHR_demo","full_capture",0.9375,5400,5760,"proportion",0,NA
+"record","x10","CVHR_demo","duration_ppv",0.348837209302326,5400,15480,"proportion",0,NA
+"record","x10","CVHR_demo","episode_sensitivity",0.888888888888889,8,9,"proportion",0,NA
+"record","x10","CVHR_demo","false_alarms_per_answered_hour",2.35756385068762,20,30540,"per hour",0,NA
+"record","x10","CVHR_demo","false_alarms_per_known_hour",2.35486508585446,20,30575,"per hour",0,NA
+"record","x10","CVHR_demo","unmatched_alarms_per_answered_hour",2.59332023575639,22,30540,"per hour",0,NA
+"record","x10","CVHR_demo","pred_burden_answered",0.506876227897839,15480,30540,"proportion",0,NA
+"record","x10","CVHR_demo","ref_burden_answered",0.18860510805501,5760,30540,"proportion",0,NA
+"record","x10","CVHR_demo","ref_burden_full",0.188389206868357,5760,30575,"proportion",0,NA
+"record","x10","CVHR_demo","burden_diff_pp",31.8271119842829,9720,30540,"percentage points",0,NA
+"record","x10","CVHR_demo","burden_bound_lower",0.506295993458708,15480,30575,"proportion",0,NA
+"record","x10","CVHR_demo","burden_bound_upper",0.50744071954211,15515,30575,"proportion",0,NA
+"record","x10","CVHR_demo","burden_error_min",162,9720,NA,"minutes",0,NA
+"record","x10","CVHR_demo","missed_negative_min",6,360,NA,"minutes",0,NA
+"record","x10","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x10","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x10","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x10","CVHR_demo","unmatched_alarms",22,22,NA,"count",0,NA
+"record","x11","CVHR_demo","answer_coverage",0.999817284852914,27360,27365,"proportion",0,NA
+"record","x11","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x11","CVHR_demo","answered_sensitivity",0.384615384615385,300,780,"proportion",0,NA
+"record","x11","CVHR_demo","answered_specificity",0.841986455981941,22380,26580,"proportion",0,NA
+"record","x11","CVHR_demo","full_capture",0.384615384615385,300,780,"proportion",0,NA
+"record","x11","CVHR_demo","duration_ppv",0.0666666666666667,300,4500,"proportion",0,NA
+"record","x11","CVHR_demo","episode_sensitivity",0.333333333333333,3,9,"proportion",0,NA
+"record","x11","CVHR_demo","false_alarms_per_answered_hour",2.23684210526316,17,27360,"per hour",0,NA
+"record","x11","CVHR_demo","false_alarms_per_known_hour",2.23643340032889,17,27365,"per hour",0,NA
+"record","x11","CVHR_demo","unmatched_alarms_per_answered_hour",2.23684210526316,17,27360,"per hour",0,NA
+"record","x11","CVHR_demo","pred_burden_answered",0.164473684210526,4500,27360,"proportion",0,NA
+"record","x11","CVHR_demo","ref_burden_answered",0.0285087719298246,780,27360,"proportion",0,NA
+"record","x11","CVHR_demo","ref_burden_full",0.0285035629453682,780,27365,"proportion",0,NA
+"record","x11","CVHR_demo","burden_diff_pp",13.5964912280702,3720,27360,"percentage points",0,NA
+"record","x11","CVHR_demo","burden_bound_lower",0.164443632377124,4500,27365,"proportion",0,NA
+"record","x11","CVHR_demo","burden_bound_upper",0.16462634752421,4505,27365,"proportion",0,NA
+"record","x11","CVHR_demo","burden_error_min",62,3720,NA,"minutes",0,NA
+"record","x11","CVHR_demo","missed_negative_min",8,480,NA,"minutes",0,NA
+"record","x11","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x11","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x11","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x11","CVHR_demo","unmatched_alarms",17,17,NA,"count",0,NA
+"record","x12","CVHR_demo","answer_coverage",1,31620,31620,"proportion",590,NA
+"record","x12","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",590,"input availability not declared"
+"record","x12","CVHR_demo","answered_sensitivity",0.719298245614035,2460,3420,"proportion",590,NA
+"record","x12","CVHR_demo","answered_specificity",0.85531914893617,24120,28200,"proportion",590,NA
+"record","x12","CVHR_demo","full_capture",0.719298245614035,2460,3420,"proportion",590,NA
+"record","x12","CVHR_demo","duration_ppv",0.376146788990826,2460,6540,"proportion",590,NA
+"record","x12","CVHR_demo","episode_sensitivity",0.692307692307692,9,13,"proportion",590,NA
+"record","x12","CVHR_demo","false_alarms_per_answered_hour",1.82163187855787,16,31620,"per hour",590,NA
+"record","x12","CVHR_demo","false_alarms_per_known_hour",1.82163187855787,16,31620,"per hour",590,NA
+"record","x12","CVHR_demo","unmatched_alarms_per_answered_hour",1.82163187855787,16,31620,"per hour",590,NA
+"record","x12","CVHR_demo","pred_burden_answered",0.206831119544592,6540,31620,"proportion",590,NA
+"record","x12","CVHR_demo","ref_burden_answered",0.108159392789374,3420,31620,"proportion",590,NA
+"record","x12","CVHR_demo","ref_burden_full",0.108159392789374,3420,31620,"proportion",590,NA
+"record","x12","CVHR_demo","burden_diff_pp",9.86717267552182,3120,31620,"percentage points",590,NA
+"record","x12","CVHR_demo","burden_bound_lower",0.203042533374728,6540,32210,"proportion",590,NA
+"record","x12","CVHR_demo","burden_bound_upper",0.219497050605402,7070,32210,"proportion",590,NA
+"record","x12","CVHR_demo","burden_error_min",52,3120,NA,"minutes",590,NA
+"record","x12","CVHR_demo","missed_negative_min",16,960,NA,"minutes",590,NA
+"record","x12","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",590,NA
+"record","x12","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",590,NA
+"record","x12","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",590,NA
+"record","x12","CVHR_demo","unmatched_alarms",16,16,NA,"count",590,NA
+"record","x13","CVHR_demo","answer_coverage",0.990118577075099,30060,30360,"proportion",130,NA
+"record","x13","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",130,"input availability not declared"
+"record","x13","CVHR_demo","answered_sensitivity",0.693379790940767,11940,17220,"proportion",130,NA
+"record","x13","CVHR_demo","answered_specificity",0.691588785046729,8880,12840,"proportion",130,NA
+"record","x13","CVHR_demo","full_capture",0.681506849315068,11940,17520,"proportion",130,NA
+"record","x13","CVHR_demo","duration_ppv",0.750943396226415,11940,15900,"proportion",130,NA
+"record","x13","CVHR_demo","episode_sensitivity",0.923076923076923,12,13,"proportion",130,NA
+"record","x13","CVHR_demo","false_alarms_per_answered_hour",0.598802395209581,5,30060,"per hour",130,NA
+"record","x13","CVHR_demo","false_alarms_per_known_hour",0.592885375494071,5,30360,"per hour",130,NA
+"record","x13","CVHR_demo","unmatched_alarms_per_answered_hour",1.79640718562874,15,30060,"per hour",130,NA
+"record","x13","CVHR_demo","pred_burden_answered",0.528942115768463,15900,30060,"proportion",130,NA
+"record","x13","CVHR_demo","ref_burden_answered",0.572854291417166,17220,30060,"proportion",130,NA
+"record","x13","CVHR_demo","ref_burden_full",0.577075098814229,17520,30360,"proportion",130,NA
+"record","x13","CVHR_demo","burden_diff_pp",-4.39121756487026,-1320,30060,"percentage points",130,NA
+"record","x13","CVHR_demo","burden_bound_lower",0.521482453263365,15900,30490,"proportion",130,NA
+"record","x13","CVHR_demo","burden_bound_upper",0.531649721220072,16210,30490,"proportion",130,NA
+"record","x13","CVHR_demo","burden_error_min",-22,-1320,NA,"minutes",130,NA
+"record","x13","CVHR_demo","missed_negative_min",88,5280,NA,"minutes",130,NA
+"record","x13","CVHR_demo","missed_abstain_min",5,300,NA,"minutes",130,NA
+"record","x13","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",130,NA
+"record","x13","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",130,NA
+"record","x13","CVHR_demo","unmatched_alarms",15,15,NA,"count",130,NA
+"record","x14","CVHR_demo","answer_coverage",0.975510204081633,28680,29400,"proportion",450,NA
+"record","x14","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",450,"input availability not declared"
+"record","x14","CVHR_demo","answered_sensitivity",0.466042154566745,11940,25620,"proportion",450,NA
+"record","x14","CVHR_demo","answered_specificity",0.843137254901961,2580,3060,"proportion",450,NA
+"record","x14","CVHR_demo","full_capture",0.453302961275626,11940,26340,"proportion",450,NA
+"record","x14","CVHR_demo","duration_ppv",0.961352657004831,11940,12420,"proportion",450,NA
+"record","x14","CVHR_demo","episode_sensitivity",0.75,3,4,"proportion",450,NA
+"record","x14","CVHR_demo","false_alarms_per_answered_hour",0.125523012552301,1,28680,"per hour",450,NA
+"record","x14","CVHR_demo","false_alarms_per_known_hour",0.122448979591837,1,29400,"per hour",450,NA
+"record","x14","CVHR_demo","unmatched_alarms_per_answered_hour",3.64016736401674,29,28680,"per hour",450,NA
+"record","x14","CVHR_demo","pred_burden_answered",0.433054393305439,12420,28680,"proportion",450,NA
+"record","x14","CVHR_demo","ref_burden_answered",0.893305439330544,25620,28680,"proportion",450,NA
+"record","x14","CVHR_demo","ref_burden_full",0.895918367346939,26340,29400,"proportion",450,NA
+"record","x14","CVHR_demo","burden_diff_pp",-46.0251046025105,-13200,28680,"percentage points",450,NA
+"record","x14","CVHR_demo","burden_bound_lower",0.41608040201005,12420,29850,"proportion",450,NA
+"record","x14","CVHR_demo","burden_bound_upper",0.455276381909548,13590,29850,"proportion",450,NA
+"record","x14","CVHR_demo","burden_error_min",-220,-13200,NA,"minutes",450,NA
+"record","x14","CVHR_demo","missed_negative_min",228,13680,NA,"minutes",450,NA
+"record","x14","CVHR_demo","missed_abstain_min",12,720,NA,"minutes",450,NA
+"record","x14","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",450,NA
+"record","x14","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",450,NA
+"record","x14","CVHR_demo","unmatched_alarms",29,29,NA,"count",450,NA
+"record","x15","CVHR_demo","answer_coverage",0.981927710843373,29340,29880,"proportion",1320,NA
+"record","x15","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",1320,"input availability not declared"
+"record","x15","CVHR_demo","answered_sensitivity",0.387434554973822,4440,11460,"proportion",1320,NA
+"record","x15","CVHR_demo","answered_specificity",0.818791946308725,14640,17880,"proportion",1320,NA
+"record","x15","CVHR_demo","full_capture",0.37,4440,12000,"proportion",1320,NA
+"record","x15","CVHR_demo","duration_ppv",0.578125,4440,7680,"proportion",1320,NA
+"record","x15","CVHR_demo","episode_sensitivity",0.666666666666667,6,9,"proportion",1320,NA
+"record","x15","CVHR_demo","false_alarms_per_answered_hour",0.613496932515337,5,29340,"per hour",1320,NA
+"record","x15","CVHR_demo","false_alarms_per_known_hour",0.602409638554217,5,29880,"per hour",1320,NA
+"record","x15","CVHR_demo","unmatched_alarms_per_answered_hour",1.47239263803681,12,29340,"per hour",1320,NA
+"record","x15","CVHR_demo","pred_burden_answered",0.261758691206544,7680,29340,"proportion",1320,NA
+"record","x15","CVHR_demo","ref_burden_answered",0.390593047034765,11460,29340,"proportion",1320,NA
+"record","x15","CVHR_demo","ref_burden_full",0.401606425702811,12000,29880,"proportion",1320,NA
+"record","x15","CVHR_demo","burden_diff_pp",-12.8834355828221,-3780,29340,"percentage points",1320,NA
+"record","x15","CVHR_demo","burden_bound_lower",0.255769230769231,7980,31200,"proportion",1320,NA
+"record","x15","CVHR_demo","burden_bound_upper",0.273076923076923,8520,31200,"proportion",1320,NA
+"record","x15","CVHR_demo","burden_error_min",-63,-3780,NA,"minutes",1320,NA
+"record","x15","CVHR_demo","missed_negative_min",117,7020,NA,"minutes",1320,NA
+"record","x15","CVHR_demo","missed_abstain_min",9,540,NA,"minutes",1320,NA
+"record","x15","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",1320,NA
+"record","x15","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",1320,NA
+"record","x15","CVHR_demo","unmatched_alarms",12,12,NA,"count",1320,NA
+"record","x16","CVHR_demo","answer_coverage",0.998381353188734,30840,30890,"proportion",0,NA
+"record","x16","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x16","CVHR_demo","answered_sensitivity",0.984615384615385,3840,3900,"proportion",0,NA
+"record","x16","CVHR_demo","answered_specificity",0.861915367483296,23220,26940,"proportion",0,NA
+"record","x16","CVHR_demo","full_capture",0.984615384615385,3840,3900,"proportion",0,NA
+"record","x16","CVHR_demo","duration_ppv",0.507936507936508,3840,7560,"proportion",0,NA
+"record","x16","CVHR_demo","episode_sensitivity",0.727272727272727,8,11,"proportion",0,NA
+"record","x16","CVHR_demo","false_alarms_per_answered_hour",0.700389105058366,6,30840,"per hour",0,NA
+"record","x16","CVHR_demo","false_alarms_per_known_hour",0.699255422466818,6,30890,"per hour",0,NA
+"record","x16","CVHR_demo","unmatched_alarms_per_answered_hour",0.700389105058366,6,30840,"per hour",0,NA
+"record","x16","CVHR_demo","pred_burden_answered",0.245136186770428,7560,30840,"proportion",0,NA
+"record","x16","CVHR_demo","ref_burden_answered",0.126459143968872,3900,30840,"proportion",0,NA
+"record","x16","CVHR_demo","ref_burden_full",0.126254451278731,3900,30890,"proportion",0,NA
+"record","x16","CVHR_demo","burden_diff_pp",11.8677042801556,3660,30840,"percentage points",0,NA
+"record","x16","CVHR_demo","burden_bound_lower",0.244739397863386,7560,30890,"proportion",0,NA
+"record","x16","CVHR_demo","burden_bound_upper",0.246358044674652,7610,30890,"proportion",0,NA
+"record","x16","CVHR_demo","burden_error_min",61,3660,NA,"minutes",0,NA
+"record","x16","CVHR_demo","missed_negative_min",1,60,NA,"minutes",0,NA
+"record","x16","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x16","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x16","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x16","CVHR_demo","unmatched_alarms",6,6,NA,"count",0,NA
+"record","x17","CVHR_demo","answer_coverage",0.7825,18780,24000,"proportion",300,NA
+"record","x17","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",300,"input availability not declared"
+"record","x17","CVHR_demo","answered_sensitivity",0,0,60,"proportion",300,NA
+"record","x17","CVHR_demo","answered_specificity",0.782051282051282,14640,18720,"proportion",300,NA
+"record","x17","CVHR_demo","full_capture",0,0,60,"proportion",300,NA
+"record","x17","CVHR_demo","duration_ppv",0,0,4080,"proportion",300,NA
+"record","x17","CVHR_demo","episode_sensitivity",0,0,1,"proportion",300,NA
+"record","x17","CVHR_demo","false_alarms_per_answered_hour",2.68370607028754,14,18780,"per hour",300,NA
+"record","x17","CVHR_demo","false_alarms_per_known_hour",2.1,14,24000,"per hour",300,NA
+"record","x17","CVHR_demo","unmatched_alarms_per_answered_hour",2.68370607028754,14,18780,"per hour",300,NA
+"record","x17","CVHR_demo","pred_burden_answered",0.217252396166134,4080,18780,"proportion",300,NA
+"record","x17","CVHR_demo","ref_burden_answered",0.00319488817891374,60,18780,"proportion",300,NA
+"record","x17","CVHR_demo","ref_burden_full",0.0025,60,24000,"proportion",300,NA
+"record","x17","CVHR_demo","burden_diff_pp",21.405750798722,4020,18780,"percentage points",300,NA
+"record","x17","CVHR_demo","burden_bound_lower",0.167901234567901,4080,24300,"proportion",300,NA
+"record","x17","CVHR_demo","burden_bound_upper",0.395061728395062,9600,24300,"proportion",300,NA
+"record","x17","CVHR_demo","burden_error_min",67,4020,NA,"minutes",300,NA
+"record","x17","CVHR_demo","missed_negative_min",1,60,NA,"minutes",300,NA
+"record","x17","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",300,NA
+"record","x17","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",300,NA
+"record","x17","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",300,NA
+"record","x17","CVHR_demo","unmatched_alarms",14,14,NA,"count",300,NA
+"record","x18","CVHR_demo","answer_coverage",0.967671630948057,26640,27530,"proportion",0,NA
+"record","x18","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x18","CVHR_demo","answered_sensitivity",0,0,120,"proportion",0,NA
+"record","x18","CVHR_demo","answered_specificity",0.889140271493213,23580,26520,"proportion",0,NA
+"record","x18","CVHR_demo","full_capture",0,0,120,"proportion",0,NA
+"record","x18","CVHR_demo","duration_ppv",0,0,2940,"proportion",0,NA
+"record","x18","CVHR_demo","episode_sensitivity",0,0,2,"proportion",0,NA
+"record","x18","CVHR_demo","false_alarms_per_answered_hour",1.48648648648649,11,26640,"per hour",0,NA
+"record","x18","CVHR_demo","false_alarms_per_known_hour",1.43843080276062,11,27530,"per hour",0,NA
+"record","x18","CVHR_demo","unmatched_alarms_per_answered_hour",1.48648648648649,11,26640,"per hour",0,NA
+"record","x18","CVHR_demo","pred_burden_answered",0.11036036036036,2940,26640,"proportion",0,NA
+"record","x18","CVHR_demo","ref_burden_answered",0.0045045045045045,120,26640,"proportion",0,NA
+"record","x18","CVHR_demo","ref_burden_full",0.00435888122048674,120,27530,"proportion",0,NA
+"record","x18","CVHR_demo","burden_diff_pp",10.5855855855856,2820,26640,"percentage points",0,NA
+"record","x18","CVHR_demo","burden_bound_lower",0.106792589901925,2940,27530,"proportion",0,NA
+"record","x18","CVHR_demo","burden_bound_upper",0.139120958953869,3830,27530,"proportion",0,NA
+"record","x18","CVHR_demo","burden_error_min",47,2820,NA,"minutes",0,NA
+"record","x18","CVHR_demo","missed_negative_min",2,120,NA,"minutes",0,NA
+"record","x18","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x18","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x18","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x18","CVHR_demo","unmatched_alarms",11,11,NA,"count",0,NA
+"record","x19","CVHR_demo","answer_coverage",1,29220,29220,"proportion",220,NA
+"record","x19","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",220,"input availability not declared"
+"record","x19","CVHR_demo","answered_sensitivity",1,24420,24420,"proportion",220,NA
+"record","x19","CVHR_demo","answered_specificity",0.1875,900,4800,"proportion",220,NA
+"record","x19","CVHR_demo","full_capture",1,24420,24420,"proportion",220,NA
+"record","x19","CVHR_demo","duration_ppv",0.86228813559322,24420,28320,"proportion",220,NA
+"record","x19","CVHR_demo","episode_sensitivity",0.25,2,8,"proportion",220,NA
+"record","x19","CVHR_demo","false_alarms_per_answered_hour",0.123203285420945,1,29220,"per hour",220,NA
+"record","x19","CVHR_demo","false_alarms_per_known_hour",0.123203285420945,1,29220,"per hour",220,NA
+"record","x19","CVHR_demo","unmatched_alarms_per_answered_hour",0.123203285420945,1,29220,"per hour",220,NA
+"record","x19","CVHR_demo","pred_burden_answered",0.969199178644764,28320,29220,"proportion",220,NA
+"record","x19","CVHR_demo","ref_burden_answered",0.835728952772074,24420,29220,"proportion",220,NA
+"record","x19","CVHR_demo","ref_burden_full",0.835728952772074,24420,29220,"proportion",220,NA
+"record","x19","CVHR_demo","burden_diff_pp",13.347022587269,3900,29220,"percentage points",220,NA
+"record","x19","CVHR_demo","burden_bound_lower",0.968070652173913,28500,29440,"proportion",220,NA
+"record","x19","CVHR_demo","burden_bound_upper",0.969429347826087,28540,29440,"proportion",220,NA
+"record","x19","CVHR_demo","burden_error_min",65,3900,NA,"minutes",220,NA
+"record","x19","CVHR_demo","missed_negative_min",0,0,NA,"minutes",220,NA
+"record","x19","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",220,NA
+"record","x19","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",220,NA
+"record","x19","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",220,NA
+"record","x19","CVHR_demo","unmatched_alarms",1,1,NA,"count",220,NA
+"record","x20","CVHR_demo","answer_coverage",0.960156122946821,29520,30745,"proportion",0,NA
+"record","x20","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x20","CVHR_demo","answered_sensitivity",0.952191235059761,14340,15060,"proportion",0,NA
+"record","x20","CVHR_demo","answered_specificity",0.506224066390041,7320,14460,"proportion",0,NA
+"record","x20","CVHR_demo","full_capture",0.90530303030303,14340,15840,"proportion",0,NA
+"record","x20","CVHR_demo","duration_ppv",0.667597765363129,14340,21480,"proportion",0,NA
+"record","x20","CVHR_demo","episode_sensitivity",0.5,16,32,"proportion",0,NA
+"record","x20","CVHR_demo","false_alarms_per_answered_hour",1.09756097560976,9,29520,"per hour",0,NA
+"record","x20","CVHR_demo","false_alarms_per_known_hour",1.05382989103919,9,30745,"per hour",0,NA
+"record","x20","CVHR_demo","unmatched_alarms_per_answered_hour",1.09756097560976,9,29520,"per hour",0,NA
+"record","x20","CVHR_demo","pred_burden_answered",0.727642276422764,21480,29520,"proportion",0,NA
+"record","x20","CVHR_demo","ref_burden_answered",0.510162601626016,15060,29520,"proportion",0,NA
+"record","x20","CVHR_demo","ref_burden_full",0.51520572450805,15840,30745,"proportion",0,NA
+"record","x20","CVHR_demo","burden_diff_pp",21.7479674796748,6420,29520,"percentage points",0,NA
+"record","x20","CVHR_demo","burden_bound_lower",0.69865018702228,21480,30745,"proportion",0,NA
+"record","x20","CVHR_demo","burden_bound_upper",0.738494064075459,22705,30745,"proportion",0,NA
+"record","x20","CVHR_demo","burden_error_min",107,6420,NA,"minutes",0,NA
+"record","x20","CVHR_demo","missed_negative_min",12,720,NA,"minutes",0,NA
+"record","x20","CVHR_demo","missed_abstain_min",13,780,NA,"minutes",0,NA
+"record","x20","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x20","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x20","CVHR_demo","unmatched_alarms",9,9,NA,"count",0,NA
+"record","x21","CVHR_demo","answer_coverage",0.998855273916599,30540,30575,"proportion",0,NA
+"record","x21","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x21","CVHR_demo","answered_sensitivity",0.733333333333333,5280,7200,"proportion",0,NA
+"record","x21","CVHR_demo","answered_specificity",0.930591259640103,21720,23340,"proportion",0,NA
+"record","x21","CVHR_demo","full_capture",0.733333333333333,5280,7200,"proportion",0,NA
+"record","x21","CVHR_demo","duration_ppv",0.765217391304348,5280,6900,"proportion",0,NA
+"record","x21","CVHR_demo","episode_sensitivity",0.294117647058824,5,17,"proportion",0,NA
+"record","x21","CVHR_demo","false_alarms_per_answered_hour",0.589390962671906,5,30540,"per hour",0,NA
+"record","x21","CVHR_demo","false_alarms_per_known_hour",0.588716271463614,5,30575,"per hour",0,NA
+"record","x21","CVHR_demo","unmatched_alarms_per_answered_hour",0.825147347740668,7,30540,"per hour",0,NA
+"record","x21","CVHR_demo","pred_burden_answered",0.225933202357564,6900,30540,"proportion",0,NA
+"record","x21","CVHR_demo","ref_burden_answered",0.235756385068762,7200,30540,"proportion",0,NA
+"record","x21","CVHR_demo","ref_burden_full",0.235486508585446,7200,30575,"proportion",0,NA
+"record","x21","CVHR_demo","burden_diff_pp",-0.982318271119843,-300,30540,"percentage points",0,NA
+"record","x21","CVHR_demo","burden_bound_lower",0.225674570727719,6900,30575,"proportion",0,NA
+"record","x21","CVHR_demo","burden_bound_upper",0.22681929681112,6935,30575,"proportion",0,NA
+"record","x21","CVHR_demo","burden_error_min",-5,-300,NA,"minutes",0,NA
+"record","x21","CVHR_demo","missed_negative_min",32,1920,NA,"minutes",0,NA
+"record","x21","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x21","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x21","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x21","CVHR_demo","unmatched_alarms",7,7,NA,"count",0,NA
+"record","x22","CVHR_demo","answer_coverage",0.978870800138552,28260,28870,"proportion",0,NA
+"record","x22","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x22","CVHR_demo","answered_sensitivity",0.5,60,120,"proportion",0,NA
+"record","x22","CVHR_demo","answered_specificity",0.808102345415778,22740,28140,"proportion",0,NA
+"record","x22","CVHR_demo","full_capture",0.5,60,120,"proportion",0,NA
+"record","x22","CVHR_demo","duration_ppv",0.010989010989011,60,5460,"proportion",0,NA
+"record","x22","CVHR_demo","episode_sensitivity",0.5,1,2,"proportion",0,NA
+"record","x22","CVHR_demo","false_alarms_per_answered_hour",2.80254777070064,22,28260,"per hour",0,NA
+"record","x22","CVHR_demo","false_alarms_per_known_hour",2.74333217873225,22,28870,"per hour",0,NA
+"record","x22","CVHR_demo","unmatched_alarms_per_answered_hour",2.80254777070064,22,28260,"per hour",0,NA
+"record","x22","CVHR_demo","pred_burden_answered",0.193205944798301,5460,28260,"proportion",0,NA
+"record","x22","CVHR_demo","ref_burden_answered",0.00424628450106157,120,28260,"proportion",0,NA
+"record","x22","CVHR_demo","ref_burden_full",0.00415656390717007,120,28870,"proportion",0,NA
+"record","x22","CVHR_demo","burden_diff_pp",18.895966029724,5340,28260,"percentage points",0,NA
+"record","x22","CVHR_demo","burden_bound_lower",0.189123657776238,5460,28870,"proportion",0,NA
+"record","x22","CVHR_demo","burden_bound_upper",0.210252857637686,6070,28870,"proportion",0,NA
+"record","x22","CVHR_demo","burden_error_min",89,5340,NA,"minutes",0,NA
+"record","x22","CVHR_demo","missed_negative_min",1,60,NA,"minutes",0,NA
+"record","x22","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x22","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x22","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x22","CVHR_demo","unmatched_alarms",22,22,NA,"count",0,NA
+"record","x23","CVHR_demo","answer_coverage",1,31620,31620,"proportion",340,NA
+"record","x23","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",340,"input availability not declared"
+"record","x23","CVHR_demo","answered_sensitivity",0.53781512605042,3840,7140,"proportion",340,NA
+"record","x23","CVHR_demo","answered_specificity",0.843137254901961,20640,24480,"proportion",340,NA
+"record","x23","CVHR_demo","full_capture",0.53781512605042,3840,7140,"proportion",340,NA
+"record","x23","CVHR_demo","duration_ppv",0.5,3840,7680,"proportion",340,NA
+"record","x23","CVHR_demo","episode_sensitivity",1,2,2,"proportion",340,NA
+"record","x23","CVHR_demo","false_alarms_per_answered_hour",1.59392789373814,14,31620,"per hour",340,NA
+"record","x23","CVHR_demo","false_alarms_per_known_hour",1.59392789373814,14,31620,"per hour",340,NA
+"record","x23","CVHR_demo","unmatched_alarms_per_answered_hour",2.96015180265655,26,31620,"per hour",340,NA
+"record","x23","CVHR_demo","pred_burden_answered",0.242884250474383,7680,31620,"proportion",340,NA
+"record","x23","CVHR_demo","ref_burden_answered",0.225806451612903,7140,31620,"proportion",340,NA
+"record","x23","CVHR_demo","ref_burden_full",0.225806451612903,7140,31620,"proportion",340,NA
+"record","x23","CVHR_demo","burden_diff_pp",1.70777988614801,540,31620,"percentage points",340,NA
+"record","x23","CVHR_demo","burden_bound_lower",0.249687108886108,7980,31960,"proportion",340,NA
+"record","x23","CVHR_demo","burden_bound_upper",0.250938673341677,8020,31960,"proportion",340,NA
+"record","x23","CVHR_demo","burden_error_min",9,540,NA,"minutes",340,NA
+"record","x23","CVHR_demo","missed_negative_min",55,3300,NA,"minutes",340,NA
+"record","x23","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",340,NA
+"record","x23","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",340,NA
+"record","x23","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",340,NA
+"record","x23","CVHR_demo","unmatched_alarms",26,26,NA,"count",340,NA
+"record","x24","CVHR_demo","answer_coverage",0.966161026837806,24840,25710,"proportion",0,NA
+"record","x24","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x24","CVHR_demo","answered_sensitivity",0,0,60,"proportion",0,NA
+"record","x24","CVHR_demo","answered_specificity",0.937046004842615,23220,24780,"proportion",0,NA
+"record","x24","CVHR_demo","full_capture",0,0,60,"proportion",0,NA
+"record","x24","CVHR_demo","duration_ppv",0,0,1560,"proportion",0,NA
+"record","x24","CVHR_demo","episode_sensitivity",0,0,1,"proportion",0,NA
+"record","x24","CVHR_demo","false_alarms_per_answered_hour",1.44927536231884,10,24840,"per hour",0,NA
+"record","x24","CVHR_demo","false_alarms_per_known_hour",1.4002333722287,10,25710,"per hour",0,NA
+"record","x24","CVHR_demo","unmatched_alarms_per_answered_hour",1.44927536231884,10,24840,"per hour",0,NA
+"record","x24","CVHR_demo","pred_burden_answered",0.0628019323671498,1560,24840,"proportion",0,NA
+"record","x24","CVHR_demo","ref_burden_answered",0.00241545893719807,60,24840,"proportion",0,NA
+"record","x24","CVHR_demo","ref_burden_full",0.00233372228704784,60,25710,"proportion",0,NA
+"record","x24","CVHR_demo","burden_diff_pp",6.03864734299517,1500,24840,"percentage points",0,NA
+"record","x24","CVHR_demo","burden_bound_lower",0.0606767794632439,1560,25710,"proportion",0,NA
+"record","x24","CVHR_demo","burden_bound_upper",0.0945157526254376,2430,25710,"proportion",0,NA
+"record","x24","CVHR_demo","burden_error_min",25,1500,NA,"minutes",0,NA
+"record","x24","CVHR_demo","missed_negative_min",1,60,NA,"minutes",0,NA
+"record","x24","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x24","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x24","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x24","CVHR_demo","unmatched_alarms",10,10,NA,"count",0,NA
+"record","x25","CVHR_demo","answer_coverage",0.995744680851064,30420,30550,"proportion",0,NA
+"record","x25","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x25","CVHR_demo","answered_sensitivity",0.851724137931035,14820,17400,"proportion",0,NA
+"record","x25","CVHR_demo","answered_specificity",0.184331797235023,2400,13020,"proportion",0,NA
+"record","x25","CVHR_demo","full_capture",0.851234922458357,14820,17410,"proportion",0,NA
+"record","x25","CVHR_demo","duration_ppv",0.582547169811321,14820,25440,"proportion",0,NA
+"record","x25","CVHR_demo","episode_sensitivity",0.6,12,20,"proportion",0,NA
+"record","x25","CVHR_demo","false_alarms_per_answered_hour",0.236686390532544,2,30420,"per hour",0,NA
+"record","x25","CVHR_demo","false_alarms_per_known_hour",0.235679214402619,2,30550,"per hour",0,NA
+"record","x25","CVHR_demo","unmatched_alarms_per_answered_hour",0.828402366863905,7,30420,"per hour",0,NA
+"record","x25","CVHR_demo","pred_burden_answered",0.83629191321499,25440,30420,"proportion",0,NA
+"record","x25","CVHR_demo","ref_burden_answered",0.571992110453649,17400,30420,"proportion",0,NA
+"record","x25","CVHR_demo","ref_burden_full",0.569885433715221,17410,30550,"proportion",0,NA
+"record","x25","CVHR_demo","burden_diff_pp",26.4299802761341,8040,30420,"percentage points",0,NA
+"record","x25","CVHR_demo","burden_bound_lower",0.832733224222586,25440,30550,"proportion",0,NA
+"record","x25","CVHR_demo","burden_bound_upper",0.836988543371522,25570,30550,"proportion",0,NA
+"record","x25","CVHR_demo","burden_error_min",134,8040,NA,"minutes",0,NA
+"record","x25","CVHR_demo","missed_negative_min",43,2580,NA,"minutes",0,NA
+"record","x25","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x25","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x25","CVHR_demo","missed_unknown_min",0.166666666666667,10,NA,"minutes",0,NA
+"record","x25","CVHR_demo","unmatched_alarms",7,7,NA,"count",0,NA
+"record","x26","CVHR_demo","answer_coverage",0.998396922090414,31140,31190,"proportion",0,NA
+"record","x26","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x26","CVHR_demo","answered_sensitivity",0.261627906976744,5400,20640,"proportion",0,NA
+"record","x26","CVHR_demo","answered_specificity",0.931428571428571,9780,10500,"proportion",0,NA
+"record","x26","CVHR_demo","full_capture",0.261627906976744,5400,20640,"proportion",0,NA
+"record","x26","CVHR_demo","duration_ppv",0.882352941176471,5400,6120,"proportion",0,NA
+"record","x26","CVHR_demo","episode_sensitivity",0.454545454545455,5,11,"proportion",0,NA
+"record","x26","CVHR_demo","false_alarms_per_answered_hour",0.346820809248555,3,31140,"per hour",0,NA
+"record","x26","CVHR_demo","false_alarms_per_known_hour",0.346264828470664,3,31190,"per hour",0,NA
+"record","x26","CVHR_demo","unmatched_alarms_per_answered_hour",2.89017341040462,25,31140,"per hour",0,NA
+"record","x26","CVHR_demo","pred_burden_answered",0.196531791907514,6120,31140,"proportion",0,NA
+"record","x26","CVHR_demo","ref_burden_answered",0.662813102119461,20640,31140,"proportion",0,NA
+"record","x26","CVHR_demo","ref_burden_full",0.661750561077268,20640,31190,"proportion",0,NA
+"record","x26","CVHR_demo","burden_diff_pp",-46.6281310211946,-14520,31140,"percentage points",0,NA
+"record","x26","CVHR_demo","burden_bound_lower",0.196216736133376,6120,31190,"proportion",0,NA
+"record","x26","CVHR_demo","burden_bound_upper",0.197819814042962,6170,31190,"proportion",0,NA
+"record","x26","CVHR_demo","burden_error_min",-242,-14520,NA,"minutes",0,NA
+"record","x26","CVHR_demo","missed_negative_min",254,15240,NA,"minutes",0,NA
+"record","x26","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x26","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x26","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x26","CVHR_demo","unmatched_alarms",25,25,NA,"count",0,NA
+"record","x27","CVHR_demo","answer_coverage",0.998827667057444,29820,29855,"proportion",0,NA
+"record","x27","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x27","CVHR_demo","answered_sensitivity",0.905349794238683,26400,29160,"proportion",0,NA
+"record","x27","CVHR_demo","answered_specificity",0.818181818181818,540,660,"proportion",0,NA
+"record","x27","CVHR_demo","full_capture",0.904264428840555,26400,29195,"proportion",0,NA
+"record","x27","CVHR_demo","duration_ppv",0.995475113122172,26400,26520,"proportion",0,NA
+"record","x27","CVHR_demo","episode_sensitivity",0.8,4,5,"proportion",0,NA
+"record","x27","CVHR_demo","false_alarms_per_answered_hour",0,0,29820,"per hour",0,NA
+"record","x27","CVHR_demo","false_alarms_per_known_hour",0,0,29855,"per hour",0,NA
+"record","x27","CVHR_demo","unmatched_alarms_per_answered_hour",0.482897384305835,4,29820,"per hour",0,NA
+"record","x27","CVHR_demo","pred_burden_answered",0.88933601609658,26520,29820,"proportion",0,NA
+"record","x27","CVHR_demo","ref_burden_answered",0.977867203219316,29160,29820,"proportion",0,NA
+"record","x27","CVHR_demo","ref_burden_full",0.977893150226093,29195,29855,"proportion",0,NA
+"record","x27","CVHR_demo","burden_diff_pp",-8.85311871227364,-2640,29820,"percentage points",0,NA
+"record","x27","CVHR_demo","burden_bound_lower",0.888293418187908,26520,29855,"proportion",0,NA
+"record","x27","CVHR_demo","burden_bound_upper",0.889465751130464,26555,29855,"proportion",0,NA
+"record","x27","CVHR_demo","burden_error_min",-44,-2640,NA,"minutes",0,NA
+"record","x27","CVHR_demo","missed_negative_min",46,2760,NA,"minutes",0,NA
+"record","x27","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x27","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x27","CVHR_demo","missed_unknown_min",0.583333333333333,35,NA,"minutes",0,NA
+"record","x27","CVHR_demo","unmatched_alarms",4,4,NA,"count",0,NA
+"record","x28","CVHR_demo","answer_coverage",0.97979797979798,29100,29700,"proportion",0,NA
+"record","x28","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x28","CVHR_demo","answered_sensitivity",0.843971631205674,21420,25380,"proportion",0,NA
+"record","x28","CVHR_demo","answered_specificity",0.419354838709677,1560,3720,"proportion",0,NA
+"record","x28","CVHR_demo","full_capture",0.824480369515012,21420,25980,"proportion",0,NA
+"record","x28","CVHR_demo","duration_ppv",0.908396946564885,21420,23580,"proportion",0,NA
+"record","x28","CVHR_demo","episode_sensitivity",0.526315789473684,10,19,"proportion",0,NA
+"record","x28","CVHR_demo","false_alarms_per_answered_hour",0.494845360824742,4,29100,"per hour",0,NA
+"record","x28","CVHR_demo","false_alarms_per_known_hour",0.484848484848485,4,29700,"per hour",0,NA
+"record","x28","CVHR_demo","unmatched_alarms_per_answered_hour",1.11340206185567,9,29100,"per hour",0,NA
+"record","x28","CVHR_demo","pred_burden_answered",0.810309278350515,23580,29100,"proportion",0,NA
+"record","x28","CVHR_demo","ref_burden_answered",0.872164948453608,25380,29100,"proportion",0,NA
+"record","x28","CVHR_demo","ref_burden_full",0.874747474747475,25980,29700,"proportion",0,NA
+"record","x28","CVHR_demo","burden_diff_pp",-6.18556701030928,-1800,29100,"percentage points",0,NA
+"record","x28","CVHR_demo","burden_bound_lower",0.793939393939394,23580,29700,"proportion",0,NA
+"record","x28","CVHR_demo","burden_bound_upper",0.814141414141414,24180,29700,"proportion",0,NA
+"record","x28","CVHR_demo","burden_error_min",-30,-1800,NA,"minutes",0,NA
+"record","x28","CVHR_demo","missed_negative_min",66,3960,NA,"minutes",0,NA
+"record","x28","CVHR_demo","missed_abstain_min",10,600,NA,"minutes",0,NA
+"record","x28","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x28","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x28","CVHR_demo","unmatched_alarms",9,9,NA,"count",0,NA
+"record","x29","CVHR_demo","answer_coverage",0.972340425531915,27420,28200,"proportion",10,NA
+"record","x29","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",10,"input availability not declared"
+"record","x29","CVHR_demo","answered_sensitivity",NA,0,0,"proportion",10,"no event time during answered time"
+"record","x29","CVHR_demo","answered_specificity",0.448577680525164,12300,27420,"proportion",10,NA
+"record","x29","CVHR_demo","full_capture",NA,0,0,"proportion",10,"no reference-known event time"
+"record","x29","CVHR_demo","duration_ppv",0,0,15120,"proportion",10,NA
+"record","x29","CVHR_demo","episode_sensitivity",NA,0,0,"proportion",10,"no eligible episodes"
+"record","x29","CVHR_demo","false_alarms_per_answered_hour",1.44420131291028,11,27420,"per hour",10,NA
+"record","x29","CVHR_demo","false_alarms_per_known_hour",1.40425531914894,11,28200,"per hour",10,NA
+"record","x29","CVHR_demo","unmatched_alarms_per_answered_hour",1.44420131291028,11,27420,"per hour",10,NA
+"record","x29","CVHR_demo","pred_burden_answered",0.551422319474836,15120,27420,"proportion",10,NA
+"record","x29","CVHR_demo","ref_burden_answered",0,0,27420,"proportion",10,NA
+"record","x29","CVHR_demo","ref_burden_full",0,0,28200,"proportion",10,NA
+"record","x29","CVHR_demo","burden_diff_pp",55.1422319474836,15120,27420,"percentage points",10,NA
+"record","x29","CVHR_demo","burden_bound_lower",0.535980148883375,15120,28210,"proportion",10,NA
+"record","x29","CVHR_demo","burden_bound_upper",0.56398440269408,15910,28210,"proportion",10,NA
+"record","x29","CVHR_demo","burden_error_min",252,15120,NA,"minutes",10,NA
+"record","x29","CVHR_demo","missed_negative_min",0,0,NA,"minutes",10,NA
+"record","x29","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",10,NA
+"record","x29","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",10,NA
+"record","x29","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",10,NA
+"record","x29","CVHR_demo","unmatched_alarms",11,11,NA,"count",10,NA
+"record","x30","CVHR_demo","answer_coverage",1,30660,30660,"proportion",1385,NA
+"record","x30","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",1385,"input availability not declared"
+"record","x30","CVHR_demo","answered_sensitivity",0.736196319018405,14400,19560,"proportion",1385,NA
+"record","x30","CVHR_demo","answered_specificity",0.502702702702703,5580,11100,"proportion",1385,NA
+"record","x30","CVHR_demo","full_capture",0.736196319018405,14400,19560,"proportion",1385,NA
+"record","x30","CVHR_demo","duration_ppv",0.72289156626506,14400,19920,"proportion",1385,NA
+"record","x30","CVHR_demo","episode_sensitivity",0.823529411764706,14,17,"proportion",1385,NA
+"record","x30","CVHR_demo","false_alarms_per_answered_hour",0.939334637964775,8,30660,"per hour",1385,NA
+"record","x30","CVHR_demo","false_alarms_per_known_hour",0.939334637964775,8,30660,"per hour",1385,NA
+"record","x30","CVHR_demo","unmatched_alarms_per_answered_hour",2.34833659491194,20,30660,"per hour",1385,NA
+"record","x30","CVHR_demo","pred_burden_answered",0.649706457925636,19920,30660,"proportion",1385,NA
+"record","x30","CVHR_demo","ref_burden_answered",0.637964774951076,19560,30660,"proportion",1385,NA
+"record","x30","CVHR_demo","ref_burden_full",0.637964774951076,19560,30660,"proportion",1385,NA
+"record","x30","CVHR_demo","burden_diff_pp",1.17416829745597,360,30660,"percentage points",1385,NA
+"record","x30","CVHR_demo","burden_bound_lower",0.621625838664378,19920,32045,"proportion",1385,NA
+"record","x30","CVHR_demo","burden_bound_upper",0.664846309876736,21305,32045,"proportion",1385,NA
+"record","x30","CVHR_demo","burden_error_min",6,360,NA,"minutes",1385,NA
+"record","x30","CVHR_demo","missed_negative_min",86,5160,NA,"minutes",1385,NA
+"record","x30","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",1385,NA
+"record","x30","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",1385,NA
+"record","x30","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",1385,NA
+"record","x30","CVHR_demo","unmatched_alarms",20,20,NA,"count",1385,NA
+"record","x31","CVHR_demo","answer_coverage",1,33420,33420,"proportion",0,NA
+"record","x31","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x31","CVHR_demo","answered_sensitivity",1,30960,30960,"proportion",0,NA
+"record","x31","CVHR_demo","answered_specificity",0.439024390243902,1080,2460,"proportion",0,NA
+"record","x31","CVHR_demo","full_capture",1,30960,30960,"proportion",0,NA
+"record","x31","CVHR_demo","duration_ppv",0.957328385899815,30960,32340,"proportion",0,NA
+"record","x31","CVHR_demo","episode_sensitivity",0.2,1,5,"proportion",0,NA
+"record","x31","CVHR_demo","false_alarms_per_answered_hour",0.107719928186715,1,33420,"per hour",0,NA
+"record","x31","CVHR_demo","false_alarms_per_known_hour",0.107719928186715,1,33420,"per hour",0,NA
+"record","x31","CVHR_demo","unmatched_alarms_per_answered_hour",0.107719928186715,1,33420,"per hour",0,NA
+"record","x31","CVHR_demo","pred_burden_answered",0.967684021543986,32340,33420,"proportion",0,NA
+"record","x31","CVHR_demo","ref_burden_answered",0.926391382405745,30960,33420,"proportion",0,NA
+"record","x31","CVHR_demo","ref_burden_full",0.926391382405745,30960,33420,"proportion",0,NA
+"record","x31","CVHR_demo","burden_diff_pp",4.12926391382406,1380,33420,"percentage points",0,NA
+"record","x31","CVHR_demo","burden_bound_lower",0.967684021543986,32340,33420,"proportion",0,NA
+"record","x31","CVHR_demo","burden_bound_upper",0.967684021543986,32340,33420,"proportion",0,NA
+"record","x31","CVHR_demo","burden_error_min",23,1380,NA,"minutes",0,NA
+"record","x31","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","x31","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x31","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x31","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x31","CVHR_demo","unmatched_alarms",1,1,NA,"count",0,NA
+"record","x32","CVHR_demo","answer_coverage",0.99814126394052,32220,32280,"proportion",0,NA
+"record","x32","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x32","CVHR_demo","answered_sensitivity",0.97877358490566,24900,25440,"proportion",0,NA
+"record","x32","CVHR_demo","answered_specificity",0.557522123893805,3780,6780,"proportion",0,NA
+"record","x32","CVHR_demo","full_capture",0.976470588235294,24900,25500,"proportion",0,NA
+"record","x32","CVHR_demo","duration_ppv",0.89247311827957,24900,27900,"proportion",0,NA
+"record","x32","CVHR_demo","episode_sensitivity",0.666666666666667,4,6,"proportion",0,NA
+"record","x32","CVHR_demo","false_alarms_per_answered_hour",0.670391061452514,6,32220,"per hour",0,NA
+"record","x32","CVHR_demo","false_alarms_per_known_hour",0.669144981412639,6,32280,"per hour",0,NA
+"record","x32","CVHR_demo","unmatched_alarms_per_answered_hour",0.782122905027933,7,32220,"per hour",0,NA
+"record","x32","CVHR_demo","pred_burden_answered",0.865921787709497,27900,32220,"proportion",0,NA
+"record","x32","CVHR_demo","ref_burden_answered",0.789571694599628,25440,32220,"proportion",0,NA
+"record","x32","CVHR_demo","ref_burden_full",0.78996282527881,25500,32280,"proportion",0,NA
+"record","x32","CVHR_demo","burden_diff_pp",7.63500931098697,2460,32220,"percentage points",0,NA
+"record","x32","CVHR_demo","burden_bound_lower",0.864312267657993,27900,32280,"proportion",0,NA
+"record","x32","CVHR_demo","burden_bound_upper",0.866171003717472,27960,32280,"proportion",0,NA
+"record","x32","CVHR_demo","burden_error_min",41,2460,NA,"minutes",0,NA
+"record","x32","CVHR_demo","missed_negative_min",9,540,NA,"minutes",0,NA
+"record","x32","CVHR_demo","missed_abstain_min",1,60,NA,"minutes",0,NA
+"record","x32","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x32","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x32","CVHR_demo","unmatched_alarms",7,7,NA,"count",0,NA
+"record","x33","CVHR_demo","answer_coverage",0.999294283697953,28320,28340,"proportion",0,NA
+"record","x33","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x33","CVHR_demo","answered_sensitivity",0.333333333333333,60,180,"proportion",0,NA
+"record","x33","CVHR_demo","answered_specificity",0.786780383795309,22140,28140,"proportion",0,NA
+"record","x33","CVHR_demo","full_capture",0.333333333333333,60,180,"proportion",0,NA
+"record","x33","CVHR_demo","duration_ppv",0.0099009900990099,60,6060,"proportion",0,NA
+"record","x33","CVHR_demo","episode_sensitivity",0.333333333333333,1,3,"proportion",0,NA
+"record","x33","CVHR_demo","false_alarms_per_answered_hour",3.30508474576271,26,28320,"per hour",0,NA
+"record","x33","CVHR_demo","false_alarms_per_known_hour",3.30275229357798,26,28340,"per hour",0,NA
+"record","x33","CVHR_demo","unmatched_alarms_per_answered_hour",3.30508474576271,26,28320,"per hour",0,NA
+"record","x33","CVHR_demo","pred_burden_answered",0.213983050847458,6060,28320,"proportion",0,NA
+"record","x33","CVHR_demo","ref_burden_answered",0.00635593220338983,180,28320,"proportion",0,NA
+"record","x33","CVHR_demo","ref_burden_full",0.0063514467184192,180,28340,"proportion",0,NA
+"record","x33","CVHR_demo","burden_diff_pp",20.7627118644068,5880,28320,"percentage points",0,NA
+"record","x33","CVHR_demo","burden_bound_lower",0.213832039520113,6060,28340,"proportion",0,NA
+"record","x33","CVHR_demo","burden_bound_upper",0.21453775582216,6080,28340,"proportion",0,NA
+"record","x33","CVHR_demo","burden_error_min",98,5880,NA,"minutes",0,NA
+"record","x33","CVHR_demo","missed_negative_min",2,120,NA,"minutes",0,NA
+"record","x33","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x33","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x33","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x33","CVHR_demo","unmatched_alarms",26,26,NA,"count",0,NA
+"record","x34","CVHR_demo","answer_coverage",0.999648506151142,28440,28450,"proportion",0,NA
+"record","x34","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x34","CVHR_demo","answered_sensitivity",0.25,60,240,"proportion",0,NA
+"record","x34","CVHR_demo","answered_specificity",0.778723404255319,21960,28200,"proportion",0,NA
+"record","x34","CVHR_demo","full_capture",0.25,60,240,"proportion",0,NA
+"record","x34","CVHR_demo","duration_ppv",0.00952380952380952,60,6300,"proportion",0,NA
+"record","x34","CVHR_demo","episode_sensitivity",0.25,1,4,"proportion",0,NA
+"record","x34","CVHR_demo","false_alarms_per_answered_hour",3.16455696202532,25,28440,"per hour",0,NA
+"record","x34","CVHR_demo","false_alarms_per_known_hour",3.1634446397188,25,28450,"per hour",0,NA
+"record","x34","CVHR_demo","unmatched_alarms_per_answered_hour",3.16455696202532,25,28440,"per hour",0,NA
+"record","x34","CVHR_demo","pred_burden_answered",0.221518987341772,6300,28440,"proportion",0,NA
+"record","x34","CVHR_demo","ref_burden_answered",0.00843881856540084,240,28440,"proportion",0,NA
+"record","x34","CVHR_demo","ref_burden_full",0.00843585237258348,240,28450,"proportion",0,NA
+"record","x34","CVHR_demo","burden_diff_pp",21.3080168776371,6060,28440,"percentage points",0,NA
+"record","x34","CVHR_demo","burden_bound_lower",0.221441124780316,6300,28450,"proportion",0,NA
+"record","x34","CVHR_demo","burden_bound_upper",0.221792618629174,6310,28450,"proportion",0,NA
+"record","x34","CVHR_demo","burden_error_min",101,6060,NA,"minutes",0,NA
+"record","x34","CVHR_demo","missed_negative_min",3,180,NA,"minutes",0,NA
+"record","x34","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x34","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x34","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x34","CVHR_demo","unmatched_alarms",25,25,NA,"count",0,NA
+"record","x35","CVHR_demo","answer_coverage",0.978914621500173,28320,28930,"proportion",0,NA
+"record","x35","CVHR_demo","answer_coverage_given_input",NA,0,0,"proportion",0,"input availability not declared"
+"record","x35","CVHR_demo","answered_sensitivity",NA,0,0,"proportion",0,"no event time during answered time"
+"record","x35","CVHR_demo","answered_specificity",0.802966101694915,22740,28320,"proportion",0,NA
+"record","x35","CVHR_demo","full_capture",NA,0,0,"proportion",0,"no reference-known event time"
+"record","x35","CVHR_demo","duration_ppv",0,0,5580,"proportion",0,NA
+"record","x35","CVHR_demo","episode_sensitivity",NA,0,0,"proportion",0,"no eligible episodes"
+"record","x35","CVHR_demo","false_alarms_per_answered_hour",2.66949152542373,21,28320,"per hour",0,NA
+"record","x35","CVHR_demo","false_alarms_per_known_hour",2.61320428620809,21,28930,"per hour",0,NA
+"record","x35","CVHR_demo","unmatched_alarms_per_answered_hour",2.66949152542373,21,28320,"per hour",0,NA
+"record","x35","CVHR_demo","pred_burden_answered",0.197033898305085,5580,28320,"proportion",0,NA
+"record","x35","CVHR_demo","ref_burden_answered",0,0,28320,"proportion",0,NA
+"record","x35","CVHR_demo","ref_burden_full",0,0,28930,"proportion",0,NA
+"record","x35","CVHR_demo","burden_diff_pp",19.7033898305085,5580,28320,"percentage points",0,NA
+"record","x35","CVHR_demo","burden_bound_lower",0.192879363982026,5580,28930,"proportion",0,NA
+"record","x35","CVHR_demo","burden_bound_upper",0.213964742481853,6190,28930,"proportion",0,NA
+"record","x35","CVHR_demo","burden_error_min",93,5580,NA,"minutes",0,NA
+"record","x35","CVHR_demo","missed_negative_min",0,0,NA,"minutes",0,NA
+"record","x35","CVHR_demo","missed_abstain_min",0,0,NA,"minutes",0,NA
+"record","x35","CVHR_demo","missed_no_input_min",0,0,NA,"minutes",0,NA
+"record","x35","CVHR_demo","missed_unknown_min",0,0,NA,"minutes",0,NA
+"record","x35","CVHR_demo","unmatched_alarms",21,21,NA,"count",0,NA

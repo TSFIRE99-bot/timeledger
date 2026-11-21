@@ -1,0 +1,13 @@
+"detector","reference","observation","response","duration","share"
+"CVHR_demo","nonevent","unknown","negative",958860,0.464285022563964
+"CVHR_demo","event","unknown","positive",557700,0.270041254285216
+"CVHR_demo","nonevent","unknown","positive",292620,0.141688133098332
+"CVHR_demo","event","unknown","negative",218640,0.105866630512676
+"CVHR_demo","nonevent","unknown","abstain",21300,0.0103135713040615
+"CVHR_demo","event","unknown","abstain",7140,0.00345722531037555
+"CVHR_demo","unknown","unknown","abstain",2880,0.00139451104956325
+"CVHR_demo","unknown","unknown","positive",2400,0.00116209254130271
+"CVHR_demo","unknown","unknown","negative",2160,0.00104588328717244
+"CVHR_demo","nonevent","unknown","unknown",960,0.000464837016521082
+"CVHR_demo","unknown","unknown","unknown",440,0.000213050299238829
+"CVHR_demo","event","unknown","unknown",140,6.77887315759912e-05
