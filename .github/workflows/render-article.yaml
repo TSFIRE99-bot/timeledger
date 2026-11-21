@@ -1,0 +1,52 @@
+# Render the R Journal article (PDF and HTML) with rjtools from the saved
+# results, run the rjtools submission checks, and upload everything as an
+# artifact. Also re-runs the package tests and the vignette code.
+on:
+  push:
+  workflow_dispatch:
+name: render-article
+permissions: read-all
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-pandoc@v2
+      - uses: r-lib/actions/setup-tinytex@v2
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          working-directory: timeledger
+          extra-packages: |
+            any::rjtools
+            any::rmarkdown
+            any::knitr
+            any::tinytex
+            local::.
+      - name: Package tests
+        run: Rscript tools/run_tests.R
+      - name: Render article
+        run: |
+          Rscript -e 'tinytex::tlmgr_install(c("fancyhdr", "microtype", "setspace", "titlesec", "placeins", "caption", "environ", "trimspaces", "booktabs", "xcolor", "framed"))' || true
+          Rscript -e 'rmarkdown::render("paper/timeledger.Rmd", output_format = "all")'
+      - name: Page count
+        run: |
+          sudo apt-get install -y poppler-utils
+          for f in paper/*.pdf; do echo "$f: $(pdfinfo "$f" | grep Pages)"; done
+      - name: rjtools checks
+        run: Rscript -e 'rjtools::initial_check_article("paper")'
+        continue-on-error: true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: article
+          path: |
+            paper/*.pdf
+            paper/*.html
+            paper/*.tex
+            paper/RJwrapper.*
+            results/tests_summary.csv

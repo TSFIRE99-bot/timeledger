@@ -27,7 +27,7 @@ author:
     affiliation: Columbus State Community College
     address:
     - Columbus, Ohio, United States
-    email: author@example.org
+    email: estupidio89@gmail.com
 type: package
 output:
   rjtools::rjournal_article:

@@ -3,7 +3,7 @@ Type: Package
 Title: Auditable Time Accounting for Evaluating Continuous Event Detectors
 Version: 0.1.0
 Authors@R: person("Tejas", "Menneni", role = c("aut", "cre", "cph"),
-    email = "maintainer@example.org")
+    email = "estupidio89@gmail.com")
 Description: Evaluates detectors of events in long continuous recordings,
     such as atrial fibrillation monitors, when detectors cover different
     parts of a recording, abstain, lose their input, or split one true event
@@ -27,6 +27,6 @@ Depends: R (>= 4.1.0)
 Imports: graphics, stats, utils
 Suggests: tinytest, knitr, rmarkdown
 VignetteBuilder: knitr
-URL: https://github.com/OWNER/timeledger
-BugReports: https://github.com/OWNER/timeledger/issues
+URL: https://github.com/TSFIRE99-bot/timeledger
+BugReports: https://github.com/TSFIRE99-bot/timeledger/issues
 Language: en-US
