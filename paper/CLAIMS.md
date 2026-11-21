@@ -7,8 +7,8 @@ says whether the evidence was produced and checked in this repository.
 | # | Claim (section) | Evidence | Status |
 |---|---|---|---|
 | 1 | The 100-minute example gives coverage 80%, answered sensitivity 100%, capture 1/3, episodes 1/2, one unmatched alarm, 0.75 false alarms per answered hour, burden 25% vs 12.5%, bounds 20% to 40% (Introduction) | `timeledger/inst/tinytest/test_acceptance.R` | passing (results/tests_summary.csv) |
-| 2 | harbinger replaces missing detections with "no event" (Introduction, Existing software) | harbinger 2.1.707 source, `R/har_eval.R` line 51; tarball SHA-256 cc9c89c6... | read, not executed |
-| 3 | yardstick sensitivity drops missing estimates by default (same) | yardstick 1.5.0 source, `R/class-sens.R`, `na_rm = TRUE`; tarball SHA-256 95ae54b1... | read, not executed |
+| 2 | harbinger replaces missing detections with "no event" (Introduction, Existing software) | harbinger 2.1.707 source, `R/har_eval.R` line 51; executed in CI: `results/comparators/r_toolkits.csv` (sensitivity equals full-period capture) | executed (CI) |
+| 3 | yardstick sensitivity drops missing estimates by default (same) | yardstick 1.5.0 source, `R/class-sens.R`, `na_rm = TRUE`; executed in CI: `results/comparators/r_toolkits.csv` (default equals answered-time sensitivity; `na_rm = FALSE` gives NA) | executed (CI) |
 | 4 | epicmp cannot represent abstention; any overlap is a match; AFL ends AF; 5-min learning period; undefined length selects nothing | WFDB 10.7.0 `app/epicmp.c`; executable runs in `results/*/epicmp_check.csv`; test `test_wfdb.R` | executed |
 | 5 | No located tool combines per-system answered time, abstention reasons, matching and paired comparison (Existing software) | `audit/PRIOR_ART.md` (searches listed; failure to locate is not proof of absence) | audit, falsifiable |
 | 6 | Ledger never expands to samples; validation catches the listed input errors | `R/ledger.R`, `R/validate.R`; `test_validation.R`, `test_edge_cases.R` | passing |
@@ -30,6 +30,8 @@ says whether the evidence was produced and checked in this repository.
 | 22 | Decision inventory and measured consequences | `results/comparators/decision_inventory.csv` | compiled from rows above |
 | 23 | timescoring/sed_eval values on the fixture; CPSC scorer fails on NumPy 2.5.5 | `results/comparators/python_comparators.json` | executed |
 | 24 | Runtime: 30-day record 2.6 s; 400k rows 4.2 s; 1,205,762 LTAFDB ledger rows; machine | `results/benchmarks/scaling.csv`, `machine.txt`, `results/ltafdb/session.txt` | generated |
-| 25 | Package depends only on base R; R CMD check status OK without vignettes and manual | `timeledger/DESCRIPTION`; `results/R_CMD_check.log` | generated (partial check) |
-| 26 | Vignette code runs | `tools/run_vignette_code.R` output (chunks executed, rendering not done) | executed, not rendered |
+| 25 | Package depends only on base R; R CMD check status OK without vignettes and manual | `timeledger/DESCRIPTION`; GitHub Actions R-CMD-check workflow (`--as-cran`, vignettes and manual) on 4 configurations | CI |
+| 26 | Vignette code runs | vignettes rebuilt in `R CMD check` on CI | CI |
 | 27 | Not on CRAN; no outside users | statement of fact | true at time of writing |
+| 28 | ivs interval intersection reproduces the ledger's true-positive time exactly | `results/comparators/r_toolkits.csv` | executed (CI) |
+| 29 | Article renders to 9 pages and passes the rjtools structural checks | render-article workflow log and artifact | CI |
