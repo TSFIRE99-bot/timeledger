@@ -5,3 +5,7 @@ rawdata/
 results/*/ledger.rds
 results/*/match_compare.rds
 timeledger/docs/
+private/
+results/ai_detector/
+results/R_CMD_check.log
+cran/
