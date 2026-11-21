@@ -1,0 +1,23 @@
+# Build the source tarball (with built vignettes) that is uploaded to
+# win-builder and CRAN.
+on: workflow_dispatch
+name: build-tarball
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-pandoc@v2
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          working-directory: timeledger
+      - run: R CMD build timeledger
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cran-tarball
+          path: timeledger_*.tar.gz
