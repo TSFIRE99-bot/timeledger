@@ -93,4 +93,12 @@ selection. No thresholds were tuned here.
 
 ## Change log
 
-(empty)
+1. 2026-11-20, before any full-database run. A trial on AFDB record 04015
+   showed that the 10 s cap on held decisions was shorter than the interval
+   between decisions (16 beats, about 12 to 13 s at normal heart rates), so the
+   rule abstained in ordinary sinus rhythm and split positive runs into many
+   alarms. This contradicts the rule's stated purpose ("no recent beats").
+   Corrected rule: each decision holds until the next decision; time more than
+   10 s after a beat with no following beat is `abstain` ("no recent beats").
+   Detector statistics, thresholds, window length and decision step are
+   unchanged. Results of the trial run were not used for anything else.
