@@ -425,6 +425,22 @@ two equal (0.948 against
 0.947). Each analyst also uses any-overlap
 matching without naming it.
 
+The two defaults were also checked by running the packages on the same inputs,
+with abstained time coded as missing (`NA`). For Policy B of the two-detector
+example, harbinger 2.1.707 reported a
+sensitivity of 0.467,
+which equals full-period capture, and yardstick 1.5.0
+reported 0.840,
+which equals answered-time sensitivity; with `na_rm = FALSE`, yardstick
+returned `NA`. On AFDB record 04015 at one-second resolution, the same split
+appeared for Policy B of the vignette detector
+(0.873 against
+0.995), within
+the grid resolution of the ledger values. The interval intersection computed
+with ivs 0.2.0 reproduced the ledger's correctly
+flagged event time exactly in every case. Both tools report the number under the
+same name; neither says which question it answers.
+
 Counting consequential decisions is more informative than counting lines of
 code. The workflow required explicit choices about the meaning of missing
 prediction rows, abstention, missing input, reference time before the first
@@ -489,12 +505,10 @@ annotations stop; abstention reasons are those of the detector. The
 does not establish compliance with ANSI/AAMI EC38. Nothing here supports claims
 about clinical safety, device performance in deployment or patient outcomes.
 
-The development machine blocked compiled R packages, so the vignettes and this
-article were not rendered there, harbinger, yardstick and
-ivs were inspected from source rather than executed, and
-`R CMD check` was run without building the vignettes or the PDF manual. The
-repository includes a continuous-integration workflow that runs the complete
-check on three platforms.
+The package check (including vignettes and the PDF manual), the comparison
+with harbinger, yardstick and ivs, and this
+article are built by continuous integration on Linux, macOS and Windows, so the
+results do not depend on one machine.
 
 # Summary
 

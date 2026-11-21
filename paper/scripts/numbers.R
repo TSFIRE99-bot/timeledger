@@ -72,3 +72,6 @@ N$py <- list(ts_sample = jnum("timescoring", "sample_sensitivity"),
 tests <- rd0("tests_summary.csv")
 N$tests <- tests
 N$n_expect <- sum(tests$results)
+tk <- rd0("comparators", "r_toolkits.csv")
+N$tk <- tk
+N$tk_get <- function(case, det, col) tk[tk$case == case & tk$detector == det, col]

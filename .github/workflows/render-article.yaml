@@ -29,6 +29,7 @@ jobs:
             any::harbinger
             any::yardstick
             any::ivs
+            any::spelling
             local::.
       - name: Package tests
         run: Rscript tools/run_tests.R
@@ -43,8 +44,7 @@ jobs:
           sudo apt-get install -y poppler-utils
           for f in paper/*.pdf; do echo "$f: $(pdfinfo "$f" | grep Pages)"; done
       - name: rjtools checks
-        run: Rscript -e 'rjtools::initial_check_article("paper")'
-        continue-on-error: true
+        run: Rscript tools/rj_checks.R paper
       - uses: actions/upload-artifact@v4
         if: always()
         with:
