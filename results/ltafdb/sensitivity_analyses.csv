@@ -1,0 +1,37 @@
+"analysis","level","record","detector","metric","estimate","numerator","denominator","unit","excluded_time","undefined_reason"
+"primary","pooled","<pooled>","A_answer","answer_coverage",0.966770433376641,6734250.171875,6965717.9609375,"proportion",92442.0390625,NA
+"primary","pooled","<pooled>","A_answer","answered_sensitivity",0.947312813834607,3402940.8125,3592203.9296875,"proportion",92442.0390625,NA
+"primary","pooled","<pooled>","A_answer","full_capture",0.916934291525676,3402940.8125,3711215.5625,"proportion",92442.0390625,NA
+"primary","pooled","<pooled>","A_answer","episode_sensitivity",0.455162019593067,1208,2654,"proportion",92442.0390625,NA
+"primary","pooled","<pooled>","A_answer","false_alarms_per_known_hour",2.8352569126043,5486,6965717.9609375,"per hour",92442.0390625,NA
+"primary","pooled","<pooled>","A_answer","burden_diff_pp",4.50356561249577,303281.375,6734250.171875,"percentage points",92442.0390625,NA
+"primary","pooled","<pooled>","B_quality","answer_coverage",0.881050426627382,6137148.78125,6965717.9609375,"proportion",92442.0390625,NA
+"primary","pooled","<pooled>","B_quality","answered_sensitivity",0.948095569876862,3119949.4296875,3290754.1484375,"proportion",92442.0390625,NA
+"primary","pooled","<pooled>","B_quality","full_capture",0.840681274678046,3119949.4296875,3711215.5625,"proportion",92442.0390625,NA
+"primary","pooled","<pooled>","B_quality","episode_sensitivity",0.397889977392615,1056,2654,"proportion",92442.0390625,NA
+"primary","pooled","<pooled>","B_quality","false_alarms_per_known_hour",1.66466688215429,3221,6965717.9609375,"per hour",92442.0390625,NA
+"primary","pooled","<pooled>","B_quality","burden_diff_pp",2.96557347291376,182001.65625,6137148.78125,"percentage points",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","A_answer","answer_coverage",0.966770433376641,6734250.171875,6965717.9609375,"proportion",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","A_answer","answered_sensitivity",0.947312813834607,3402940.8125,3592203.9296875,"proportion",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","A_answer","full_capture",0.916934291525676,3402940.8125,3711215.5625,"proportion",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","A_answer","episode_sensitivity",0.455162019593067,1208,2654,"proportion",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","A_answer","false_alarms_per_known_hour",2.8352569126043,5486,6965717.9609375,"per hour",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","A_answer","burden_diff_pp",4.50356561249577,303281.375,6734250.171875,"percentage points",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","B_quality","answer_coverage",0.881050426627382,6137148.78125,6965717.9609375,"proportion",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","B_quality","answered_sensitivity",0.948095569876862,3119949.4296875,3290754.1484375,"proportion",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","B_quality","full_capture",0.840681274678046,3119949.4296875,3711215.5625,"proportion",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","B_quality","episode_sensitivity",0.397889977392615,1056,2654,"proportion",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","B_quality","false_alarms_per_known_hour",1.66466688215429,3221,6965717.9609375,"per hour",92442.0390625,NA
+"S1: AFL counted as AF","pooled","<pooled>","B_quality","burden_diff_pp",2.96557347291376,182001.65625,6137148.78125,"percentage points",92442.0390625,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","A_answer","answer_coverage",0.964475959828766,6807425.640625,7058160,"proportion",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","A_answer","answered_sensitivity",0.947312813834607,3402940.8125,3592203.9296875,"proportion",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","A_answer","full_capture",0.916934291525676,3402940.8125,3711215.5625,"proportion",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","A_answer","episode_sensitivity",0.455162019593067,1208,2654,"proportion",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","A_answer","false_alarms_per_known_hour",2.88789146179741,5662,7058160,"per hour",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","A_answer","burden_diff_pp",5.35787458254944,364733.328125,6807425.640625,"percentage points",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","B_quality","answer_coverage",0.879878644009204,6210324.25,7058160,"proportion",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","B_quality","answered_sensitivity",0.948095569876862,3119949.4296875,3290754.1484375,"proportion",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","B_quality","full_capture",0.840681274678046,3119949.4296875,3711215.5625,"proportion",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","B_quality","episode_sensitivity",0.397889977392615,1056,2654,"proportion",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","B_quality","false_alarms_per_known_hour",1.73263286748954,3397,7058160,"per hour",0,NA
+"S2: unlabelled time counted as (N","pooled","<pooled>","B_quality","burden_diff_pp",3.92014329002226,243453.609375,6210324.25,"percentage points",0,NA
