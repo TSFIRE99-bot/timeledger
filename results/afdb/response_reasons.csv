@@ -1,0 +1,10 @@
+"detector","response","response_reason","duration","share"
+"A_answer","no_input","beat annotation stream ended",18861.984,0.0206050524199445
+"A_answer","abstain","warm-up (fewer than 128 RR intervals)",2545.524,0.0027807602559851
+"A_answer","no_input","beat annotation stream not started",16.756,1.83044508122046e-05
+"A_answer","abstain","no recent beats",5.18400000000111,5.66306236634573e-06
+"B_quality","no_input","beat annotation stream ended",18881.984,0.0206269006543826
+"B_quality","abstain","implausible RR intervals",3925.32000000001,0.00428806558021981
+"B_quality","abstain","warm-up (fewer than 128 RR intervals)",2545.524,0.0027807602559851
+"B_quality","no_input","beat annotation stream not started",16.756,1.83044508122046e-05
+"B_quality","abstain","no recent beats",5.18400000000111,5.66306236634573e-06

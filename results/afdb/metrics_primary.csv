@@ -1,0 +1,1145 @@
+"level","record","detector","metric","estimate","numerator","denominator","unit","excluded_time","undefined_reason"
+"pooled","<pooled>","A_answer","answer_coverage",0.976599014907547,893976.328,915397.532,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","answer_coverage_given_input",0.997154171083562,893746.32,896297.028,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","answered_sensitivity",0.950301317205989,318869.228,335545.392,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","answered_specificity",0.823910744085281,460097.248,558430.936,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","full_capture",0.931126034549026,318869.228,342455.496,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","duration_ppv",0.764302491116817,318869.228,417202.916,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","episode_sensitivity",0.772532188841202,180,233,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","false_alarms_per_answered_hour",4.10749131155965,1020,893976.328,"per hour",8.24400000006426,NA
+"pooled","<pooled>","A_answer","false_alarms_per_known_hour",4.01137196861046,1020,915397.532,"per hour",8.24400000006426,NA
+"pooled","<pooled>","A_answer","unmatched_alarms_per_answered_hour",5.57732888873541,1385,893976.328,"per hour",8.24400000006426,NA
+"pooled","<pooled>","A_answer","pred_burden_answered",0.466682285573897,417202.916,893976.328,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","ref_burden_answered",0.375340354649749,335545.392,893976.328,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","ref_burden_full",0.374105767197983,342455.496,915397.532,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","burden_diff_pp",9.13419309241484,81657.5239999999,893976.328,"percentage points",8.24400000006426,NA
+"pooled","<pooled>","A_answer","burden_bound_lower",0.455757355850461,417202.916,915405.776,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","burden_bound_upper",0.47916713603957,438632.364,915405.776,"proportion",8.24400000006426,NA
+"pooled","<pooled>","A_answer","burden_error_min",1360.95873333333,81657.5239999999,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","A_answer","missed_negative_min",277.936066666667,16676.164,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","A_answer","missed_abstain_min",6.5702,394.212,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","A_answer","missed_no_input_min",108.5982,6515.89200000001,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","A_answer","missed_unknown_min",0,0,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","A_answer","unmatched_alarms",1385,1385,NA,"count",8.24400000006426,NA
+"pooled","<pooled>","B_quality","answer_coverage",0.972289062278136,890031.008,915397.532,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","answer_coverage_given_input",0.992774685402616,889821,896297.028,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","answered_sensitivity",0.950358212840907,317413.04,333993.052,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","answered_specificity",0.824382557078532,458387.992,556037.956,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","full_capture",0.926873838228603,317413.04,342455.496,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","duration_ppv",0.764734599183887,317413.04,415063.004,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","episode_sensitivity",0.763948497854077,178,233,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","false_alarms_per_answered_hour",4.12974375832083,1021,890031.008,"per hour",8.24400000006426,NA
+"pooled","<pooled>","B_quality","false_alarms_per_known_hour",4.01530468622675,1021,915397.532,"per hour",8.24400000006426,NA
+"pooled","<pooled>","B_quality","unmatched_alarms_per_answered_hour",5.63036563328364,1392,890031.008,"per hour",8.24400000006426,NA
+"pooled","<pooled>","B_quality","pred_burden_answered",0.466346678114837,415063.004,890031.008,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","ref_burden_answered",0.375260017907151,333993.052,890031.008,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","ref_burden_full",0.374105767197983,342455.496,915397.532,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","burden_diff_pp",9.10866602076856,81069.9519999999,890031.008,"percentage points",8.24400000006426,NA
+"pooled","<pooled>","B_quality","burden_bound_lower",0.453419690897821,415063.004,915405.776,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","burden_bound_upper",0.481139384901587,440437.772,915405.776,"proportion",8.24400000006426,NA
+"pooled","<pooled>","B_quality","burden_error_min",1351.16586666666,81069.9519999999,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","B_quality","missed_negative_min",276.333533333333,16580.012,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","B_quality","missed_abstain_min",32.2758666666668,1936.55200000001,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","B_quality","missed_no_input_min",108.764866666667,6525.89200000001,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","B_quality","missed_unknown_min",0,0,NA,"minutes",8.24400000006426,NA
+"pooled","<pooled>","B_quality","unmatched_alarms",1392,1392,NA,"count",8.24400000006426,NA
+"record","00735","A_answer","answer_coverage",0.996005873519328,35855.076,35998.86,"proportion",0.224000000001979,NA
+"record","00735","A_answer","answer_coverage_given_input",0.996012070680908,35855.072,35998.632,"proportion",0.224000000001979,NA
+"record","00735","A_answer","answered_sensitivity",0.766242028568399,202.34,264.068,"proportion",0.224000000001979,NA
+"record","00735","A_answer","answered_specificity",0.940240973225597,33464.124,35591.008,"proportion",0.224000000001979,NA
+"record","00735","A_answer","full_capture",0.766242028568399,202.34,264.068,"proportion",0.224000000001979,NA
+"record","00735","A_answer","duration_ppv",0.0868701335723829,202.34,2329.224,"proportion",0.224000000001979,NA
+"record","00735","A_answer","episode_sensitivity",1,1,1,"proportion",0.224000000001979,NA
+"record","00735","A_answer","false_alarms_per_answered_hour",3.31333839593591,33,35855.076,"per hour",0.224000000001979,NA
+"record","00735","A_answer","false_alarms_per_known_hour",3.30010450330927,33,35998.86,"per hour",0.224000000001979,NA
+"record","00735","A_answer","unmatched_alarms_per_answered_hour",3.31333839593591,33,35855.076,"per hour",0.224000000001979,NA
+"record","00735","A_answer","pred_burden_answered",0.064962182760399,2329.224,35855.076,"proportion",0.224000000001979,NA
+"record","00735","A_answer","ref_burden_answered",0.00736487073685187,264.068,35855.076,"proportion",0.224000000001979,NA
+"record","00735","A_answer","ref_burden_full",0.00733545451161508,264.068,35998.86,"proportion",0.224000000001979,NA
+"record","00735","A_answer","burden_diff_pp",5.75973120235471,2065.156,35855.076,"percentage points",0.224000000001979,NA
+"record","00735","A_answer","burden_bound_lower",0.0647023129810746,2329.224,35999.084,"proportion",0.224000000001979,NA
+"record","00735","A_answer","burden_bound_upper",0.0687026369893188,2473.232,35999.084,"proportion",0.224000000001979,NA
+"record","00735","A_answer","burden_error_min",34.4192666666666,2065.156,NA,"minutes",0.224000000001979,NA
+"record","00735","A_answer","missed_negative_min",1.0288,61.7280000000001,NA,"minutes",0.224000000001979,NA
+"record","00735","A_answer","missed_abstain_min",0,0,NA,"minutes",0.224000000001979,NA
+"record","00735","A_answer","missed_no_input_min",0,0,NA,"minutes",0.224000000001979,NA
+"record","00735","A_answer","missed_unknown_min",0,0,NA,"minutes",0.224000000001979,NA
+"record","00735","A_answer","unmatched_alarms",33,33,NA,"count",0.224000000001979,NA
+"record","03665","A_answer","answer_coverage",0.997268198850146,35901.348,35999.692,"proportion",0.120000000002619,NA
+"record","03665","A_answer","answer_coverage_given_input",0.997271633623118,35901.344,35999.564,"proportion",0.120000000002619,NA
+"record","03665","A_answer","answered_sensitivity",0.986998046115959,5881.928,5959.412,"proportion",0.120000000002619,NA
+"record","03665","A_answer","answered_specificity",0.659316885855344,19741.224,29941.936,"proportion",0.120000000002619,NA
+"record","03665","A_answer","full_capture",0.986998046115959,5881.928,5959.412,"proportion",0.120000000002619,NA
+"record","03665","A_answer","duration_ppv",0.365731496818931,5881.928,16082.64,"proportion",0.120000000002619,NA
+"record","03665","A_answer","episode_sensitivity",0.666666666666667,4,6,"proportion",0.120000000002619,NA
+"record","03665","A_answer","false_alarms_per_answered_hour",7.21978461644393,72,35901.348,"per hour",0.120000000002619,NA
+"record","03665","A_answer","false_alarms_per_known_hour",7.20006160052703,72,35999.692,"per hour",0.120000000002619,NA
+"record","03665","A_answer","unmatched_alarms_per_answered_hour",7.21978461644393,72,35901.348,"per hour",0.120000000002619,NA
+"record","03665","A_answer","pred_burden_answered",0.447967580493077,16082.64,35901.348,"proportion",0.120000000002619,NA
+"record","03665","A_answer","ref_burden_answered",0.165994101391402,5959.412,35901.348,"proportion",0.120000000002619,NA
+"record","03665","A_answer","ref_burden_full",0.165540638514352,5959.412,35999.692,"proportion",0.120000000002619,NA
+"record","03665","A_answer","burden_diff_pp",28.1973479101675,10123.228,35901.348,"percentage points",0.120000000002619,NA
+"record","03665","A_answer","burden_bound_lower",0.446742332987738,16082.64,35999.812,"proportion",0.120000000002619,NA
+"record","03665","A_answer","burden_bound_upper",0.449477458382282,16181.104,35999.812,"proportion",0.120000000002619,NA
+"record","03665","A_answer","burden_error_min",168.720466666666,10123.228,NA,"minutes",0.120000000002619,NA
+"record","03665","A_answer","missed_negative_min",1.29140000000004,77.4840000000022,NA,"minutes",0.120000000002619,NA
+"record","03665","A_answer","missed_abstain_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","03665","A_answer","missed_no_input_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","03665","A_answer","missed_unknown_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","03665","A_answer","unmatched_alarms",72,72,NA,"count",0.120000000002619,NA
+"record","04015","A_answer","answer_coverage",0.97556478410729,35923.144,36822.92,"proportion",0.120000000002619,NA
+"record","04015","A_answer","answer_coverage_given_input",0.997600634675129,35913.144,35999.52,"proportion",0.120000000002619,NA
+"record","04015","A_answer","answered_sensitivity",0.917331265069383,217.624000000001,237.236000000001,"proportion",0.120000000002619,NA
+"record","04015","A_answer","answered_specificity",0.840192380701088,29983.028,35685.908,"proportion",0.120000000002619,NA
+"record","04015","A_answer","full_capture",0.917331265069383,217.624000000001,237.236000000001,"proportion",0.120000000002619,NA
+"record","04015","A_answer","duration_ppv",0.0367576814406342,217.624000000001,5920.504,"proportion",0.120000000002619,NA
+"record","04015","A_answer","episode_sensitivity",1,2,2,"proportion",0.120000000002619,NA
+"record","04015","A_answer","false_alarms_per_answered_hour",8.61839932495886,86,35923.144,"per hour",0.120000000002619,NA
+"record","04015","A_answer","false_alarms_per_known_hour",8.4078068768039,86,36822.92,"per hour",0.120000000002619,NA
+"record","04015","A_answer","unmatched_alarms_per_answered_hour",8.61839932495886,86,35923.144,"per hour",0.120000000002619,NA
+"record","04015","A_answer","pred_burden_answered",0.164810296114393,5920.504,35923.144,"proportion",0.120000000002619,NA
+"record","04015","A_answer","ref_burden_answered",0.00660398766878535,237.236000000001,35923.144,"proportion",0.120000000002619,NA
+"record","04015","A_answer","ref_burden_full",0.00644261780434579,237.236000000001,36822.92,"proportion",0.120000000002619,NA
+"record","04015","A_answer","burden_diff_pp",15.8206308445608,5683.268,35923.144,"percentage points",0.120000000002619,NA
+"record","04015","A_answer","burden_bound_lower",0.160782596982759,5920.504,36823.04,"proportion",0.120000000002619,NA
+"record","04015","A_answer","burden_bound_upper",0.185220992074527,6820.39999999999,36823.04,"proportion",0.120000000002619,NA
+"record","04015","A_answer","burden_error_min",94.7211333333333,5683.268,NA,"minutes",0.120000000002619,NA
+"record","04015","A_answer","missed_negative_min",0.326866666666666,19.612,NA,"minutes",0.120000000002619,NA
+"record","04015","A_answer","missed_abstain_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","04015","A_answer","missed_no_input_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","04015","A_answer","missed_unknown_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","04015","A_answer","unmatched_alarms",86,86,NA,"count",0.120000000002619,NA
+"record","04043","A_answer","answer_coverage",0.975959004494176,35937.512,36822.768,"proportion",0.271999999997206,NA
+"record","04043","A_answer","answer_coverage_given_input",0.998005739222069,35927.512,35999.304,"proportion",0.271999999997206,NA
+"record","04043","A_answer","answered_sensitivity",0.705728900979128,5589.16400000001,7919.70400000002,"proportion",0.271999999997206,NA
+"record","04043","A_answer","answered_specificity",0.834500543368704,23380.876,28017.808,"proportion",0.271999999997206,NA
+"record","04043","A_answer","full_capture",0.705728900979128,5589.16400000001,7919.70400000002,"proportion",0.271999999997206,NA
+"record","04043","A_answer","duration_ppv",0.54655892141048,5589.16400000001,10226.096,"proportion",0.271999999997206,NA
+"record","04043","A_answer","episode_sensitivity",0.887323943661972,63,71,"proportion",0.271999999997206,NA
+"record","04043","A_answer","false_alarms_per_answered_hour",3.70643354498219,37,35937.512,"per hour",0.271999999997206,NA
+"record","04043","A_answer","false_alarms_per_known_hour",3.61732719278464,37,36822.768,"per hour",0.271999999997206,NA
+"record","04043","A_answer","unmatched_alarms_per_answered_hour",5.70991113686446,57,35937.512,"per hour",0.271999999997206,NA
+"record","04043","A_answer","pred_burden_answered",0.284552141506067,10226.096,35937.512,"proportion",0.271999999997206,NA
+"record","04043","A_answer","ref_burden_answered",0.220374298588061,7919.70400000002,35937.512,"proportion",0.271999999997206,NA
+"record","04043","A_answer","ref_burden_full",0.215076281066106,7919.70400000002,36822.768,"proportion",0.271999999997206,NA
+"record","04043","A_answer","burden_diff_pp",6.4177842918006,2306.39199999996,35937.512,"percentage points",0.271999999997206,NA
+"record","04043","A_answer","burden_bound_lower",0.277709173387096,10226.096,36823.04,"proportion",0.271999999997206,NA
+"record","04043","A_answer","burden_bound_upper",0.301757377989432,11111.624,36823.04,"proportion",0.271999999997206,NA
+"record","04043","A_answer","burden_error_min",38.4398666666659,2306.39199999996,NA,"minutes",0.271999999997206,NA
+"record","04043","A_answer","missed_negative_min",38.8423333333334,2330.54,NA,"minutes",0.271999999997206,NA
+"record","04043","A_answer","missed_abstain_min",0,0,NA,"minutes",0.271999999997206,NA
+"record","04043","A_answer","missed_no_input_min",0,0,NA,"minutes",0.271999999997206,NA
+"record","04043","A_answer","missed_unknown_min",0,0,NA,"minutes",0.271999999997206,NA
+"record","04043","A_answer","unmatched_alarms",57,57,NA,"count",0.271999999997206,NA
+"record","04048","A_answer","answer_coverage",0.9512142847211,35025.932,36822.336,"proportion",0.703999999997905,NA
+"record","04048","A_answer","answer_coverage_given_input",0.996770566403392,35015.932,35129.38,"proportion",0.703999999997905,NA
+"record","04048","A_answer","answered_sensitivity",0.500753930416664,180.660000000001,360.775999999997,"proportion",0.703999999997905,NA
+"record","04048","A_answer","answered_specificity",0.976408818122728,33847.364,34665.156,"proportion",0.703999999997905,NA
+"record","04048","A_answer","full_capture",0.500753930416664,180.660000000001,360.775999999997,"proportion",0.703999999997905,NA
+"record","04048","A_answer","duration_ppv",0.180940095267474,180.660000000001,998.452000000003,"proportion",0.703999999997905,NA
+"record","04048","A_answer","episode_sensitivity",0.666666666666667,2,3,"proportion",0.703999999997905,NA
+"record","04048","A_answer","false_alarms_per_answered_hour",1.74727684619498,17,35025.932,"per hour",0.703999999997905,NA
+"record","04048","A_answer","false_alarms_per_known_hour",1.6620346954631,17,36822.336,"per hour",0.703999999997905,NA
+"record","04048","A_answer","unmatched_alarms_per_answered_hour",1.74727684619498,17,35025.932,"per hour",0.703999999997905,NA
+"record","04048","A_answer","pred_burden_answered",0.0285060794385144,998.452000000003,35025.932,"proportion",0.703999999997905,NA
+"record","04048","A_answer","ref_burden_answered",0.0103002541088699,360.775999999997,35025.932,"proportion",0.703999999997905,NA
+"record","04048","A_answer","ref_burden_full",0.00979774884461423,360.775999999997,36822.336,"proportion",0.703999999997905,NA
+"record","04048","A_answer","burden_diff_pp",1.82058253296445,637.676000000006,35025.932,"percentage points",0.703999999997905,NA
+"record","04048","A_answer","burden_bound_lower",0.0271148715586764,998.452000000003,36823.04,"proportion",0.703999999997905,NA
+"record","04048","A_answer","burden_bound_upper",0.0759187725945496,2795.56,36823.04,"proportion",0.703999999997905,NA
+"record","04048","A_answer","burden_error_min",10.6279333333334,637.676000000006,NA,"minutes",0.703999999997905,NA
+"record","04048","A_answer","missed_negative_min",3.00193333333327,180.115999999996,NA,"minutes",0.703999999997905,NA
+"record","04048","A_answer","missed_abstain_min",0,0,NA,"minutes",0.703999999997905,NA
+"record","04048","A_answer","missed_no_input_min",0,0,NA,"minutes",0.703999999997905,NA
+"record","04048","A_answer","missed_unknown_min",0,0,NA,"minutes",0.703999999997905,NA
+"record","04048","A_answer","unmatched_alarms",17,17,NA,"count",0.703999999997905,NA
+"record","04126","A_answer","answer_coverage",0.975845044856362,35932.98,36822.424,"proportion",0.616000000001804,NA
+"record","04126","A_answer","answer_coverage_given_input",0.997916771533685,35922.98,35997.972,"proportion",0.616000000001804,NA
+"record","04126","A_answer","answered_sensitivity",0.909121677790179,1224.856,1347.296,"proportion",0.616000000001804,NA
+"record","04126","A_answer","answered_specificity",0.65003924745279,22482.052,34585.684,"proportion",0.616000000001804,NA
+"record","04126","A_answer","full_capture",0.888883083255681,1224.856,1377.972,"proportion",0.616000000001804,NA
+"record","04126","A_answer","duration_ppv",0.091897595586236,1224.856,13328.488,"proportion",0.616000000001804,NA
+"record","04126","A_answer","episode_sensitivity",1,5,5,"proportion",0.616000000001804,NA
+"record","04126","A_answer","false_alarms_per_answered_hour",8.71622670872274,87,35932.98,"per hour",0.616000000001804,NA
+"record","04126","A_answer","false_alarms_per_known_hour",8.50568664355177,87,36822.424,"per hour",0.616000000001804,NA
+"record","04126","A_answer","unmatched_alarms_per_answered_hour",8.91659973650947,89,35932.98,"per hour",0.616000000001804,NA
+"record","04126","A_answer","pred_burden_answered",0.370926318941541,13328.488,35932.98,"proportion",0.616000000001804,NA
+"record","04126","A_answer","ref_burden_answered",0.0374946915062431,1347.296,35932.98,"proportion",0.616000000001804,NA
+"record","04126","A_answer","ref_burden_full",0.0374220882362336,1377.972,36822.424,"proportion",0.616000000001804,NA
+"record","04126","A_answer","burden_diff_pp",33.3431627435298,11981.192,35932.98,"percentage points",0.616000000001804,NA
+"record","04126","A_answer","burden_bound_lower",0.361960555130701,13328.488,36823.04,"proportion",0.616000000001804,NA
+"record","04126","A_answer","burden_bound_upper",0.386131834851224,14218.548,36823.04,"proportion",0.616000000001804,NA
+"record","04126","A_answer","burden_error_min",199.686533333333,11981.192,NA,"minutes",0.616000000001804,NA
+"record","04126","A_answer","missed_negative_min",2.04066666666673,122.440000000004,NA,"minutes",0.616000000001804,NA
+"record","04126","A_answer","missed_abstain_min",0.511266666666667,30.676,NA,"minutes",0.616000000001804,NA
+"record","04126","A_answer","missed_no_input_min",0,0,NA,"minutes",0.616000000001804,NA
+"record","04126","A_answer","missed_unknown_min",0,0,NA,"minutes",0.616000000001804,NA
+"record","04126","A_answer","unmatched_alarms",89,89,NA,"count",0.616000000001804,NA
+"record","04746","A_answer","answer_coverage",0.974633319494079,35888.72,36822.792,"proportion",0.247999999999593,NA
+"record","04746","A_answer","answer_coverage_given_input",0.996653480444783,35878.72,35999.192,"proportion",0.247999999999593,NA
+"record","04746","A_answer","answered_sensitivity",0.994645325159178,19448.308,19553.008,"proportion",0.247999999999593,NA
+"record","04746","A_answer","answered_specificity",0.885535935011587,14465.86,16335.712,"proportion",0.247999999999593,NA
+"record","04746","A_answer","full_capture",0.994645325159178,19448.308,19553.008,"proportion",0.247999999999593,NA
+"record","04746","A_answer","duration_ppv",0.912288302555192,19448.308,21318.16,"proportion",0.247999999999593,NA
+"record","04746","A_answer","episode_sensitivity",1,2,2,"proportion",0.247999999999593,NA
+"record","04746","A_answer","false_alarms_per_answered_hour",2.00620139141212,20,35888.72,"per hour",0.247999999999593,NA
+"record","04746","A_answer","false_alarms_per_known_hour",1.95531072168563,20,36822.792,"per hour",0.247999999999593,NA
+"record","04746","A_answer","unmatched_alarms_per_answered_hour",2.50775173926515,25,35888.72,"per hour",0.247999999999593,NA
+"record","04746","A_answer","pred_burden_answered",0.594007253532586,21318.16,35888.72,"proportion",0.247999999999593,NA
+"record","04746","A_answer","ref_burden_answered",0.544823220220727,19553.008,35888.72,"proportion",0.247999999999593,NA
+"record","04746","A_answer","ref_burden_full",0.53100286366118,19553.008,36822.792,"proportion",0.247999999999593,NA
+"record","04746","A_answer","burden_diff_pp",4.91840333118596,1765.152,35888.72,"percentage points",0.247999999999593,NA
+"record","04746","A_answer","burden_bound_lower",0.578935362208009,21318.16,36823.04,"proportion",0.247999999999593,NA
+"record","04746","A_answer","burden_bound_upper",0.604308606785317,22252.48,36823.04,"proportion",0.247999999999593,NA
+"record","04746","A_answer","burden_error_min",29.4192,1765.152,NA,"minutes",0.247999999999593,NA
+"record","04746","A_answer","missed_negative_min",1.74499999999998,104.699999999999,NA,"minutes",0.247999999999593,NA
+"record","04746","A_answer","missed_abstain_min",0,0,NA,"minutes",0.247999999999593,NA
+"record","04746","A_answer","missed_no_input_min",0,0,NA,"minutes",0.247999999999593,NA
+"record","04746","A_answer","missed_unknown_min",0,0,NA,"minutes",0.247999999999593,NA
+"record","04746","A_answer","unmatched_alarms",25,25,NA,"count",0.247999999999593,NA
+"record","04908","A_answer","answer_coverage",0.975757410511549,35930.28,36822.964,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","answer_coverage_given_input",0.997803959495253,35920.28,35999.336,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","answered_sensitivity",0.910941030063081,2807.932,3082.452,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","answered_specificity",0.990493496251868,32535.56,32847.828,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","full_capture",0.910941030063081,2807.932,3082.452,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","duration_ppv",0.899920517915521,2807.932,3120.19999999999,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","episode_sensitivity",1,7,7,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","false_alarms_per_answered_hour",0.701358297235646,7,35930.28,"per hour",0.0760000000009313,NA
+"record","04908","A_answer","false_alarms_per_known_hour",0.684355555951444,7,36822.964,"per hour",0.0760000000009313,NA
+"record","04908","A_answer","unmatched_alarms_per_answered_hour",1.00194042462235,10,35930.28,"per hour",0.0760000000009313,NA
+"record","04908","A_answer","pred_burden_answered",0.086840403136296,3120.19999999999,35930.28,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","ref_burden_answered",0.0857898129377227,3082.452,35930.28,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","ref_burden_full",0.0837100457203825,3082.452,36822.964,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","burden_diff_pp",0.10505901985733,37.7479999999941,35930.28,"percentage points",0.0760000000009313,NA
+"record","04908","A_answer","burden_bound_lower",0.0847349920050054,3120.19999999999,36823.04,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","burden_bound_upper",0.10897959538376,4012.96,36823.04,"proportion",0.0760000000009313,NA
+"record","04908","A_answer","burden_error_min",0.629133333333236,37.7479999999941,NA,"minutes",0.0760000000009313,NA
+"record","04908","A_answer","missed_negative_min",4.57533333333326,274.519999999996,NA,"minutes",0.0760000000009313,NA
+"record","04908","A_answer","missed_abstain_min",0,0,NA,"minutes",0.0760000000009313,NA
+"record","04908","A_answer","missed_no_input_min",0,0,NA,"minutes",0.0760000000009313,NA
+"record","04908","A_answer","missed_unknown_min",0,0,NA,"minutes",0.0760000000009313,NA
+"record","04908","A_answer","unmatched_alarms",10,10,NA,"count",0.0760000000009313,NA
+"record","04936","A_answer","answer_coverage",0.974870292572508,35897.524,36822.872,"proportion",0.167999999997846,NA
+"record","04936","A_answer","answer_coverage_given_input",0.996890730793265,35887.524,35999.456,"proportion",0.167999999997846,NA
+"record","04936","A_answer","answered_sensitivity",0.883390254532486,23463.46,26560.696,"proportion",0.167999999997846,NA
+"record","04936","A_answer","answered_specificity",0.608721505847599,5683.52800000002,9336.828,"proportion",0.167999999997846,NA
+"record","04936","A_answer","full_capture",0.883390254532486,23463.46,26560.696,"proportion",0.167999999997846,NA
+"record","04936","A_answer","duration_ppv",0.865275202494694,23463.46,27116.76,"proportion",0.167999999997846,NA
+"record","04936","A_answer","episode_sensitivity",0.758620689655172,22,29,"proportion",0.167999999997846,NA
+"record","04936","A_answer","false_alarms_per_answered_hour",2.00570936313045,20,35897.524,"per hour",0.167999999997846,NA
+"record","04936","A_answer","false_alarms_per_known_hour",1.9553064736504,20,36822.872,"per hour",0.167999999997846,NA
+"record","04936","A_answer","unmatched_alarms_per_answered_hour",7.82226651620875,78,35897.524,"per hour",0.167999999997846,NA
+"record","04936","A_answer","pred_burden_answered",0.755393603191127,27116.76,35897.524,"proportion",0.167999999997846,NA
+"record","04936","A_answer","ref_burden_answered",0.739903286923076,26560.696,35897.524,"proportion",0.167999999997846,NA
+"record","04936","A_answer","ref_burden_full",0.721309733798059,26560.696,36822.872,"proportion",0.167999999997846,NA
+"record","04936","A_answer","burden_diff_pp",1.54903162680512,556.063999999958,35897.524,"percentage points",0.167999999997846,NA
+"record","04936","A_answer","burden_bound_lower",0.736407423178531,27116.76,36823.04,"proportion",0.167999999997846,NA
+"record","04936","A_answer","burden_bound_upper",0.761541578316184,28042.276,36823.04,"proportion",0.167999999997846,NA
+"record","04936","A_answer","burden_error_min",9.26773333333264,556.063999999958,NA,"minutes",0.167999999997846,NA
+"record","04936","A_answer","missed_negative_min",51.6206000000003,3097.23600000002,NA,"minutes",0.167999999997846,NA
+"record","04936","A_answer","missed_abstain_min",0,0,NA,"minutes",0.167999999997846,NA
+"record","04936","A_answer","missed_no_input_min",0,0,NA,"minutes",0.167999999997846,NA
+"record","04936","A_answer","missed_unknown_min",0,0,NA,"minutes",0.167999999997846,NA
+"record","04936","A_answer","unmatched_alarms",78,78,NA,"count",0.167999999997846,NA
+"record","05091","A_answer","answer_coverage",0.974391465444001,35879.748,36822.724,"proportion",0.315999999998894,NA
+"record","05091","A_answer","answer_coverage_given_input",0.9964072419176,35869.748,35999.084,"proportion",0.315999999998894,NA
+"record","05091","A_answer","answered_sensitivity",0.0537064355522756,4.65999999999985,86.768,"proportion",0.315999999998894,NA
+"record","05091","A_answer","answered_specificity",0.992830884715383,35536.376,35792.98,"proportion",0.315999999998894,NA
+"record","05091","A_answer","full_capture",0.0537064355522756,4.65999999999985,86.768,"proportion",0.315999999998894,NA
+"record","05091","A_answer","duration_ppv",0.0178363647498313,4.65999999999985,261.263999999996,"proportion",0.315999999998894,NA
+"record","05091","A_answer","episode_sensitivity",1,1,1,"proportion",0.315999999998894,NA
+"record","05091","A_answer","false_alarms_per_answered_hour",0.602010917133532,6,35879.748,"per hour",0.315999999998894,NA
+"record","05091","A_answer","false_alarms_per_known_hour",0.586594299759029,6,36822.724,"per hour",0.315999999998894,NA
+"record","05091","A_answer","unmatched_alarms_per_answered_hour",0.602010917133532,6,35879.748,"per hour",0.315999999998894,NA
+"record","05091","A_answer","pred_burden_answered",0.00728165649323946,261.263999999996,35879.748,"proportion",0.315999999998894,NA
+"record","05091","A_answer","ref_burden_answered",0.00241830015082603,86.768,35879.748,"proportion",0.315999999998894,NA
+"record","05091","A_answer","ref_burden_full",0.00235637102784683,86.768,36822.724,"proportion",0.315999999998894,NA
+"record","05091","A_answer","burden_diff_pp",0.486335634241343,174.495999999996,35879.748,"percentage points",0.315999999998894,NA
+"record","05091","A_answer","burden_bound_lower",0.00709512305339254,261.263999999996,36823.04,"proportion",0.315999999998894,NA
+"record","05091","A_answer","burden_bound_upper",0.0327120194313125,1204.556,36823.04,"proportion",0.315999999998894,NA
+"record","05091","A_answer","burden_error_min",2.90826666666659,174.495999999996,NA,"minutes",0.315999999998894,NA
+"record","05091","A_answer","missed_negative_min",1.36846666666667,82.1080000000002,NA,"minutes",0.315999999998894,NA
+"record","05091","A_answer","missed_abstain_min",0,0,NA,"minutes",0.315999999998894,NA
+"record","05091","A_answer","missed_no_input_min",0,0,NA,"minutes",0.315999999998894,NA
+"record","05091","A_answer","missed_unknown_min",0,0,NA,"minutes",0.315999999998894,NA
+"record","05091","A_answer","unmatched_alarms",6,6,NA,"count",0.315999999998894,NA
+"record","05121","A_answer","answer_coverage",0.9751493960502,35907.856,36822.928,"proportion",0.11200000000099,NA
+"record","05121","A_answer","answer_coverage_given_input",0.997182942719835,35897.856,35999.268,"proportion",0.11200000000099,NA
+"record","05121","A_answer","answered_sensitivity",0.955419772653163,22174.284,23208.944,"proportion",0.11200000000099,NA
+"record","05121","A_answer","answered_specificity",0.827365053006116,10506.636,12698.912,"proportion",0.11200000000099,NA
+"record","05121","A_answer","full_capture",0.955419772653163,22174.284,23208.944,"proportion",0.11200000000099,NA
+"record","05121","A_answer","duration_ppv",0.910029318869795,22174.284,24366.56,"proportion",0.11200000000099,NA
+"record","05121","A_answer","episode_sensitivity",0.764705882352941,13,17,"proportion",0.11200000000099,NA
+"record","05121","A_answer","false_alarms_per_answered_hour",2.00513224738341,20,35907.856,"per hour",0.11200000000099,NA
+"record","05121","A_answer","false_alarms_per_known_hour",1.95530350003672,20,36822.928,"per hour",0.11200000000099,NA
+"record","05121","A_answer","unmatched_alarms_per_answered_hour",4.21077771950517,42,35907.856,"per hour",0.11200000000099,NA
+"record","05121","A_answer","pred_burden_answered",0.678585766858372,24366.56,35907.856,"proportion",0.11200000000099,NA
+"record","05121","A_answer","ref_burden_answered",0.646347250584942,23208.944,35907.856,"proportion",0.11200000000099,NA
+"record","05121","A_answer","ref_burden_full",0.630285131046613,23208.944,36822.928,"proportion",0.11200000000099,NA
+"record","05121","A_answer","burden_diff_pp",3.22385162734305,1157.616,35907.856,"percentage points",0.11200000000099,NA
+"record","05121","A_answer","burden_bound_lower",0.661720488042269,24366.56,36823.04,"proportion",0.11200000000099,NA
+"record","05121","A_answer","burden_bound_upper",0.68657405798109,25281.744,36823.04,"proportion",0.11200000000099,NA
+"record","05121","A_answer","burden_error_min",19.2936,1157.616,NA,"minutes",0.11200000000099,NA
+"record","05121","A_answer","missed_negative_min",17.2443333333333,1034.66,NA,"minutes",0.11200000000099,NA
+"record","05121","A_answer","missed_abstain_min",0,0,NA,"minutes",0.11200000000099,NA
+"record","05121","A_answer","missed_no_input_min",0,0,NA,"minutes",0.11200000000099,NA
+"record","05121","A_answer","missed_unknown_min",0,0,NA,"minutes",0.11200000000099,NA
+"record","05121","A_answer","unmatched_alarms",42,42,NA,"count",0.11200000000099,NA
+"record","05261","A_answer","answer_coverage",0.974989289193513,35901.664,36822.624,"proportion",0.415999999997439,NA
+"record","05261","A_answer","answer_coverage_given_input",0.997022571388951,35891.664,35998.848,"proportion",0.415999999997439,NA
+"record","05261","A_answer","answered_sensitivity",0.813352464691797,389.995999999999,479.492,"proportion",0.415999999997439,NA
+"record","05261","A_answer","answered_specificity",0.833269512665683,29516.216,35422.172,"proportion",0.415999999997439,NA
+"record","05261","A_answer","full_capture",0.813352464691797,389.995999999999,479.492,"proportion",0.415999999997439,NA
+"record","05261","A_answer","duration_ppv",0.0619439284162268,389.995999999999,6295.95199999999,"proportion",0.415999999997439,NA
+"record","05261","A_answer","episode_sensitivity",1,2,2,"proportion",0.415999999997439,NA
+"record","05261","A_answer","false_alarms_per_answered_hour",9.92711647014467,99,35901.664,"per hour",0.415999999997439,NA
+"record","05261","A_answer","false_alarms_per_known_hour",9.67883223096757,99,36822.624,"per hour",0.415999999997439,NA
+"record","05261","A_answer","unmatched_alarms_per_answered_hour",9.92711647014467,99,35901.664,"per hour",0.415999999997439,NA
+"record","05261","A_answer","pred_burden_answered",0.175366579108979,6295.95199999999,35901.664,"proportion",0.415999999997439,NA
+"record","05261","A_answer","ref_burden_answered",0.0133557040698726,479.492,35901.664,"proportion",0.415999999997439,NA
+"record","05261","A_answer","ref_burden_full",0.013021668417764,479.492,36822.624,"proportion",0.415999999997439,NA
+"record","05261","A_answer","burden_diff_pp",16.2010875039106,5816.45999999999,35901.664,"percentage points",0.415999999997439,NA
+"record","05261","A_answer","burden_bound_lower",0.170978604699666,6295.95199999999,36823.04,"proportion",0.415999999997439,NA
+"record","05261","A_answer","burden_bound_upper",0.196000330228031,7217.32799999999,36823.04,"proportion",0.415999999997439,NA
+"record","05261","A_answer","burden_error_min",96.9409999999998,5816.45999999999,NA,"minutes",0.415999999997439,NA
+"record","05261","A_answer","missed_negative_min",1.49160000000002,89.496000000001,NA,"minutes",0.415999999997439,NA
+"record","05261","A_answer","missed_abstain_min",0,0,NA,"minutes",0.415999999997439,NA
+"record","05261","A_answer","missed_no_input_min",0,0,NA,"minutes",0.415999999997439,NA
+"record","05261","A_answer","missed_unknown_min",0,0,NA,"minutes",0.415999999997439,NA
+"record","05261","A_answer","unmatched_alarms",99,99,NA,"count",0.415999999997439,NA
+"record","06426","A_answer","answer_coverage",0.975374992273828,35916.128,36822.892,"proportion",0.148000000001048,NA
+"record","06426","A_answer","answer_coverage_given_input",0.99740906792891,35906.128,35999.4,"proportion",0.148000000001048,NA
+"record","06426","A_answer","answered_sensitivity",0.986515067835106,33745.496,34206.772,"proportion",0.148000000001048,NA
+"record","06426","A_answer","answered_specificity",0.148278064955457,253.460000000001,1709.356,"proportion",0.148000000001048,NA
+"record","06426","A_answer","full_capture",0.961039526181584,33745.496,35113.536,"proportion",0.148000000001048,NA
+"record","06426","A_answer","duration_ppv",0.958640953744102,33745.496,35201.392,"proportion",0.148000000001048,NA
+"record","06426","A_answer","episode_sensitivity",0.565217391304348,13,23,"proportion",0.148000000001048,NA
+"record","06426","A_answer","false_alarms_per_answered_hour",0,0,35916.128,"per hour",0.148000000001048,NA
+"record","06426","A_answer","false_alarms_per_known_hour",0,0,36822.892,"per hour",0.148000000001048,NA
+"record","06426","A_answer","unmatched_alarms_per_answered_hour",1.00233521831752,10,35916.128,"per hour",0.148000000001048,NA
+"record","06426","A_answer","pred_burden_answered",0.980099859316684,35201.392,35916.128,"proportion",0.148000000001048,NA
+"record","06426","A_answer","ref_burden_answered",0.952407007793268,34206.772,35916.128,"proportion",0.148000000001048,NA
+"record","06426","A_answer","ref_burden_full",0.95357898559407,35113.536,36822.892,"proportion",0.148000000001048,NA
+"record","06426","A_answer","burden_diff_pp",2.7692851523416,994.620000000003,35916.128,"percentage points",0.148000000001048,NA
+"record","06426","A_answer","burden_bound_lower",0.955961050472748,35201.392,36823.04,"proportion",0.148000000001048,NA
+"record","06426","A_answer","burden_bound_upper",0.980589978448276,36108.304,36823.04,"proportion",0.148000000001048,NA
+"record","06426","A_answer","burden_error_min",16.577,994.620000000003,NA,"minutes",0.148000000001048,NA
+"record","06426","A_answer","missed_negative_min",7.68793333333332,461.275999999999,NA,"minutes",0.148000000001048,NA
+"record","06426","A_answer","missed_abstain_min",1.55453333333333,93.272,NA,"minutes",0.148000000001048,NA
+"record","06426","A_answer","missed_no_input_min",13.5582,813.491999999997,NA,"minutes",0.148000000001048,NA
+"record","06426","A_answer","missed_unknown_min",0,0,NA,"minutes",0.148000000001048,NA
+"record","06426","A_answer","unmatched_alarms",10,10,NA,"count",0.148000000001048,NA
+"record","06453","A_answer","answer_coverage",0.994144158753611,33104.404,33299.4,"proportion",0.599999999998545,NA
+"record","06453","A_answer","answer_coverage_given_input",0.996854707865556,33094.404,33198.824,"proportion",0.599999999998545,NA
+"record","06453","A_answer","answered_sensitivity",0.516742081447957,191.855999999997,371.279999999999,"proportion",0.599999999998545,NA
+"record","06453","A_answer","answered_specificity",0.705737344226601,23100.988,32733.124,"proportion",0.599999999998545,NA
+"record","06453","A_answer","full_capture",0.516742081447957,191.855999999997,371.279999999999,"proportion",0.599999999998545,NA
+"record","06453","A_answer","duration_ppv",0.0195293318642765,191.855999999997,9823.992,"proportion",0.599999999998545,NA
+"record","06453","A_answer","episode_sensitivity",1,3,3,"proportion",0.599999999998545,NA
+"record","06453","A_answer","false_alarms_per_answered_hour",13.0496232465022,120,33104.404,"per hour",0.599999999998545,NA
+"record","06453","A_answer","false_alarms_per_known_hour",12.9732067244455,120,33299.4,"per hour",0.599999999998545,NA
+"record","06453","A_answer","unmatched_alarms_per_answered_hour",13.1583701068897,121,33104.404,"per hour",0.599999999998545,NA
+"record","06453","A_answer","pred_burden_answered",0.29675785735336,9823.992,33104.404,"proportion",0.599999999998545,NA
+"record","06453","A_answer","ref_burden_answered",0.0112154262012994,371.279999999999,33104.404,"proportion",0.599999999998545,NA
+"record","06453","A_answer","ref_burden_full",0.011149750445954,371.279999999999,33299.4,"proportion",0.599999999998545,NA
+"record","06453","A_answer","burden_diff_pp",28.5542431152061,9452.712,33104.404,"percentage points",0.599999999998545,NA
+"record","06453","A_answer","burden_bound_lower",0.295014774774775,9823.992,33300,"proportion",0.599999999998545,NA
+"record","06453","A_answer","burden_bound_upper",0.300888528528529,10019.588,33300,"proportion",0.599999999998545,NA
+"record","06453","A_answer","burden_error_min",157.5452,9452.712,NA,"minutes",0.599999999998545,NA
+"record","06453","A_answer","missed_negative_min",2.99040000000004,179.424000000002,NA,"minutes",0.599999999998545,NA
+"record","06453","A_answer","missed_abstain_min",0,0,NA,"minutes",0.599999999998545,NA
+"record","06453","A_answer","missed_no_input_min",0,0,NA,"minutes",0.599999999998545,NA
+"record","06453","A_answer","missed_unknown_min",0,0,NA,"minutes",0.599999999998545,NA
+"record","06453","A_answer","unmatched_alarms",121,121,NA,"count",0.599999999998545,NA
+"record","06995","A_answer","answer_coverage",0.975555720428302,35922.9,36823.012,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","answer_coverage_given_input",0.99759097483907,35912.9,35999.624,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","answered_sensitivity",0.925534063574061,15231.888,16457.404,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","answered_specificity",0.486571521218879,9471.35600000001,19465.496,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","full_capture",0.877538468061905,15231.888,17357.516,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","duration_ppv",0.603816343976151,15231.888,25226.028,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","episode_sensitivity",1,4,4,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","false_alarms_per_answered_hour",10.0214626324712,100,35922.9,"per hour",0.0279999999984284,NA
+"record","06995","A_answer","false_alarms_per_known_hour",9.77649519816575,100,36823.012,"per hour",0.0279999999984284,NA
+"record","06995","A_answer","unmatched_alarms_per_answered_hour",13.4287599275114,134,35922.9,"per hour",0.0279999999984284,NA
+"record","06995","A_answer","pred_burden_answered",0.702226936021312,25226.028,35922.9,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","ref_burden_answered",0.458131275593006,16457.404,35922.9,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","ref_burden_full",0.47137686618357,17357.516,36823.012,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","burden_diff_pp",24.4095660428306,8768.624,35922.9,"percentage points",0.0279999999984284,NA
+"record","06995","A_answer","burden_bound_lower",0.68506098355812,25226.028,36823.04,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","burden_bound_upper",0.70950600493604,26126.168,36823.04,"proportion",0.0279999999984284,NA
+"record","06995","A_answer","burden_error_min",146.143733333333,8768.624,NA,"minutes",0.0279999999984284,NA
+"record","06995","A_answer","missed_negative_min",20.4252666666666,1225.516,NA,"minutes",0.0279999999984284,NA
+"record","06995","A_answer","missed_abstain_min",1.4454,86.724,NA,"minutes",0.0279999999984284,NA
+"record","06995","A_answer","missed_no_input_min",13.5564666666667,813.388,NA,"minutes",0.0279999999984284,NA
+"record","06995","A_answer","missed_unknown_min",0,0,NA,"minutes",0.0279999999984284,NA
+"record","06995","A_answer","unmatched_alarms",134,134,NA,"count",0.0279999999984284,NA
+"record","07162","A_answer","answer_coverage",0.975009630022467,35902.14,36822.344,"proportion",0.696000000003551,NA
+"record","07162","A_answer","answer_coverage_given_input",0.996973868897948,35892.14,36001.084,"proportion",0.696000000003551,NA
+"record","07162","A_answer","answered_sensitivity",0.926078946826011,33248.216,35902.14,"proportion",0.696000000003551,NA
+"record","07162","A_answer","answered_specificity",NA,0,0,"proportion",0.696000000003551,"no non-event time during answered time"
+"record","07162","A_answer","full_capture",0.902935891316425,33248.216,36822.344,"proportion",0.696000000003551,NA
+"record","07162","A_answer","duration_ppv",1,33248.216,33248.216,"proportion",0.696000000003551,NA
+"record","07162","A_answer","episode_sensitivity",1,1,1,"proportion",0.696000000003551,NA
+"record","07162","A_answer","false_alarms_per_answered_hour",0,0,35902.14,"per hour",0.696000000003551,NA
+"record","07162","A_answer","false_alarms_per_known_hour",0,0,36822.344,"per hour",0.696000000003551,NA
+"record","07162","A_answer","unmatched_alarms_per_answered_hour",3.50954009983806,35,35902.14,"per hour",0.696000000003551,NA
+"record","07162","A_answer","pred_burden_answered",0.926078946826011,33248.216,35902.14,"proportion",0.696000000003551,NA
+"record","07162","A_answer","ref_burden_answered",1,35902.14,35902.14,"proportion",0.696000000003551,NA
+"record","07162","A_answer","ref_burden_full",1,36822.344,36822.344,"proportion",0.696000000003551,NA
+"record","07162","A_answer","burden_diff_pp",-7.39210531739888,-2653.92399999999,35902.14,"percentage points",0.696000000003551,NA
+"record","07162","A_answer","burden_bound_lower",0.902918824735818,33248.216,36823.04,"proportion",0.696000000003551,NA
+"record","07162","A_answer","burden_bound_upper",0.927927623574806,34169.116,36823.04,"proportion",0.696000000003551,NA
+"record","07162","A_answer","burden_error_min",-44.2320666666665,-2653.92399999999,NA,"minutes",0.696000000003551,NA
+"record","07162","A_answer","missed_negative_min",44.2320666666666,2653.924,NA,"minutes",0.696000000003551,NA
+"record","07162","A_answer","missed_abstain_min",1.81573333333333,108.944,NA,"minutes",0.696000000003551,NA
+"record","07162","A_answer","missed_no_input_min",13.521,811.259999999999,NA,"minutes",0.696000000003551,NA
+"record","07162","A_answer","missed_unknown_min",0,0,NA,"minutes",0.696000000003551,NA
+"record","07162","A_answer","unmatched_alarms",35,35,NA,"count",0.696000000003551,NA
+"record","07859","A_answer","answer_coverage",0.975587887396495,35923.944,36822.868,"proportion",0.171999999998661,NA
+"record","07859","A_answer","answer_coverage_given_input",0.997927229056805,35913.944,35988.54,"proportion",0.171999999998661,NA
+"record","07859","A_answer","answered_sensitivity",0.993492473988936,35690.168,35923.944,"proportion",0.171999999998661,NA
+"record","07859","A_answer","answered_specificity",NA,0,0,"proportion",0.171999999998661,"no non-event time during answered time"
+"record","07859","A_answer","full_capture",0.969239223843183,35690.168,36822.868,"proportion",0.171999999998661,NA
+"record","07859","A_answer","duration_ppv",1,35690.168,35690.168,"proportion",0.171999999998661,NA
+"record","07859","A_answer","episode_sensitivity",1,1,1,"proportion",0.171999999998661,NA
+"record","07859","A_answer","false_alarms_per_answered_hour",0,0,35923.944,"per hour",0.171999999998661,NA
+"record","07859","A_answer","false_alarms_per_known_hour",0,0,36822.868,"per hour",0.171999999998661,NA
+"record","07859","A_answer","unmatched_alarms_per_answered_hour",0.801693711581334,8,35923.944,"per hour",0.171999999998661,NA
+"record","07859","A_answer","pred_burden_answered",0.993492473988936,35690.168,35923.944,"proportion",0.171999999998661,NA
+"record","07859","A_answer","ref_burden_answered",1,35923.944,35923.944,"proportion",0.171999999998661,NA
+"record","07859","A_answer","ref_burden_full",1,36822.868,36822.868,"proportion",0.171999999998661,NA
+"record","07859","A_answer","burden_diff_pp",-0.650752601106376,-233.775999999998,35923.944,"percentage points",0.171999999998661,NA
+"record","07859","A_answer","burden_bound_lower",0.96923469653782,35690.168,36823.04,"proportion",0.171999999998661,NA
+"record","07859","A_answer","burden_bound_upper",0.993651366101224,36589.264,36823.04,"proportion",0.171999999998661,NA
+"record","07859","A_answer","burden_error_min",-3.89626666666663,-233.775999999998,NA,"minutes",0.171999999998661,NA
+"record","07859","A_answer","missed_negative_min",3.8962666666667,233.776000000002,NA,"minutes",0.171999999998661,NA
+"record","07859","A_answer","missed_abstain_min",1.24326666666667,74.596,NA,"minutes",0.171999999998661,NA
+"record","07859","A_answer","missed_no_input_min",13.7388000000001,824.328000000003,NA,"minutes",0.171999999998661,NA
+"record","07859","A_answer","missed_unknown_min",0,0,NA,"minutes",0.171999999998661,NA
+"record","07859","A_answer","unmatched_alarms",8,8,NA,"count",0.171999999998661,NA
+"record","07879","A_answer","answer_coverage",0.974749899681784,35893.044,36822.824,"proportion",0.216000000000349,NA
+"record","07879","A_answer","answer_coverage_given_input",0.996774701804087,35883.044,35999.152,"proportion",0.216000000000349,NA
+"record","07879","A_answer","answered_sensitivity",0.929023188543657,20626.812,22202.688,"proportion",0.216000000000349,NA
+"record","07879","A_answer","answered_specificity",0.904932786262096,12388.852,13690.356,"proportion",0.216000000000349,NA
+"record","07879","A_answer","full_capture",0.929023188543657,20626.812,22202.688,"proportion",0.216000000000349,NA
+"record","07879","A_answer","duration_ppv",0.940647334706413,20626.812,21928.316,"proportion",0.216000000000349,NA
+"record","07879","A_answer","episode_sensitivity",1,1,1,"proportion",0.216000000000349,NA
+"record","07879","A_answer","false_alarms_per_answered_hour",2.30685366223049,23,35893.044,"per hour",0.216000000000349,NA
+"record","07879","A_answer","false_alarms_per_known_hour",2.24860537583972,23,36822.824,"per hour",0.216000000000349,NA
+"record","07879","A_answer","unmatched_alarms_per_answered_hour",9.82920256080816,98,35893.044,"per hour",0.216000000000349,NA
+"record","07879","A_answer","pred_burden_answered",0.610934976704678,21928.316,35893.044,"proportion",0.216000000000349,NA
+"record","07879","A_answer","ref_burden_answered",0.61857913193431,22202.688,35893.044,"proportion",0.216000000000349,NA
+"record","07879","A_answer","ref_burden_full",0.602959946798214,22202.688,36822.824,"proportion",0.216000000000349,NA
+"record","07879","A_answer","burden_diff_pp",-0.764415522963176,-274.372000000003,35893.044,"percentage points",0.216000000000349,NA
+"record","07879","A_answer","burden_bound_lower",0.595505314064238,21928.316,36823.04,"proportion",0.216000000000349,NA
+"record","07879","A_answer","burden_bound_upper",0.620761132160734,22858.312,36823.04,"proportion",0.216000000000349,NA
+"record","07879","A_answer","burden_error_min",-4.57286666666672,-274.372000000003,NA,"minutes",0.216000000000349,NA
+"record","07879","A_answer","missed_negative_min",26.2646000000001,1575.87600000001,NA,"minutes",0.216000000000349,NA
+"record","07879","A_answer","missed_abstain_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","07879","A_answer","missed_no_input_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","07879","A_answer","missed_unknown_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","07879","A_answer","unmatched_alarms",98,98,NA,"count",0.216000000000349,NA
+"record","07910","A_answer","answer_coverage",0.974218461539464,35873.284,36822.628,"proportion",0.411999999996624,NA
+"record","07910","A_answer","answer_coverage_given_input",0.996247828650842,35863.284,35998.356,"proportion",0.411999999996624,NA
+"record","07910","A_answer","answered_sensitivity",0.972049490402669,4914.064,5055.364,"proportion",0.411999999996624,NA
+"record","07910","A_answer","answered_specificity",0.655802597968974,20210.472,30817.92,"proportion",0.411999999996624,NA
+"record","07910","A_answer","full_capture",0.837260147004201,4914.064,5869.22,"proportion",0.411999999996624,NA
+"record","07910","A_answer","duration_ppv",0.316596991324041,4914.064,15521.512,"proportion",0.411999999996624,NA
+"record","07910","A_answer","episode_sensitivity",1,3,3,"proportion",0.411999999996624,NA
+"record","07910","A_answer","false_alarms_per_answered_hour",9.1321441326643,91,35873.284,"per hour",0.411999999996624,NA
+"record","07910","A_answer","false_alarms_per_known_hour",8.89670340748085,91,36822.628,"per hour",0.411999999996624,NA
+"record","07910","A_answer","unmatched_alarms_per_answered_hour",9.23249736489138,92,35873.284,"per hour",0.411999999996624,NA
+"record","07910","A_answer","pred_burden_answered",0.432676082847614,15521.512,35873.284,"proportion",0.411999999996624,NA
+"record","07910","A_answer","ref_burden_answered",0.140922810412339,5055.364,35873.284,"proportion",0.411999999996624,NA
+"record","07910","A_answer","ref_burden_full",0.159391665364026,5869.22,36822.628,"proportion",0.411999999996624,NA
+"record","07910","A_answer","burden_diff_pp",29.1753272435275,10466.148,35873.284,"percentage points",0.411999999996624,NA
+"record","07910","A_answer","burden_bound_lower",0.421516311526696,15521.512,36823.04,"proportion",0.411999999996624,NA
+"record","07910","A_answer","burden_bound_upper",0.447308750173804,16471.268,36823.04,"proportion",0.411999999996624,NA
+"record","07910","A_answer","burden_error_min",174.4358,10466.148,NA,"minutes",0.411999999996624,NA
+"record","07910","A_answer","missed_negative_min",2.35500000000002,141.300000000001,NA,"minutes",0.411999999996624,NA
+"record","07910","A_answer","missed_abstain_min",0,0,NA,"minutes",0.411999999996624,NA
+"record","07910","A_answer","missed_no_input_min",13.5642666666667,813.856,NA,"minutes",0.411999999996624,NA
+"record","07910","A_answer","missed_unknown_min",0,0,NA,"minutes",0.411999999996624,NA
+"record","07910","A_answer","unmatched_alarms",92,92,NA,"count",0.411999999996624,NA
+"record","08215","A_answer","answer_coverage",0.975266908128333,35911.676,36822.408,"proportion",0.631999999997788,NA
+"record","08215","A_answer","answer_coverage_given_input",0.997306342983364,35901.676,35998.644,"proportion",0.631999999997788,NA
+"record","08215","A_answer","answered_sensitivity",0.988381765742092,28525.528,28860.84,"proportion",0.631999999997788,NA
+"record","08215","A_answer","answered_specificity",0.980624708899767,6914.224,7050.836,"proportion",0.631999999997788,NA
+"record","08215","A_answer","full_capture",0.961298064350545,28525.528,29673.968,"proportion",0.631999999997788,NA
+"record","08215","A_answer","duration_ppv",0.995233712486227,28525.528,28662.14,"proportion",0.631999999997788,NA
+"record","08215","A_answer","episode_sensitivity",1,2,2,"proportion",0.631999999997788,NA
+"record","08215","A_answer","false_alarms_per_answered_hour",0.400983791455459,4,35911.676,"per hour",0.631999999997788,NA
+"record","08215","A_answer","false_alarms_per_known_hour",0.391066222502342,4,36822.408,"per hour",0.631999999997788,NA
+"record","08215","A_answer","unmatched_alarms_per_answered_hour",1.30319732223024,13,35911.676,"per hour",0.631999999997788,NA
+"record","08215","A_answer","pred_burden_answered",0.798128720029664,28662.14,35911.676,"proportion",0.631999999997788,NA
+"record","08215","A_answer","ref_burden_answered",0.803661739429817,28860.84,35911.676,"proportion",0.631999999997788,NA
+"record","08215","A_answer","ref_burden_full",0.8058671230844,29673.968,36822.408,"proportion",0.631999999997788,NA
+"record","08215","A_answer","burden_diff_pp",-0.553301940015257,-198.699999999993,35911.676,"percentage points",0.631999999997788,NA
+"record","08215","A_answer","burden_bound_lower",0.778375169459121,28662.14,36823.04,"proportion",0.631999999997788,NA
+"record","08215","A_answer","burden_bound_upper",0.803125,29573.504,36823.04,"proportion",0.631999999997788,NA
+"record","08215","A_answer","burden_error_min",-3.31166666666656,-198.699999999993,NA,"minutes",0.631999999997788,NA
+"record","08215","A_answer","missed_negative_min",5.58853333333324,335.311999999994,NA,"minutes",0.631999999997788,NA
+"record","08215","A_answer","missed_abstain_min",0,0,NA,"minutes",0.631999999997788,NA
+"record","08215","A_answer","missed_no_input_min",13.5521333333334,813.128000000004,NA,"minutes",0.631999999997788,NA
+"record","08215","A_answer","missed_unknown_min",0,0,NA,"minutes",0.631999999997788,NA
+"record","08215","A_answer","unmatched_alarms",13,13,NA,"count",0.631999999997788,NA
+"record","08219","A_answer","answer_coverage",0.975864985484903,35933.644,36822.352,"proportion",0.688000000001921,NA
+"record","08219","A_answer","answer_coverage_given_input",0.997932666601182,35923.644,35998.064,"proportion",0.688000000001921,NA
+"record","08219","A_answer","answered_sensitivity",0.938090682780358,7456.74400000001,7948.852,"proportion",0.688000000001921,NA
+"record","08219","A_answer","answered_specificity",0.680358531876886,19039.692,27984.792,"proportion",0.688000000001921,NA
+"record","08219","A_answer","full_capture",0.938090682780358,7456.74400000001,7948.852,"proportion",0.688000000001921,NA
+"record","08219","A_answer","duration_ppv",0.454628394222016,7456.74400000001,16401.844,"proportion",0.688000000001921,NA
+"record","08219","A_answer","episode_sensitivity",0.578947368421053,22,38,"proportion",0.688000000001921,NA
+"record","08219","A_answer","false_alarms_per_answered_hour",8.41551165809958,84,35933.644,"per hour",0.688000000001921,NA
+"record","08219","A_answer","false_alarms_per_known_hour",8.21240316207938,84,36822.352,"per hour",0.688000000001921,NA
+"record","08219","A_answer","unmatched_alarms_per_answered_hour",8.71606564588885,87,35933.644,"per hour",0.688000000001921,NA
+"record","08219","A_answer","pred_burden_answered",0.456448113083104,16401.844,35933.644,"proportion",0.688000000001921,NA
+"record","08219","A_answer","ref_burden_answered",0.221209182124696,7948.852,35933.644,"proportion",0.688000000001921,NA
+"record","08219","A_answer","ref_burden_full",0.215870295303244,7948.852,36822.352,"proportion",0.688000000001921,NA
+"record","08219","A_answer","burden_diff_pp",23.5238930958408,8452.992,35933.644,"percentage points",0.688000000001921,NA
+"record","08219","A_answer","burden_bound_lower",0.445423408822303,16401.844,36823.04,"proportion",0.688000000001921,NA
+"record","08219","A_answer","burden_bound_upper",0.469576656354282,17291.24,36823.04,"proportion",0.688000000001921,NA
+"record","08219","A_answer","burden_error_min",140.8832,8452.992,NA,"minutes",0.688000000001921,NA
+"record","08219","A_answer","missed_negative_min",8.20179999999982,492.107999999989,NA,"minutes",0.688000000001921,NA
+"record","08219","A_answer","missed_abstain_min",0,0,NA,"minutes",0.688000000001921,NA
+"record","08219","A_answer","missed_no_input_min",0,0,NA,"minutes",0.688000000001921,NA
+"record","08219","A_answer","missed_unknown_min",0,0,NA,"minutes",0.688000000001921,NA
+"record","08219","A_answer","unmatched_alarms",87,87,NA,"count",0.688000000001921,NA
+"record","08378","A_answer","answer_coverage",0.975020061012418,35902.84,36822.668,"proportion",0.372000000003027,NA
+"record","08378","A_answer","answer_coverage_given_input",0.997062440337938,35892.84,35998.588,"proportion",0.372000000003027,NA
+"record","08378","A_answer","answered_sensitivity",0.965151236463435,7430.128,7698.408,"proportion",0.372000000003027,NA
+"record","08378","A_answer","answered_specificity",0.988324671810445,27875.136,28204.432,"proportion",0.372000000003027,NA
+"record","08378","A_answer","full_capture",0.965151236463435,7430.128,7698.408,"proportion",0.372000000003027,NA
+"record","08378","A_answer","duration_ppv",0.957561798401531,7430.128,7759.424,"proportion",0.372000000003027,NA
+"record","08378","A_answer","episode_sensitivity",0.4,2,5,"proportion",0.372000000003027,NA
+"record","08378","A_answer","false_alarms_per_answered_hour",0.401082477040813,4,35902.84,"per hour",0.372000000003027,NA
+"record","08378","A_answer","false_alarms_per_known_hour",0.391063461235346,4,36822.668,"per hour",0.372000000003027,NA
+"record","08378","A_answer","unmatched_alarms_per_answered_hour",0.90243557334183,9,35902.84,"per hour",0.372000000003027,NA
+"record","08378","A_answer","pred_burden_answered",0.216122847106246,7759.424,35902.84,"proportion",0.372000000003027,NA
+"record","08378","A_answer","ref_burden_answered",0.214423371521584,7698.408,35902.84,"proportion",0.372000000003027,NA
+"record","08378","A_answer","ref_burden_full",0.209067088783464,7698.408,36822.668,"proportion",0.372000000003027,NA
+"record","08378","A_answer","burden_diff_pp",0.169947558466128,61.0160000000005,35902.84,"percentage points",0.372000000003027,NA
+"record","08378","A_answer","burden_bound_lower",0.210721982758621,7759.424,36823.04,"proportion",0.372000000003027,NA
+"record","08378","A_answer","burden_bound_upper",0.235711771760289,8679.624,36823.04,"proportion",0.372000000003027,NA
+"record","08378","A_answer","burden_error_min",1.01693333333334,61.0160000000005,NA,"minutes",0.372000000003027,NA
+"record","08378","A_answer","missed_negative_min",4.4713333333333,268.279999999998,NA,"minutes",0.372000000003027,NA
+"record","08378","A_answer","missed_abstain_min",0,0,NA,"minutes",0.372000000003027,NA
+"record","08378","A_answer","missed_no_input_min",0,0,NA,"minutes",0.372000000003027,NA
+"record","08378","A_answer","missed_unknown_min",0,0,NA,"minutes",0.372000000003027,NA
+"record","08378","A_answer","unmatched_alarms",9,9,NA,"count",0.372000000003027,NA
+"record","08405","A_answer","answer_coverage",0.975261599133058,35911.816,36822.752,"proportion",0.288000000000466,NA
+"record","08405","A_answer","answer_coverage_given_input",0.997298818057896,35901.816,35999.056,"proportion",0.288000000000466,NA
+"record","08405","A_answer","answered_sensitivity",0.96467319912024,24865.536,25776.124,"proportion",0.288000000000466,NA
+"record","08405","A_answer","answered_specificity",0.902557812530215,9148.048,10135.692,"proportion",0.288000000000466,NA
+"record","08405","A_answer","full_capture",0.935162745273252,24865.536,26589.528,"proportion",0.288000000000466,NA
+"record","08405","A_answer","duration_ppv",0.961797968373717,24865.536,25853.18,"proportion",0.288000000000466,NA
+"record","08405","A_answer","episode_sensitivity",1,1,1,"proportion",0.288000000000466,NA
+"record","08405","A_answer","false_alarms_per_answered_hour",2.20540225534682,22,35911.816,"per hour",0.288000000000466,NA
+"record","08405","A_answer","false_alarms_per_known_hour",2.15084413028119,22,36822.752,"per hour",0.288000000000466,NA
+"record","08405","A_answer","unmatched_alarms_per_answered_hour",6.51596120897924,65,35911.816,"per hour",0.288000000000466,NA
+"record","08405","A_answer","pred_burden_answered",0.719907341917769,25853.18,35911.816,"proportion",0.288000000000466,NA
+"record","08405","A_answer","ref_burden_answered",0.717761641460849,25776.124,35911.816,"proportion",0.288000000000466,NA
+"record","08405","A_answer","ref_burden_full",0.722095078607921,26589.528,36822.752,"proportion",0.288000000000466,NA
+"record","08405","A_answer","burden_diff_pp",0.214570045691906,77.0559999999932,35911.816,"percentage points",0.288000000000466,NA
+"record","08405","A_answer","burden_bound_lower",0.70209249426446,25853.18,36823.04,"proportion",0.288000000000466,NA
+"record","08405","A_answer","burden_bound_upper",0.726838522837875,26764.404,36823.04,"proportion",0.288000000000466,NA
+"record","08405","A_answer","burden_error_min",1.28426666666655,77.0559999999932,NA,"minutes",0.288000000000466,NA
+"record","08405","A_answer","missed_negative_min",15.1764666666668,910.588000000007,NA,"minutes",0.288000000000466,NA
+"record","08405","A_answer","missed_abstain_min",0,0,NA,"minutes",0.288000000000466,NA
+"record","08405","A_answer","missed_no_input_min",13.5567333333334,813.404000000002,NA,"minutes",0.288000000000466,NA
+"record","08405","A_answer","missed_unknown_min",0,0,NA,"minutes",0.288000000000466,NA
+"record","08405","A_answer","unmatched_alarms",65,65,NA,"count",0.288000000000466,NA
+"record","08434","A_answer","answer_coverage",0.974744902780949,35892.86,36822.824,"proportion",0.216000000000349,NA
+"record","08434","A_answer","answer_coverage_given_input",0.996776346660293,35882.86,35998.908,"proportion",0.216000000000349,NA
+"record","08434","A_answer","answered_sensitivity",1,1423.736,1423.736,"proportion",0.216000000000349,NA
+"record","08434","A_answer","answered_specificity",0.860667187248507,29666.444,34469.124,"proportion",0.216000000000349,NA
+"record","08434","A_answer","full_capture",1,1423.736,1423.736,"proportion",0.216000000000349,NA
+"record","08434","A_answer","duration_ppv",0.228660597043307,1423.736,6226.41599999999,"proportion",0.216000000000349,NA
+"record","08434","A_answer","episode_sensitivity",0.333333333333333,1,3,"proportion",0.216000000000349,NA
+"record","08434","A_answer","false_alarms_per_answered_hour",5.41611897185123,54,35892.86,"per hour",0.216000000000349,NA
+"record","08434","A_answer","false_alarms_per_known_hour",5.27933436066718,54,36822.824,"per hour",0.216000000000349,NA
+"record","08434","A_answer","unmatched_alarms_per_answered_hour",5.41611897185123,54,35892.86,"per hour",0.216000000000349,NA
+"record","08434","A_answer","pred_burden_answered",0.173472272758426,6226.41599999999,35892.86,"proportion",0.216000000000349,NA
+"record","08434","A_answer","ref_burden_answered",0.0396662734594011,1423.736,35892.86,"proportion",0.216000000000349,NA
+"record","08434","A_answer","ref_burden_full",0.0386644978668665,1423.736,36822.824,"proportion",0.216000000000349,NA
+"record","08434","A_answer","burden_diff_pp",13.3805999299025,4802.67999999999,35892.86,"percentage points",0.216000000000349,NA
+"record","08434","A_answer","burden_bound_lower",0.169090221774193,6226.41599999999,36823.04,"proportion",0.216000000000349,NA
+"record","08434","A_answer","burden_bound_upper",0.194351036742213,7156.59599999999,36823.04,"proportion",0.216000000000349,NA
+"record","08434","A_answer","burden_error_min",80.0446666666665,4802.67999999999,NA,"minutes",0.216000000000349,NA
+"record","08434","A_answer","missed_negative_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","08434","A_answer","missed_abstain_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","08434","A_answer","missed_no_input_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","08434","A_answer","missed_unknown_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","08434","A_answer","unmatched_alarms",54,54,NA,"count",0.216000000000349,NA
+"record","08455","A_answer","answer_coverage",0.975102502111743,35905.864,36822.656,"proportion",0.383999999998196,NA
+"record","08455","A_answer","answer_coverage_given_input",0.997128605410249,35895.864,35999.232,"proportion",0.383999999998196,NA
+"record","08455","A_answer","answered_sensitivity",0.97063247820544,23933.844,24657.988,"proportion",0.383999999998196,NA
+"record","08455","A_answer","answered_specificity",0.967803343493474,10885.732,11247.876,"proportion",0.383999999998196,NA
+"record","08455","A_answer","full_capture",0.93964985467408,23933.844,25471.024,"proportion",0.383999999998196,NA
+"record","08455","A_answer","duration_ppv",0.985094493790497,23933.844,24295.988,"proportion",0.383999999998196,NA
+"record","08455","A_answer","episode_sensitivity",1,2,2,"proportion",0.383999999998196,NA
+"record","08455","A_answer","false_alarms_per_answered_hour",1.40367044224308,14,35905.864,"per hour",0.383999999998196,NA
+"record","08455","A_answer","false_alarms_per_known_hour",1.36872256037153,14,36822.656,"per hour",0.383999999998196,NA
+"record","08455","A_answer","unmatched_alarms_per_answered_hour",4.51179785006705,45,35905.864,"per hour",0.383999999998196,NA
+"record","08455","A_answer","pred_burden_answered",0.676657940886759,24295.988,35905.864,"proportion",0.383999999998196,NA
+"record","08455","A_answer","ref_burden_answered",0.686739859539378,24657.988,35905.864,"proportion",0.383999999998196,NA
+"record","08455","A_answer","ref_burden_full",0.691721531439774,25471.024,36822.656,"proportion",0.383999999998196,NA
+"record","08455","A_answer","burden_diff_pp",-1.00819186526188,-361.999999999993,35905.864,"percentage points",0.383999999998196,NA
+"record","08455","A_answer","burden_bound_lower",0.659803970557564,24295.988,36823.04,"proportion",0.383999999998196,NA
+"record","08455","A_answer","burden_bound_upper",0.684711637062013,25213.164,36823.04,"proportion",0.383999999998196,NA
+"record","08455","A_answer","burden_error_min",-6.03333333333321,-361.999999999993,NA,"minutes",0.383999999998196,NA
+"record","08455","A_answer","missed_negative_min",12.0690666666665,724.143999999993,NA,"minutes",0.383999999998196,NA
+"record","08455","A_answer","missed_abstain_min",0,0,NA,"minutes",0.383999999998196,NA
+"record","08455","A_answer","missed_no_input_min",13.5506,813.036,NA,"minutes",0.383999999998196,NA
+"record","08455","A_answer","missed_unknown_min",0,0,NA,"minutes",0.383999999998196,NA
+"record","08455","A_answer","unmatched_alarms",45,45,NA,"count",0.383999999998196,NA
+"record","00735","B_quality","answer_coverage",0.996005873519328,35855.076,35998.86,"proportion",0.224000000001979,NA
+"record","00735","B_quality","answer_coverage_given_input",0.996012070680908,35855.072,35998.632,"proportion",0.224000000001979,NA
+"record","00735","B_quality","answered_sensitivity",0.766242028568399,202.34,264.068,"proportion",0.224000000001979,NA
+"record","00735","B_quality","answered_specificity",0.940240973225597,33464.124,35591.008,"proportion",0.224000000001979,NA
+"record","00735","B_quality","full_capture",0.766242028568399,202.34,264.068,"proportion",0.224000000001979,NA
+"record","00735","B_quality","duration_ppv",0.0868701335723829,202.34,2329.224,"proportion",0.224000000001979,NA
+"record","00735","B_quality","episode_sensitivity",1,1,1,"proportion",0.224000000001979,NA
+"record","00735","B_quality","false_alarms_per_answered_hour",3.31333839593591,33,35855.076,"per hour",0.224000000001979,NA
+"record","00735","B_quality","false_alarms_per_known_hour",3.30010450330927,33,35998.86,"per hour",0.224000000001979,NA
+"record","00735","B_quality","unmatched_alarms_per_answered_hour",3.31333839593591,33,35855.076,"per hour",0.224000000001979,NA
+"record","00735","B_quality","pred_burden_answered",0.064962182760399,2329.224,35855.076,"proportion",0.224000000001979,NA
+"record","00735","B_quality","ref_burden_answered",0.00736487073685187,264.068,35855.076,"proportion",0.224000000001979,NA
+"record","00735","B_quality","ref_burden_full",0.00733545451161508,264.068,35998.86,"proportion",0.224000000001979,NA
+"record","00735","B_quality","burden_diff_pp",5.75973120235471,2065.156,35855.076,"percentage points",0.224000000001979,NA
+"record","00735","B_quality","burden_bound_lower",0.0647023129810746,2329.224,35999.084,"proportion",0.224000000001979,NA
+"record","00735","B_quality","burden_bound_upper",0.0687026369893188,2473.232,35999.084,"proportion",0.224000000001979,NA
+"record","00735","B_quality","burden_error_min",34.4192666666666,2065.156,NA,"minutes",0.224000000001979,NA
+"record","00735","B_quality","missed_negative_min",1.0288,61.7280000000001,NA,"minutes",0.224000000001979,NA
+"record","00735","B_quality","missed_abstain_min",0,0,NA,"minutes",0.224000000001979,NA
+"record","00735","B_quality","missed_no_input_min",0,0,NA,"minutes",0.224000000001979,NA
+"record","00735","B_quality","missed_unknown_min",0,0,NA,"minutes",0.224000000001979,NA
+"record","00735","B_quality","unmatched_alarms",33,33,NA,"count",0.224000000001979,NA
+"record","03665","B_quality","answer_coverage",0.997268198850146,35901.348,35999.692,"proportion",0.120000000002619,NA
+"record","03665","B_quality","answer_coverage_given_input",0.997271633623118,35901.344,35999.564,"proportion",0.120000000002619,NA
+"record","03665","B_quality","answered_sensitivity",0.986998046115959,5881.928,5959.412,"proportion",0.120000000002619,NA
+"record","03665","B_quality","answered_specificity",0.659316885855344,19741.224,29941.936,"proportion",0.120000000002619,NA
+"record","03665","B_quality","full_capture",0.986998046115959,5881.928,5959.412,"proportion",0.120000000002619,NA
+"record","03665","B_quality","duration_ppv",0.365731496818931,5881.928,16082.64,"proportion",0.120000000002619,NA
+"record","03665","B_quality","episode_sensitivity",0.666666666666667,4,6,"proportion",0.120000000002619,NA
+"record","03665","B_quality","false_alarms_per_answered_hour",7.21978461644393,72,35901.348,"per hour",0.120000000002619,NA
+"record","03665","B_quality","false_alarms_per_known_hour",7.20006160052703,72,35999.692,"per hour",0.120000000002619,NA
+"record","03665","B_quality","unmatched_alarms_per_answered_hour",7.21978461644393,72,35901.348,"per hour",0.120000000002619,NA
+"record","03665","B_quality","pred_burden_answered",0.447967580493077,16082.64,35901.348,"proportion",0.120000000002619,NA
+"record","03665","B_quality","ref_burden_answered",0.165994101391402,5959.412,35901.348,"proportion",0.120000000002619,NA
+"record","03665","B_quality","ref_burden_full",0.165540638514352,5959.412,35999.692,"proportion",0.120000000002619,NA
+"record","03665","B_quality","burden_diff_pp",28.1973479101675,10123.228,35901.348,"percentage points",0.120000000002619,NA
+"record","03665","B_quality","burden_bound_lower",0.446742332987738,16082.64,35999.812,"proportion",0.120000000002619,NA
+"record","03665","B_quality","burden_bound_upper",0.449477458382282,16181.104,35999.812,"proportion",0.120000000002619,NA
+"record","03665","B_quality","burden_error_min",168.720466666666,10123.228,NA,"minutes",0.120000000002619,NA
+"record","03665","B_quality","missed_negative_min",1.29140000000004,77.4840000000022,NA,"minutes",0.120000000002619,NA
+"record","03665","B_quality","missed_abstain_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","03665","B_quality","missed_no_input_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","03665","B_quality","missed_unknown_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","03665","B_quality","unmatched_alarms",72,72,NA,"count",0.120000000002619,NA
+"record","04015","B_quality","answer_coverage",0.969472491589477,35698.808,36822.92,"proportion",0.120000000002619,NA
+"record","04015","B_quality","answer_coverage_given_input",0.991368996031058,35688.808,35999.52,"proportion",0.120000000002619,NA
+"record","04015","B_quality","answered_sensitivity",0.905649847977524,188.252000000001,207.864000000001,"proportion",0.120000000002619,NA
+"record","04015","B_quality","answered_specificity",0.840331099674328,29824.144,35490.944,"proportion",0.120000000002619,NA
+"record","04015","B_quality","full_capture",0.793522062418858,188.252000000001,237.236000000001,"proportion",0.120000000002619,NA
+"record","04015","B_quality","duration_ppv",0.032152062868101,188.252000000001,5855.052,"proportion",0.120000000002619,NA
+"record","04015","B_quality","episode_sensitivity",1,2,2,"proportion",0.120000000002619,NA
+"record","04015","B_quality","false_alarms_per_answered_hour",8.67255847870327,86,35698.808,"per hour",0.120000000002619,NA
+"record","04015","B_quality","false_alarms_per_known_hour",8.4078068768039,86,36822.92,"per hour",0.120000000002619,NA
+"record","04015","B_quality","unmatched_alarms_per_answered_hour",8.87424588518474,88,35698.808,"per hour",0.120000000002619,NA
+"record","04015","B_quality","pred_burden_answered",0.16401253509641,5855.052,35698.808,"proportion",0.120000000002619,NA
+"record","04015","B_quality","ref_burden_answered",0.00582271542512009,207.864000000001,35698.808,"proportion",0.120000000002619,NA
+"record","04015","B_quality","ref_burden_full",0.00644261780434579,237.236000000001,36822.92,"proportion",0.120000000002619,NA
+"record","04015","B_quality","burden_diff_pp",15.818981967129,5647.188,35698.808,"percentage points",0.120000000002619,NA
+"record","04015","B_quality","burden_bound_lower",0.159005122879588,5855.052,36823.04,"proportion",0.120000000002619,NA
+"record","04015","B_quality","burden_bound_upper",0.189535790635428,6979.284,36823.04,"proportion",0.120000000002619,NA
+"record","04015","B_quality","burden_error_min",94.1197999999999,5647.188,NA,"minutes",0.120000000002619,NA
+"record","04015","B_quality","missed_negative_min",0.326866666666666,19.612,NA,"minutes",0.120000000002619,NA
+"record","04015","B_quality","missed_abstain_min",0.489533333333333,29.372,NA,"minutes",0.120000000002619,NA
+"record","04015","B_quality","missed_no_input_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","04015","B_quality","missed_unknown_min",0,0,NA,"minutes",0.120000000002619,NA
+"record","04015","B_quality","unmatched_alarms",88,88,NA,"count",0.120000000002619,NA
+"record","04043","B_quality","answer_coverage",0.961669149912902,35411.32,36822.768,"proportion",0.271999999997206,NA
+"record","04043","B_quality","answer_coverage_given_input",0.983389012187569,35401.32,35999.304,"proportion",0.271999999997206,NA
+"record","04043","B_quality","answered_sensitivity",0.703498343925306,5405.98800000001,7684.43600000002,"proportion",0.271999999997206,NA
+"record","04043","B_quality","answered_specificity",0.840511757469755,23304.772,27726.884,"proportion",0.271999999997206,NA
+"record","04043","B_quality","full_capture",0.68259975372817,5405.98800000001,7919.70400000002,"proportion",0.271999999997206,NA
+"record","04043","B_quality","duration_ppv",0.550054232252422,5405.98800000001,9828.09999999998,"proportion",0.271999999997206,NA
+"record","04043","B_quality","episode_sensitivity",0.887323943661972,63,71,"proportion",0.271999999997206,NA
+"record","04043","B_quality","false_alarms_per_answered_hour",3.863171437834,38,35411.32,"per hour",0.271999999997206,NA
+"record","04043","B_quality","false_alarms_per_known_hour",3.71509279258963,38,36822.768,"per hour",0.271999999997206,NA
+"record","04043","B_quality","unmatched_alarms_per_answered_hour",5.8964195630098,58,35411.32,"per hour",0.271999999997206,NA
+"record","04043","B_quality","pred_burden_answered",0.277541193042224,9828.09999999998,35411.32,"proportion",0.271999999997206,NA
+"record","04043","B_quality","ref_burden_answered",0.217005070694908,7684.43600000002,35411.32,"proportion",0.271999999997206,NA
+"record","04043","B_quality","ref_burden_full",0.215076281066106,7919.70400000002,36822.768,"proportion",0.271999999997206,NA
+"record","04043","B_quality","burden_diff_pp",6.05361223473161,2143.66399999996,35411.32,"percentage points",0.271999999997206,NA
+"record","04043","B_quality","burden_bound_lower",0.266900831653225,9828.09999999998,36823.04,"proportion",0.271999999997206,NA
+"record","04043","B_quality","burden_bound_upper",0.305238785282257,11239.82,36823.04,"proportion",0.271999999997206,NA
+"record","04043","B_quality","burden_error_min",35.7277333333327,2143.66399999996,NA,"minutes",0.271999999997206,NA
+"record","04043","B_quality","missed_negative_min",37.9741333333334,2278.448,NA,"minutes",0.271999999997206,NA
+"record","04043","B_quality","missed_abstain_min",3.92113333333333,235.268,NA,"minutes",0.271999999997206,NA
+"record","04043","B_quality","missed_no_input_min",0,0,NA,"minutes",0.271999999997206,NA
+"record","04043","B_quality","missed_unknown_min",0,0,NA,"minutes",0.271999999997206,NA
+"record","04043","B_quality","unmatched_alarms",58,58,NA,"count",0.271999999997206,NA
+"record","04048","B_quality","answer_coverage",0.943658001491269,34747.692,36822.336,"proportion",0.703999999997905,NA
+"record","04048","B_quality","answer_coverage_given_input",0.989134792586718,34747.692,35129.38,"proportion",0.703999999997905,NA
+"record","04048","B_quality","answered_sensitivity",0.285798122065732,72.076,252.191999999996,"proportion",0.703999999997905,NA
+"record","04048","B_quality","answered_specificity",0.977831427287617,33730.784,34495.5,"proportion",0.703999999997905,NA
+"record","04048","B_quality","full_capture",0.19978047320221,72.076,360.775999999997,"proportion",0.703999999997905,NA
+"record","04048","B_quality","duration_ppv",0.086133710647329,72.076,836.792000000003,"proportion",0.703999999997905,NA
+"record","04048","B_quality","episode_sensitivity",0.333333333333333,1,3,"proportion",0.703999999997905,NA
+"record","04048","B_quality","false_alarms_per_answered_hour",1.76126805774611,17,34747.692,"per hour",0.703999999997905,NA
+"record","04048","B_quality","false_alarms_per_known_hour",1.6620346954631,17,36822.336,"per hour",0.703999999997905,NA
+"record","04048","B_quality","unmatched_alarms_per_answered_hour",1.76126805774611,17,34747.692,"per hour",0.703999999997905,NA
+"record","04048","B_quality","pred_burden_answered",0.0240819447806779,836.792000000003,34747.692,"proportion",0.703999999997905,NA
+"record","04048","B_quality","ref_burden_answered",0.00725780578462582,252.191999999996,34747.692,"proportion",0.703999999997905,NA
+"record","04048","B_quality","ref_burden_full",0.00979774884461423,360.775999999997,36822.336,"proportion",0.703999999997905,NA
+"record","04048","B_quality","burden_diff_pp",1.68241389960521,584.600000000007,34747.692,"percentage points",0.703999999997905,NA
+"record","04048","B_quality","burden_bound_lower",0.0227246854143494,836.792000000003,36823.04,"proportion",0.703999999997905,NA
+"record","04048","B_quality","burden_bound_upper",0.0790847252155174,2912.14,36823.04,"proportion",0.703999999997905,NA
+"record","04048","B_quality","burden_error_min",9.74333333333345,584.600000000007,NA,"minutes",0.703999999997905,NA
+"record","04048","B_quality","missed_negative_min",3.00193333333327,180.115999999996,NA,"minutes",0.703999999997905,NA
+"record","04048","B_quality","missed_abstain_min",1.80973333333335,108.584000000001,NA,"minutes",0.703999999997905,NA
+"record","04048","B_quality","missed_no_input_min",0,0,NA,"minutes",0.703999999997905,NA
+"record","04048","B_quality","missed_unknown_min",0,0,NA,"minutes",0.703999999997905,NA
+"record","04048","B_quality","unmatched_alarms",17,17,NA,"count",0.703999999997905,NA
+"record","04126","B_quality","answer_coverage",0.930838339159855,34275.724,36822.424,"proportion",0.616000000001804,NA
+"record","04126","B_quality","answer_coverage_given_input",0.951879289199958,34265.724,35997.972,"proportion",0.616000000001804,NA
+"record","04126","B_quality","answered_sensitivity",0.817893719447587,352.028,430.408000000004,"proportion",0.616000000001804,NA
+"record","04126","B_quality","answered_specificity",0.649297645795359,21975.684,33845.316,"proportion",0.616000000001804,NA
+"record","04126","B_quality","full_capture",0.255468180775806,352.028,1377.972,"proportion",0.616000000001804,NA
+"record","04126","B_quality","duration_ppv",0.0288036158754212,352.028,12221.66,"proportion",0.616000000001804,NA
+"record","04126","B_quality","episode_sensitivity",0.8,4,5,"proportion",0.616000000001804,NA
+"record","04126","B_quality","false_alarms_per_answered_hour",8.92760135424127,85,34275.724,"per hour",0.616000000001804,NA
+"record","04126","B_quality","false_alarms_per_known_hour",8.31015361726322,85,36822.424,"per hour",0.616000000001804,NA
+"record","04126","B_quality","unmatched_alarms_per_answered_hour",9.13766256257636,87,34275.724,"per hour",0.616000000001804,NA
+"record","04126","B_quality","pred_burden_answered",0.356568981591753,12221.66,34275.724,"proportion",0.616000000001804,NA
+"record","04126","B_quality","ref_burden_answered",0.0125572256329291,430.408000000004,34275.724,"proportion",0.616000000001804,NA
+"record","04126","B_quality","ref_burden_full",0.0374220882362336,1377.972,36822.424,"proportion",0.616000000001804,NA
+"record","04126","B_quality","burden_diff_pp",34.4011755958824,11791.252,34275.724,"percentage points",0.616000000001804,NA
+"record","04126","B_quality","burden_bound_lower",0.331902526244438,12221.66,36823.04,"proportion",0.616000000001804,NA
+"record","04126","B_quality","burden_bound_upper",0.401079758759733,14768.976,36823.04,"proportion",0.616000000001804,NA
+"record","04126","B_quality","burden_error_min",196.520866666667,11791.252,NA,"minutes",0.616000000001804,NA
+"record","04126","B_quality","missed_negative_min",1.3063333333334,78.3800000000037,NA,"minutes",0.616000000001804,NA
+"record","04126","B_quality","missed_abstain_min",15.7927333333333,947.564,NA,"minutes",0.616000000001804,NA
+"record","04126","B_quality","missed_no_input_min",0,0,NA,"minutes",0.616000000001804,NA
+"record","04126","B_quality","missed_unknown_min",0,0,NA,"minutes",0.616000000001804,NA
+"record","04126","B_quality","unmatched_alarms",87,87,NA,"count",0.616000000001804,NA
+"record","04746","B_quality","answer_coverage",0.974633319494079,35888.72,36822.792,"proportion",0.247999999999593,NA
+"record","04746","B_quality","answer_coverage_given_input",0.996653480444783,35878.72,35999.192,"proportion",0.247999999999593,NA
+"record","04746","B_quality","answered_sensitivity",0.994645325159178,19448.308,19553.008,"proportion",0.247999999999593,NA
+"record","04746","B_quality","answered_specificity",0.885535935011587,14465.86,16335.712,"proportion",0.247999999999593,NA
+"record","04746","B_quality","full_capture",0.994645325159178,19448.308,19553.008,"proportion",0.247999999999593,NA
+"record","04746","B_quality","duration_ppv",0.912288302555192,19448.308,21318.16,"proportion",0.247999999999593,NA
+"record","04746","B_quality","episode_sensitivity",1,2,2,"proportion",0.247999999999593,NA
+"record","04746","B_quality","false_alarms_per_answered_hour",2.00620139141212,20,35888.72,"per hour",0.247999999999593,NA
+"record","04746","B_quality","false_alarms_per_known_hour",1.95531072168563,20,36822.792,"per hour",0.247999999999593,NA
+"record","04746","B_quality","unmatched_alarms_per_answered_hour",2.50775173926515,25,35888.72,"per hour",0.247999999999593,NA
+"record","04746","B_quality","pred_burden_answered",0.594007253532586,21318.16,35888.72,"proportion",0.247999999999593,NA
+"record","04746","B_quality","ref_burden_answered",0.544823220220727,19553.008,35888.72,"proportion",0.247999999999593,NA
+"record","04746","B_quality","ref_burden_full",0.53100286366118,19553.008,36822.792,"proportion",0.247999999999593,NA
+"record","04746","B_quality","burden_diff_pp",4.91840333118596,1765.152,35888.72,"percentage points",0.247999999999593,NA
+"record","04746","B_quality","burden_bound_lower",0.578935362208009,21318.16,36823.04,"proportion",0.247999999999593,NA
+"record","04746","B_quality","burden_bound_upper",0.604308606785317,22252.48,36823.04,"proportion",0.247999999999593,NA
+"record","04746","B_quality","burden_error_min",29.4192,1765.152,NA,"minutes",0.247999999999593,NA
+"record","04746","B_quality","missed_negative_min",1.74499999999998,104.699999999999,NA,"minutes",0.247999999999593,NA
+"record","04746","B_quality","missed_abstain_min",0,0,NA,"minutes",0.247999999999593,NA
+"record","04746","B_quality","missed_no_input_min",0,0,NA,"minutes",0.247999999999593,NA
+"record","04746","B_quality","missed_unknown_min",0,0,NA,"minutes",0.247999999999593,NA
+"record","04746","B_quality","unmatched_alarms",25,25,NA,"count",0.247999999999593,NA
+"record","04908","B_quality","answer_coverage",0.975247619936298,35911.508,36822.964,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","answer_coverage_given_input",0.997282505432878,35901.508,35999.336,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","answered_sensitivity",0.910941030063081,2807.932,3082.452,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","answered_specificity",0.990488060332896,32516.788,32829.056,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","full_capture",0.910941030063081,2807.932,3082.452,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","duration_ppv",0.899920517915521,2807.932,3120.19999999999,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","episode_sensitivity",1,7,7,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","false_alarms_per_answered_hour",0.701724917817431,7,35911.508,"per hour",0.0760000000009313,NA
+"record","04908","B_quality","false_alarms_per_known_hour",0.684355555951444,7,36822.964,"per hour",0.0760000000009313,NA
+"record","04908","B_quality","unmatched_alarms_per_answered_hour",1.00246416831062,10,35911.508,"per hour",0.0760000000009313,NA
+"record","04908","B_quality","pred_burden_answered",0.0868857971656326,3120.19999999999,35911.508,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","ref_burden_answered",0.0858346577927053,3082.452,35911.508,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","ref_burden_full",0.0837100457203825,3082.452,36822.964,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","burden_diff_pp",0.105113937292731,37.7479999999941,35911.508,"percentage points",0.0760000000009313,NA
+"record","04908","B_quality","burden_bound_lower",0.0847349920050054,3120.19999999999,36823.04,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","burden_bound_upper",0.109489384906841,4031.73199999999,36823.04,"proportion",0.0760000000009313,NA
+"record","04908","B_quality","burden_error_min",0.629133333333236,37.7479999999941,NA,"minutes",0.0760000000009313,NA
+"record","04908","B_quality","missed_negative_min",4.57533333333326,274.519999999996,NA,"minutes",0.0760000000009313,NA
+"record","04908","B_quality","missed_abstain_min",0,0,NA,"minutes",0.0760000000009313,NA
+"record","04908","B_quality","missed_no_input_min",0,0,NA,"minutes",0.0760000000009313,NA
+"record","04908","B_quality","missed_unknown_min",0,0,NA,"minutes",0.0760000000009313,NA
+"record","04908","B_quality","unmatched_alarms",10,10,NA,"count",0.0760000000009313,NA
+"record","04936","B_quality","answer_coverage",0.974870292572508,35897.524,36822.872,"proportion",0.167999999997846,NA
+"record","04936","B_quality","answer_coverage_given_input",0.996890730793265,35887.524,35999.456,"proportion",0.167999999997846,NA
+"record","04936","B_quality","answered_sensitivity",0.883390254532486,23463.46,26560.696,"proportion",0.167999999997846,NA
+"record","04936","B_quality","answered_specificity",0.608721505847599,5683.52800000002,9336.828,"proportion",0.167999999997846,NA
+"record","04936","B_quality","full_capture",0.883390254532486,23463.46,26560.696,"proportion",0.167999999997846,NA
+"record","04936","B_quality","duration_ppv",0.865275202494694,23463.46,27116.76,"proportion",0.167999999997846,NA
+"record","04936","B_quality","episode_sensitivity",0.758620689655172,22,29,"proportion",0.167999999997846,NA
+"record","04936","B_quality","false_alarms_per_answered_hour",2.00570936313045,20,35897.524,"per hour",0.167999999997846,NA
+"record","04936","B_quality","false_alarms_per_known_hour",1.9553064736504,20,36822.872,"per hour",0.167999999997846,NA
+"record","04936","B_quality","unmatched_alarms_per_answered_hour",7.82226651620875,78,35897.524,"per hour",0.167999999997846,NA
+"record","04936","B_quality","pred_burden_answered",0.755393603191127,27116.76,35897.524,"proportion",0.167999999997846,NA
+"record","04936","B_quality","ref_burden_answered",0.739903286923076,26560.696,35897.524,"proportion",0.167999999997846,NA
+"record","04936","B_quality","ref_burden_full",0.721309733798059,26560.696,36822.872,"proportion",0.167999999997846,NA
+"record","04936","B_quality","burden_diff_pp",1.54903162680512,556.063999999958,35897.524,"percentage points",0.167999999997846,NA
+"record","04936","B_quality","burden_bound_lower",0.736407423178531,27116.76,36823.04,"proportion",0.167999999997846,NA
+"record","04936","B_quality","burden_bound_upper",0.761541578316184,28042.276,36823.04,"proportion",0.167999999997846,NA
+"record","04936","B_quality","burden_error_min",9.26773333333264,556.063999999958,NA,"minutes",0.167999999997846,NA
+"record","04936","B_quality","missed_negative_min",51.6206000000003,3097.23600000002,NA,"minutes",0.167999999997846,NA
+"record","04936","B_quality","missed_abstain_min",0,0,NA,"minutes",0.167999999997846,NA
+"record","04936","B_quality","missed_no_input_min",0,0,NA,"minutes",0.167999999997846,NA
+"record","04936","B_quality","missed_unknown_min",0,0,NA,"minutes",0.167999999997846,NA
+"record","04936","B_quality","unmatched_alarms",78,78,NA,"count",0.167999999997846,NA
+"record","05091","B_quality","answer_coverage",0.974391465444001,35879.748,36822.724,"proportion",0.315999999998894,NA
+"record","05091","B_quality","answer_coverage_given_input",0.9964072419176,35869.748,35999.084,"proportion",0.315999999998894,NA
+"record","05091","B_quality","answered_sensitivity",0.0537064355522756,4.65999999999985,86.768,"proportion",0.315999999998894,NA
+"record","05091","B_quality","answered_specificity",0.992830884715383,35536.376,35792.98,"proportion",0.315999999998894,NA
+"record","05091","B_quality","full_capture",0.0537064355522756,4.65999999999985,86.768,"proportion",0.315999999998894,NA
+"record","05091","B_quality","duration_ppv",0.0178363647498313,4.65999999999985,261.263999999996,"proportion",0.315999999998894,NA
+"record","05091","B_quality","episode_sensitivity",1,1,1,"proportion",0.315999999998894,NA
+"record","05091","B_quality","false_alarms_per_answered_hour",0.602010917133532,6,35879.748,"per hour",0.315999999998894,NA
+"record","05091","B_quality","false_alarms_per_known_hour",0.586594299759029,6,36822.724,"per hour",0.315999999998894,NA
+"record","05091","B_quality","unmatched_alarms_per_answered_hour",0.602010917133532,6,35879.748,"per hour",0.315999999998894,NA
+"record","05091","B_quality","pred_burden_answered",0.00728165649323946,261.263999999996,35879.748,"proportion",0.315999999998894,NA
+"record","05091","B_quality","ref_burden_answered",0.00241830015082603,86.768,35879.748,"proportion",0.315999999998894,NA
+"record","05091","B_quality","ref_burden_full",0.00235637102784683,86.768,36822.724,"proportion",0.315999999998894,NA
+"record","05091","B_quality","burden_diff_pp",0.486335634241343,174.495999999996,35879.748,"percentage points",0.315999999998894,NA
+"record","05091","B_quality","burden_bound_lower",0.00709512305339254,261.263999999996,36823.04,"proportion",0.315999999998894,NA
+"record","05091","B_quality","burden_bound_upper",0.0327120194313125,1204.556,36823.04,"proportion",0.315999999998894,NA
+"record","05091","B_quality","burden_error_min",2.90826666666659,174.495999999996,NA,"minutes",0.315999999998894,NA
+"record","05091","B_quality","missed_negative_min",1.36846666666667,82.1080000000002,NA,"minutes",0.315999999998894,NA
+"record","05091","B_quality","missed_abstain_min",0,0,NA,"minutes",0.315999999998894,NA
+"record","05091","B_quality","missed_no_input_min",0,0,NA,"minutes",0.315999999998894,NA
+"record","05091","B_quality","missed_unknown_min",0,0,NA,"minutes",0.315999999998894,NA
+"record","05091","B_quality","unmatched_alarms",6,6,NA,"count",0.315999999998894,NA
+"record","05121","B_quality","answer_coverage",0.9751493960502,35907.856,36822.928,"proportion",0.11200000000099,NA
+"record","05121","B_quality","answer_coverage_given_input",0.997182942719835,35897.856,35999.268,"proportion",0.11200000000099,NA
+"record","05121","B_quality","answered_sensitivity",0.955419772653163,22174.284,23208.944,"proportion",0.11200000000099,NA
+"record","05121","B_quality","answered_specificity",0.827365053006116,10506.636,12698.912,"proportion",0.11200000000099,NA
+"record","05121","B_quality","full_capture",0.955419772653163,22174.284,23208.944,"proportion",0.11200000000099,NA
+"record","05121","B_quality","duration_ppv",0.910029318869795,22174.284,24366.56,"proportion",0.11200000000099,NA
+"record","05121","B_quality","episode_sensitivity",0.764705882352941,13,17,"proportion",0.11200000000099,NA
+"record","05121","B_quality","false_alarms_per_answered_hour",2.00513224738341,20,35907.856,"per hour",0.11200000000099,NA
+"record","05121","B_quality","false_alarms_per_known_hour",1.95530350003672,20,36822.928,"per hour",0.11200000000099,NA
+"record","05121","B_quality","unmatched_alarms_per_answered_hour",4.21077771950517,42,35907.856,"per hour",0.11200000000099,NA
+"record","05121","B_quality","pred_burden_answered",0.678585766858372,24366.56,35907.856,"proportion",0.11200000000099,NA
+"record","05121","B_quality","ref_burden_answered",0.646347250584942,23208.944,35907.856,"proportion",0.11200000000099,NA
+"record","05121","B_quality","ref_burden_full",0.630285131046613,23208.944,36822.928,"proportion",0.11200000000099,NA
+"record","05121","B_quality","burden_diff_pp",3.22385162734305,1157.616,35907.856,"percentage points",0.11200000000099,NA
+"record","05121","B_quality","burden_bound_lower",0.661720488042269,24366.56,36823.04,"proportion",0.11200000000099,NA
+"record","05121","B_quality","burden_bound_upper",0.68657405798109,25281.744,36823.04,"proportion",0.11200000000099,NA
+"record","05121","B_quality","burden_error_min",19.2936,1157.616,NA,"minutes",0.11200000000099,NA
+"record","05121","B_quality","missed_negative_min",17.2443333333333,1034.66,NA,"minutes",0.11200000000099,NA
+"record","05121","B_quality","missed_abstain_min",0,0,NA,"minutes",0.11200000000099,NA
+"record","05121","B_quality","missed_no_input_min",0,0,NA,"minutes",0.11200000000099,NA
+"record","05121","B_quality","missed_unknown_min",0,0,NA,"minutes",0.11200000000099,NA
+"record","05121","B_quality","unmatched_alarms",42,42,NA,"count",0.11200000000099,NA
+"record","05261","B_quality","answer_coverage",0.973109032099396,35832.428,36822.624,"proportion",0.415999999997439,NA
+"record","05261","B_quality","answer_coverage_given_input",0.995099287621648,35822.428,35998.848,"proportion",0.415999999997439,NA
+"record","05261","B_quality","answered_sensitivity",0.813352464691797,389.995999999999,479.492,"proportion",0.415999999997439,NA
+"record","05261","B_quality","answered_specificity",0.83490140677425,29516.216,35352.936,"proportion",0.415999999997439,NA
+"record","05261","B_quality","full_capture",0.813352464691797,389.995999999999,479.492,"proportion",0.415999999997439,NA
+"record","05261","B_quality","duration_ppv",0.06263269434482,389.995999999999,6226.71599999999,"proportion",0.415999999997439,NA
+"record","05261","B_quality","episode_sensitivity",1,2,2,"proportion",0.415999999997439,NA
+"record","05261","B_quality","false_alarms_per_answered_hour",10.0467654606046,100,35832.428,"per hour",0.415999999997439,NA
+"record","05261","B_quality","false_alarms_per_known_hour",9.77659821309855,100,36822.624,"per hour",0.415999999997439,NA
+"record","05261","B_quality","unmatched_alarms_per_answered_hour",10.0467654606046,100,35832.428,"per hour",0.415999999997439,NA
+"record","05261","B_quality","pred_burden_answered",0.173773209004983,6226.71599999999,35832.428,"proportion",0.415999999997439,NA
+"record","05261","B_quality","ref_burden_answered",0.0133815101784339,479.492,35832.428,"proportion",0.415999999997439,NA
+"record","05261","B_quality","ref_burden_full",0.013021668417764,479.492,36822.624,"proportion",0.415999999997439,NA
+"record","05261","B_quality","burden_diff_pp",16.0391698826549,5747.22399999999,35832.428,"percentage points",0.415999999997439,NA
+"record","05261","B_quality","burden_bound_lower",0.16909836884733,6226.71599999999,36823.04,"proportion",0.415999999997439,NA
+"record","05261","B_quality","burden_bound_upper",0.196000330228031,7217.32799999999,36823.04,"proportion",0.415999999997439,NA
+"record","05261","B_quality","burden_error_min",95.7870666666665,5747.22399999999,NA,"minutes",0.415999999997439,NA
+"record","05261","B_quality","missed_negative_min",1.49160000000002,89.496000000001,NA,"minutes",0.415999999997439,NA
+"record","05261","B_quality","missed_abstain_min",0,0,NA,"minutes",0.415999999997439,NA
+"record","05261","B_quality","missed_no_input_min",0,0,NA,"minutes",0.415999999997439,NA
+"record","05261","B_quality","missed_unknown_min",0,0,NA,"minutes",0.415999999997439,NA
+"record","05261","B_quality","unmatched_alarms",100,100,NA,"count",0.415999999997439,NA
+"record","06426","B_quality","answer_coverage",0.975374992273828,35916.128,36822.892,"proportion",0.148000000001048,NA
+"record","06426","B_quality","answer_coverage_given_input",0.99740906792891,35906.128,35999.4,"proportion",0.148000000001048,NA
+"record","06426","B_quality","answered_sensitivity",0.986515067835106,33745.496,34206.772,"proportion",0.148000000001048,NA
+"record","06426","B_quality","answered_specificity",0.148278064955457,253.460000000001,1709.356,"proportion",0.148000000001048,NA
+"record","06426","B_quality","full_capture",0.961039526181584,33745.496,35113.536,"proportion",0.148000000001048,NA
+"record","06426","B_quality","duration_ppv",0.958640953744102,33745.496,35201.392,"proportion",0.148000000001048,NA
+"record","06426","B_quality","episode_sensitivity",0.565217391304348,13,23,"proportion",0.148000000001048,NA
+"record","06426","B_quality","false_alarms_per_answered_hour",0,0,35916.128,"per hour",0.148000000001048,NA
+"record","06426","B_quality","false_alarms_per_known_hour",0,0,36822.892,"per hour",0.148000000001048,NA
+"record","06426","B_quality","unmatched_alarms_per_answered_hour",1.00233521831752,10,35916.128,"per hour",0.148000000001048,NA
+"record","06426","B_quality","pred_burden_answered",0.980099859316684,35201.392,35916.128,"proportion",0.148000000001048,NA
+"record","06426","B_quality","ref_burden_answered",0.952407007793268,34206.772,35916.128,"proportion",0.148000000001048,NA
+"record","06426","B_quality","ref_burden_full",0.95357898559407,35113.536,36822.892,"proportion",0.148000000001048,NA
+"record","06426","B_quality","burden_diff_pp",2.7692851523416,994.620000000003,35916.128,"percentage points",0.148000000001048,NA
+"record","06426","B_quality","burden_bound_lower",0.955961050472748,35201.392,36823.04,"proportion",0.148000000001048,NA
+"record","06426","B_quality","burden_bound_upper",0.980589978448276,36108.304,36823.04,"proportion",0.148000000001048,NA
+"record","06426","B_quality","burden_error_min",16.577,994.620000000003,NA,"minutes",0.148000000001048,NA
+"record","06426","B_quality","missed_negative_min",7.68793333333332,461.275999999999,NA,"minutes",0.148000000001048,NA
+"record","06426","B_quality","missed_abstain_min",1.55453333333333,93.272,NA,"minutes",0.148000000001048,NA
+"record","06426","B_quality","missed_no_input_min",13.5582,813.491999999997,NA,"minutes",0.148000000001048,NA
+"record","06426","B_quality","missed_unknown_min",0,0,NA,"minutes",0.148000000001048,NA
+"record","06426","B_quality","unmatched_alarms",10,10,NA,"count",0.148000000001048,NA
+"record","06453","B_quality","answer_coverage",0.994144158753611,33104.404,33299.4,"proportion",0.599999999998545,NA
+"record","06453","B_quality","answer_coverage_given_input",0.996854707865556,33094.404,33198.824,"proportion",0.599999999998545,NA
+"record","06453","B_quality","answered_sensitivity",0.516742081447957,191.855999999997,371.279999999999,"proportion",0.599999999998545,NA
+"record","06453","B_quality","answered_specificity",0.705737344226601,23100.988,32733.124,"proportion",0.599999999998545,NA
+"record","06453","B_quality","full_capture",0.516742081447957,191.855999999997,371.279999999999,"proportion",0.599999999998545,NA
+"record","06453","B_quality","duration_ppv",0.0195293318642765,191.855999999997,9823.992,"proportion",0.599999999998545,NA
+"record","06453","B_quality","episode_sensitivity",1,3,3,"proportion",0.599999999998545,NA
+"record","06453","B_quality","false_alarms_per_answered_hour",13.0496232465022,120,33104.404,"per hour",0.599999999998545,NA
+"record","06453","B_quality","false_alarms_per_known_hour",12.9732067244455,120,33299.4,"per hour",0.599999999998545,NA
+"record","06453","B_quality","unmatched_alarms_per_answered_hour",13.1583701068897,121,33104.404,"per hour",0.599999999998545,NA
+"record","06453","B_quality","pred_burden_answered",0.29675785735336,9823.992,33104.404,"proportion",0.599999999998545,NA
+"record","06453","B_quality","ref_burden_answered",0.0112154262012994,371.279999999999,33104.404,"proportion",0.599999999998545,NA
+"record","06453","B_quality","ref_burden_full",0.011149750445954,371.279999999999,33299.4,"proportion",0.599999999998545,NA
+"record","06453","B_quality","burden_diff_pp",28.5542431152061,9452.712,33104.404,"percentage points",0.599999999998545,NA
+"record","06453","B_quality","burden_bound_lower",0.295014774774775,9823.992,33300,"proportion",0.599999999998545,NA
+"record","06453","B_quality","burden_bound_upper",0.300888528528529,10019.588,33300,"proportion",0.599999999998545,NA
+"record","06453","B_quality","burden_error_min",157.5452,9452.712,NA,"minutes",0.599999999998545,NA
+"record","06453","B_quality","missed_negative_min",2.99040000000004,179.424000000002,NA,"minutes",0.599999999998545,NA
+"record","06453","B_quality","missed_abstain_min",0,0,NA,"minutes",0.599999999998545,NA
+"record","06453","B_quality","missed_no_input_min",0,0,NA,"minutes",0.599999999998545,NA
+"record","06453","B_quality","missed_unknown_min",0,0,NA,"minutes",0.599999999998545,NA
+"record","06453","B_quality","unmatched_alarms",121,121,NA,"count",0.599999999998545,NA
+"record","06995","B_quality","answer_coverage",0.975555720428302,35922.9,36823.012,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","answer_coverage_given_input",0.99759097483907,35912.9,35999.624,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","answered_sensitivity",0.925534063574061,15231.888,16457.404,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","answered_specificity",0.486571521218879,9471.35600000001,19465.496,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","full_capture",0.877538468061905,15231.888,17357.516,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","duration_ppv",0.603816343976151,15231.888,25226.028,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","episode_sensitivity",1,4,4,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","false_alarms_per_answered_hour",10.0214626324712,100,35922.9,"per hour",0.0279999999984284,NA
+"record","06995","B_quality","false_alarms_per_known_hour",9.77649519816575,100,36823.012,"per hour",0.0279999999984284,NA
+"record","06995","B_quality","unmatched_alarms_per_answered_hour",13.4287599275114,134,35922.9,"per hour",0.0279999999984284,NA
+"record","06995","B_quality","pred_burden_answered",0.702226936021312,25226.028,35922.9,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","ref_burden_answered",0.458131275593006,16457.404,35922.9,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","ref_burden_full",0.47137686618357,17357.516,36823.012,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","burden_diff_pp",24.4095660428306,8768.624,35922.9,"percentage points",0.0279999999984284,NA
+"record","06995","B_quality","burden_bound_lower",0.68506098355812,25226.028,36823.04,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","burden_bound_upper",0.70950600493604,26126.168,36823.04,"proportion",0.0279999999984284,NA
+"record","06995","B_quality","burden_error_min",146.143733333333,8768.624,NA,"minutes",0.0279999999984284,NA
+"record","06995","B_quality","missed_negative_min",20.4252666666666,1225.516,NA,"minutes",0.0279999999984284,NA
+"record","06995","B_quality","missed_abstain_min",1.4454,86.724,NA,"minutes",0.0279999999984284,NA
+"record","06995","B_quality","missed_no_input_min",13.5564666666667,813.388,NA,"minutes",0.0279999999984284,NA
+"record","06995","B_quality","missed_unknown_min",0,0,NA,"minutes",0.0279999999984284,NA
+"record","06995","B_quality","unmatched_alarms",134,134,NA,"count",0.0279999999984284,NA
+"record","07162","B_quality","answer_coverage",0.975009630022467,35902.14,36822.344,"proportion",0.696000000003551,NA
+"record","07162","B_quality","answer_coverage_given_input",0.996973868897948,35892.14,36001.084,"proportion",0.696000000003551,NA
+"record","07162","B_quality","answered_sensitivity",0.926078946826011,33248.216,35902.14,"proportion",0.696000000003551,NA
+"record","07162","B_quality","answered_specificity",NA,0,0,"proportion",0.696000000003551,"no non-event time during answered time"
+"record","07162","B_quality","full_capture",0.902935891316425,33248.216,36822.344,"proportion",0.696000000003551,NA
+"record","07162","B_quality","duration_ppv",1,33248.216,33248.216,"proportion",0.696000000003551,NA
+"record","07162","B_quality","episode_sensitivity",1,1,1,"proportion",0.696000000003551,NA
+"record","07162","B_quality","false_alarms_per_answered_hour",0,0,35902.14,"per hour",0.696000000003551,NA
+"record","07162","B_quality","false_alarms_per_known_hour",0,0,36822.344,"per hour",0.696000000003551,NA
+"record","07162","B_quality","unmatched_alarms_per_answered_hour",3.50954009983806,35,35902.14,"per hour",0.696000000003551,NA
+"record","07162","B_quality","pred_burden_answered",0.926078946826011,33248.216,35902.14,"proportion",0.696000000003551,NA
+"record","07162","B_quality","ref_burden_answered",1,35902.14,35902.14,"proportion",0.696000000003551,NA
+"record","07162","B_quality","ref_burden_full",1,36822.344,36822.344,"proportion",0.696000000003551,NA
+"record","07162","B_quality","burden_diff_pp",-7.39210531739888,-2653.92399999999,35902.14,"percentage points",0.696000000003551,NA
+"record","07162","B_quality","burden_bound_lower",0.902918824735818,33248.216,36823.04,"proportion",0.696000000003551,NA
+"record","07162","B_quality","burden_bound_upper",0.927927623574806,34169.116,36823.04,"proportion",0.696000000003551,NA
+"record","07162","B_quality","burden_error_min",-44.2320666666665,-2653.92399999999,NA,"minutes",0.696000000003551,NA
+"record","07162","B_quality","missed_negative_min",44.2320666666666,2653.924,NA,"minutes",0.696000000003551,NA
+"record","07162","B_quality","missed_abstain_min",1.81573333333333,108.944,NA,"minutes",0.696000000003551,NA
+"record","07162","B_quality","missed_no_input_min",13.521,811.259999999999,NA,"minutes",0.696000000003551,NA
+"record","07162","B_quality","missed_unknown_min",0,0,NA,"minutes",0.696000000003551,NA
+"record","07162","B_quality","unmatched_alarms",35,35,NA,"count",0.696000000003551,NA
+"record","07859","B_quality","answer_coverage",0.971968506092464,35790.668,36822.868,"proportion",0.171999999998661,NA
+"record","07859","B_quality","answer_coverage_given_input",0.994223939065047,35780.668,35988.54,"proportion",0.171999999998661,NA
+"record","07859","B_quality","answered_sensitivity",0.993468241498035,35556.892,35790.668,"proportion",0.171999999998661,NA
+"record","07859","B_quality","answered_specificity",NA,0,0,"proportion",0.171999999998661,"no non-event time during answered time"
+"record","07859","B_quality","full_capture",0.965619842539152,35556.892,36822.868,"proportion",0.171999999998661,NA
+"record","07859","B_quality","duration_ppv",1,35556.892,35556.892,"proportion",0.171999999998661,NA
+"record","07859","B_quality","episode_sensitivity",1,1,1,"proportion",0.171999999998661,NA
+"record","07859","B_quality","false_alarms_per_answered_hour",0,0,35790.668,"per hour",0.171999999998661,NA
+"record","07859","B_quality","false_alarms_per_known_hour",0,0,36822.868,"per hour",0.171999999998661,NA
+"record","07859","B_quality","unmatched_alarms_per_answered_hour",1.10643366589302,11,35790.668,"per hour",0.171999999998661,NA
+"record","07859","B_quality","pred_burden_answered",0.993468241498035,35556.892,35790.668,"proportion",0.171999999998661,NA
+"record","07859","B_quality","ref_burden_answered",1,35790.668,35790.668,"proportion",0.171999999998661,NA
+"record","07859","B_quality","ref_burden_full",1,36822.868,36822.868,"proportion",0.171999999998661,NA
+"record","07859","B_quality","burden_diff_pp",-0.653175850196496,-233.776000000005,35790.668,"percentage points",0.171999999998661,NA
+"record","07859","B_quality","burden_bound_lower",0.965615332139877,35556.892,36823.04,"proportion",0.171999999998661,NA
+"record","07859","B_quality","burden_bound_upper",0.993651366101223,36589.264,36823.04,"proportion",0.171999999998661,NA
+"record","07859","B_quality","burden_error_min",-3.89626666666675,-233.776000000005,NA,"minutes",0.171999999998661,NA
+"record","07859","B_quality","missed_negative_min",3.8962666666667,233.776000000002,NA,"minutes",0.171999999998661,NA
+"record","07859","B_quality","missed_abstain_min",3.46453333333335,207.872000000001,NA,"minutes",0.171999999998661,NA
+"record","07859","B_quality","missed_no_input_min",13.7388000000001,824.328000000003,NA,"minutes",0.171999999998661,NA
+"record","07859","B_quality","missed_unknown_min",0,0,NA,"minutes",0.171999999998661,NA
+"record","07859","B_quality","unmatched_alarms",11,11,NA,"count",0.171999999998661,NA
+"record","07879","B_quality","answer_coverage",0.955042448672595,35167.36,36822.824,"proportion",0.216000000000349,NA
+"record","07879","B_quality","answer_coverage_given_input",0.976616338073741,35157.36,35999.152,"proportion",0.216000000000349,NA
+"record","07879","B_quality","answered_sensitivity",0.929023188543657,20626.812,22202.688,"proportion",0.216000000000349,NA
+"record","07879","B_quality","answered_specificity",0.899611498077236,11663.168,12964.672,"proportion",0.216000000000349,NA
+"record","07879","B_quality","full_capture",0.929023188543657,20626.812,22202.688,"proportion",0.216000000000349,NA
+"record","07879","B_quality","duration_ppv",0.940647334706413,20626.812,21928.316,"proportion",0.216000000000349,NA
+"record","07879","B_quality","episode_sensitivity",1,1,1,"proportion",0.216000000000349,NA
+"record","07879","B_quality","false_alarms_per_answered_hour",2.35445595006279,23,35167.36,"per hour",0.216000000000349,NA
+"record","07879","B_quality","false_alarms_per_known_hour",2.24860537583972,23,36822.824,"per hour",0.216000000000349,NA
+"record","07879","B_quality","unmatched_alarms_per_answered_hour",10.0320297002675,98,35167.36,"per hour",0.216000000000349,NA
+"record","07879","B_quality","pred_burden_answered",0.623541715954794,21928.316,35167.36,"proportion",0.216000000000349,NA
+"record","07879","B_quality","ref_burden_answered",0.631343609528836,22202.688,35167.36,"proportion",0.216000000000349,NA
+"record","07879","B_quality","ref_burden_full",0.602959946798214,22202.688,36822.824,"proportion",0.216000000000349,NA
+"record","07879","B_quality","burden_diff_pp",-0.780189357404147,-274.372000000003,35167.36,"percentage points",0.216000000000349,NA
+"record","07879","B_quality","burden_bound_lower",0.595505314064238,21928.316,36823.04,"proportion",0.216000000000349,NA
+"record","07879","B_quality","burden_bound_upper",0.640468467568131,23583.996,36823.04,"proportion",0.216000000000349,NA
+"record","07879","B_quality","burden_error_min",-4.57286666666672,-274.372000000003,NA,"minutes",0.216000000000349,NA
+"record","07879","B_quality","missed_negative_min",26.2646000000001,1575.87600000001,NA,"minutes",0.216000000000349,NA
+"record","07879","B_quality","missed_abstain_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","07879","B_quality","missed_no_input_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","07879","B_quality","missed_unknown_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","07879","B_quality","unmatched_alarms",98,98,NA,"count",0.216000000000349,NA
+"record","07910","B_quality","answer_coverage",0.96923848020842,35689.908,36822.628,"proportion",0.411999999996624,NA
+"record","07910","B_quality","answer_coverage_given_input",0.991153818246589,35679.908,35998.356,"proportion",0.411999999996624,NA
+"record","07910","B_quality","answered_sensitivity",0.972049490402669,4914.064,5055.364,"proportion",0.411999999996624,NA
+"record","07910","B_quality","answered_specificity",0.656239831740273,20103.608,30634.544,"proportion",0.411999999996624,NA
+"record","07910","B_quality","full_capture",0.837260147004201,4914.064,5869.22,"proportion",0.411999999996624,NA
+"record","07910","B_quality","duration_ppv",0.318165360958239,4914.064,15445,"proportion",0.411999999996624,NA
+"record","07910","B_quality","episode_sensitivity",1,3,3,"proportion",0.411999999996624,NA
+"record","07910","B_quality","false_alarms_per_answered_hour",9.27993426040773,92,35689.908,"per hour",0.411999999996624,NA
+"record","07910","B_quality","false_alarms_per_known_hour",8.99446937899163,92,36822.628,"per hour",0.411999999996624,NA
+"record","07910","B_quality","unmatched_alarms_per_answered_hour",9.38080311106434,93,35689.908,"per hour",0.411999999996624,NA
+"record","07910","B_quality","pred_burden_answered",0.432755388442021,15445,35689.908,"proportion",0.411999999996624,NA
+"record","07910","B_quality","ref_burden_answered",0.14164687675855,5055.364,35689.908,"proportion",0.411999999996624,NA
+"record","07910","B_quality","ref_burden_full",0.159391665364026,5869.22,36822.628,"proportion",0.411999999996624,NA
+"record","07910","B_quality","burden_diff_pp",29.1108511683471,10389.636,35689.908,"percentage points",0.411999999996624,NA
+"record","07910","B_quality","burden_bound_lower",0.419438481993882,15445,36823.04,"proportion",0.411999999996624,NA
+"record","07910","B_quality","burden_bound_upper",0.450210846252781,16578.132,36823.04,"proportion",0.411999999996624,NA
+"record","07910","B_quality","burden_error_min",173.1606,10389.636,NA,"minutes",0.411999999996624,NA
+"record","07910","B_quality","missed_negative_min",2.35500000000002,141.300000000001,NA,"minutes",0.411999999996624,NA
+"record","07910","B_quality","missed_abstain_min",0,0,NA,"minutes",0.411999999996624,NA
+"record","07910","B_quality","missed_no_input_min",13.5642666666667,813.856,NA,"minutes",0.411999999996624,NA
+"record","07910","B_quality","missed_unknown_min",0,0,NA,"minutes",0.411999999996624,NA
+"record","07910","B_quality","unmatched_alarms",93,93,NA,"count",0.411999999996624,NA
+"record","08215","B_quality","answer_coverage",0.975266908128333,35911.676,36822.408,"proportion",0.631999999997788,NA
+"record","08215","B_quality","answer_coverage_given_input",0.997306342983364,35901.676,35998.644,"proportion",0.631999999997788,NA
+"record","08215","B_quality","answered_sensitivity",0.988381765742092,28525.528,28860.84,"proportion",0.631999999997788,NA
+"record","08215","B_quality","answered_specificity",0.980624708899767,6914.224,7050.836,"proportion",0.631999999997788,NA
+"record","08215","B_quality","full_capture",0.961298064350545,28525.528,29673.968,"proportion",0.631999999997788,NA
+"record","08215","B_quality","duration_ppv",0.995233712486227,28525.528,28662.14,"proportion",0.631999999997788,NA
+"record","08215","B_quality","episode_sensitivity",1,2,2,"proportion",0.631999999997788,NA
+"record","08215","B_quality","false_alarms_per_answered_hour",0.400983791455459,4,35911.676,"per hour",0.631999999997788,NA
+"record","08215","B_quality","false_alarms_per_known_hour",0.391066222502342,4,36822.408,"per hour",0.631999999997788,NA
+"record","08215","B_quality","unmatched_alarms_per_answered_hour",1.30319732223024,13,35911.676,"per hour",0.631999999997788,NA
+"record","08215","B_quality","pred_burden_answered",0.798128720029664,28662.14,35911.676,"proportion",0.631999999997788,NA
+"record","08215","B_quality","ref_burden_answered",0.803661739429817,28860.84,35911.676,"proportion",0.631999999997788,NA
+"record","08215","B_quality","ref_burden_full",0.8058671230844,29673.968,36822.408,"proportion",0.631999999997788,NA
+"record","08215","B_quality","burden_diff_pp",-0.553301940015257,-198.699999999993,35911.676,"percentage points",0.631999999997788,NA
+"record","08215","B_quality","burden_bound_lower",0.778375169459121,28662.14,36823.04,"proportion",0.631999999997788,NA
+"record","08215","B_quality","burden_bound_upper",0.803125,29573.504,36823.04,"proportion",0.631999999997788,NA
+"record","08215","B_quality","burden_error_min",-3.31166666666656,-198.699999999993,NA,"minutes",0.631999999997788,NA
+"record","08215","B_quality","missed_negative_min",5.58853333333324,335.311999999994,NA,"minutes",0.631999999997788,NA
+"record","08215","B_quality","missed_abstain_min",0,0,NA,"minutes",0.631999999997788,NA
+"record","08215","B_quality","missed_no_input_min",13.5521333333334,813.128000000004,NA,"minutes",0.631999999997788,NA
+"record","08215","B_quality","missed_unknown_min",0,0,NA,"minutes",0.631999999997788,NA
+"record","08215","B_quality","unmatched_alarms",13,13,NA,"count",0.631999999997788,NA
+"record","08219","B_quality","answer_coverage",0.975864985484903,35933.644,36822.352,"proportion",0.688000000001921,NA
+"record","08219","B_quality","answer_coverage_given_input",0.997932666601182,35923.644,35998.064,"proportion",0.688000000001921,NA
+"record","08219","B_quality","answered_sensitivity",0.938090682780358,7456.74400000001,7948.852,"proportion",0.688000000001921,NA
+"record","08219","B_quality","answered_specificity",0.680358531876886,19039.692,27984.792,"proportion",0.688000000001921,NA
+"record","08219","B_quality","full_capture",0.938090682780358,7456.74400000001,7948.852,"proportion",0.688000000001921,NA
+"record","08219","B_quality","duration_ppv",0.454628394222016,7456.74400000001,16401.844,"proportion",0.688000000001921,NA
+"record","08219","B_quality","episode_sensitivity",0.578947368421053,22,38,"proportion",0.688000000001921,NA
+"record","08219","B_quality","false_alarms_per_answered_hour",8.41551165809958,84,35933.644,"per hour",0.688000000001921,NA
+"record","08219","B_quality","false_alarms_per_known_hour",8.21240316207938,84,36822.352,"per hour",0.688000000001921,NA
+"record","08219","B_quality","unmatched_alarms_per_answered_hour",8.71606564588885,87,35933.644,"per hour",0.688000000001921,NA
+"record","08219","B_quality","pred_burden_answered",0.456448113083104,16401.844,35933.644,"proportion",0.688000000001921,NA
+"record","08219","B_quality","ref_burden_answered",0.221209182124696,7948.852,35933.644,"proportion",0.688000000001921,NA
+"record","08219","B_quality","ref_burden_full",0.215870295303244,7948.852,36822.352,"proportion",0.688000000001921,NA
+"record","08219","B_quality","burden_diff_pp",23.5238930958408,8452.992,35933.644,"percentage points",0.688000000001921,NA
+"record","08219","B_quality","burden_bound_lower",0.445423408822303,16401.844,36823.04,"proportion",0.688000000001921,NA
+"record","08219","B_quality","burden_bound_upper",0.469576656354282,17291.24,36823.04,"proportion",0.688000000001921,NA
+"record","08219","B_quality","burden_error_min",140.8832,8452.992,NA,"minutes",0.688000000001921,NA
+"record","08219","B_quality","missed_negative_min",8.20179999999982,492.107999999989,NA,"minutes",0.688000000001921,NA
+"record","08219","B_quality","missed_abstain_min",0,0,NA,"minutes",0.688000000001921,NA
+"record","08219","B_quality","missed_no_input_min",0,0,NA,"minutes",0.688000000001921,NA
+"record","08219","B_quality","missed_unknown_min",0,0,NA,"minutes",0.688000000001921,NA
+"record","08219","B_quality","unmatched_alarms",87,87,NA,"count",0.688000000001921,NA
+"record","08378","B_quality","answer_coverage",0.975020061012418,35902.84,36822.668,"proportion",0.372000000003027,NA
+"record","08378","B_quality","answer_coverage_given_input",0.997062440337938,35892.84,35998.588,"proportion",0.372000000003027,NA
+"record","08378","B_quality","answered_sensitivity",0.965151236463435,7430.128,7698.408,"proportion",0.372000000003027,NA
+"record","08378","B_quality","answered_specificity",0.988324671810445,27875.136,28204.432,"proportion",0.372000000003027,NA
+"record","08378","B_quality","full_capture",0.965151236463435,7430.128,7698.408,"proportion",0.372000000003027,NA
+"record","08378","B_quality","duration_ppv",0.957561798401531,7430.128,7759.424,"proportion",0.372000000003027,NA
+"record","08378","B_quality","episode_sensitivity",0.4,2,5,"proportion",0.372000000003027,NA
+"record","08378","B_quality","false_alarms_per_answered_hour",0.401082477040813,4,35902.84,"per hour",0.372000000003027,NA
+"record","08378","B_quality","false_alarms_per_known_hour",0.391063461235346,4,36822.668,"per hour",0.372000000003027,NA
+"record","08378","B_quality","unmatched_alarms_per_answered_hour",0.90243557334183,9,35902.84,"per hour",0.372000000003027,NA
+"record","08378","B_quality","pred_burden_answered",0.216122847106246,7759.424,35902.84,"proportion",0.372000000003027,NA
+"record","08378","B_quality","ref_burden_answered",0.214423371521584,7698.408,35902.84,"proportion",0.372000000003027,NA
+"record","08378","B_quality","ref_burden_full",0.209067088783464,7698.408,36822.668,"proportion",0.372000000003027,NA
+"record","08378","B_quality","burden_diff_pp",0.169947558466128,61.0160000000005,35902.84,"percentage points",0.372000000003027,NA
+"record","08378","B_quality","burden_bound_lower",0.210721982758621,7759.424,36823.04,"proportion",0.372000000003027,NA
+"record","08378","B_quality","burden_bound_upper",0.235711771760289,8679.624,36823.04,"proportion",0.372000000003027,NA
+"record","08378","B_quality","burden_error_min",1.01693333333334,61.0160000000005,NA,"minutes",0.372000000003027,NA
+"record","08378","B_quality","missed_negative_min",4.4713333333333,268.279999999998,NA,"minutes",0.372000000003027,NA
+"record","08378","B_quality","missed_abstain_min",0,0,NA,"minutes",0.372000000003027,NA
+"record","08378","B_quality","missed_no_input_min",0,0,NA,"minutes",0.372000000003027,NA
+"record","08378","B_quality","missed_unknown_min",0,0,NA,"minutes",0.372000000003027,NA
+"record","08378","B_quality","unmatched_alarms",9,9,NA,"count",0.372000000003027,NA
+"record","08405","B_quality","answer_coverage",0.975261599133058,35911.816,36822.752,"proportion",0.288000000000466,NA
+"record","08405","B_quality","answer_coverage_given_input",0.997298818057896,35901.816,35999.056,"proportion",0.288000000000466,NA
+"record","08405","B_quality","answered_sensitivity",0.96467319912024,24865.536,25776.124,"proportion",0.288000000000466,NA
+"record","08405","B_quality","answered_specificity",0.902557812530215,9148.048,10135.692,"proportion",0.288000000000466,NA
+"record","08405","B_quality","full_capture",0.935162745273252,24865.536,26589.528,"proportion",0.288000000000466,NA
+"record","08405","B_quality","duration_ppv",0.961797968373717,24865.536,25853.18,"proportion",0.288000000000466,NA
+"record","08405","B_quality","episode_sensitivity",1,1,1,"proportion",0.288000000000466,NA
+"record","08405","B_quality","false_alarms_per_answered_hour",2.20540225534682,22,35911.816,"per hour",0.288000000000466,NA
+"record","08405","B_quality","false_alarms_per_known_hour",2.15084413028119,22,36822.752,"per hour",0.288000000000466,NA
+"record","08405","B_quality","unmatched_alarms_per_answered_hour",6.51596120897924,65,35911.816,"per hour",0.288000000000466,NA
+"record","08405","B_quality","pred_burden_answered",0.719907341917769,25853.18,35911.816,"proportion",0.288000000000466,NA
+"record","08405","B_quality","ref_burden_answered",0.717761641460849,25776.124,35911.816,"proportion",0.288000000000466,NA
+"record","08405","B_quality","ref_burden_full",0.722095078607921,26589.528,36822.752,"proportion",0.288000000000466,NA
+"record","08405","B_quality","burden_diff_pp",0.214570045691906,77.0559999999932,35911.816,"percentage points",0.288000000000466,NA
+"record","08405","B_quality","burden_bound_lower",0.70209249426446,25853.18,36823.04,"proportion",0.288000000000466,NA
+"record","08405","B_quality","burden_bound_upper",0.726838522837875,26764.404,36823.04,"proportion",0.288000000000466,NA
+"record","08405","B_quality","burden_error_min",1.28426666666655,77.0559999999932,NA,"minutes",0.288000000000466,NA
+"record","08405","B_quality","missed_negative_min",15.1764666666668,910.588000000007,NA,"minutes",0.288000000000466,NA
+"record","08405","B_quality","missed_abstain_min",0,0,NA,"minutes",0.288000000000466,NA
+"record","08405","B_quality","missed_no_input_min",13.5567333333334,813.404000000002,NA,"minutes",0.288000000000466,NA
+"record","08405","B_quality","missed_unknown_min",0,0,NA,"minutes",0.288000000000466,NA
+"record","08405","B_quality","unmatched_alarms",65,65,NA,"count",0.288000000000466,NA
+"record","08434","B_quality","answer_coverage",0.974744902780949,35892.86,36822.824,"proportion",0.216000000000349,NA
+"record","08434","B_quality","answer_coverage_given_input",0.996776346660293,35882.86,35998.908,"proportion",0.216000000000349,NA
+"record","08434","B_quality","answered_sensitivity",1,1423.736,1423.736,"proportion",0.216000000000349,NA
+"record","08434","B_quality","answered_specificity",0.860667187248507,29666.444,34469.124,"proportion",0.216000000000349,NA
+"record","08434","B_quality","full_capture",1,1423.736,1423.736,"proportion",0.216000000000349,NA
+"record","08434","B_quality","duration_ppv",0.228660597043307,1423.736,6226.41599999999,"proportion",0.216000000000349,NA
+"record","08434","B_quality","episode_sensitivity",0.333333333333333,1,3,"proportion",0.216000000000349,NA
+"record","08434","B_quality","false_alarms_per_answered_hour",5.41611897185123,54,35892.86,"per hour",0.216000000000349,NA
+"record","08434","B_quality","false_alarms_per_known_hour",5.27933436066718,54,36822.824,"per hour",0.216000000000349,NA
+"record","08434","B_quality","unmatched_alarms_per_answered_hour",5.41611897185123,54,35892.86,"per hour",0.216000000000349,NA
+"record","08434","B_quality","pred_burden_answered",0.173472272758426,6226.41599999999,35892.86,"proportion",0.216000000000349,NA
+"record","08434","B_quality","ref_burden_answered",0.0396662734594011,1423.736,35892.86,"proportion",0.216000000000349,NA
+"record","08434","B_quality","ref_burden_full",0.0386644978668665,1423.736,36822.824,"proportion",0.216000000000349,NA
+"record","08434","B_quality","burden_diff_pp",13.3805999299025,4802.67999999999,35892.86,"percentage points",0.216000000000349,NA
+"record","08434","B_quality","burden_bound_lower",0.169090221774193,6226.41599999999,36823.04,"proportion",0.216000000000349,NA
+"record","08434","B_quality","burden_bound_upper",0.194351036742213,7156.59599999999,36823.04,"proportion",0.216000000000349,NA
+"record","08434","B_quality","burden_error_min",80.0446666666665,4802.67999999999,NA,"minutes",0.216000000000349,NA
+"record","08434","B_quality","missed_negative_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","08434","B_quality","missed_abstain_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","08434","B_quality","missed_no_input_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","08434","B_quality","missed_unknown_min",0,0,NA,"minutes",0.216000000000349,NA
+"record","08434","B_quality","unmatched_alarms",54,54,NA,"count",0.216000000000349,NA
+"record","08455","B_quality","answer_coverage",0.971600527675135,35776.912,36822.656,"proportion",0.383999999998196,NA
+"record","08455","B_quality","answer_coverage_given_input",0.993824312696448,35776.912,35999.232,"proportion",0.383999999998196,NA
+"record","08455","B_quality","answered_sensitivity",0.970478089721912,23804.892,24529.036,"proportion",0.383999999998196,NA
+"record","08455","B_quality","answered_specificity",0.967803343493474,10885.732,11247.876,"proportion",0.383999999998196,NA
+"record","08455","B_quality","full_capture",0.934587160688946,23804.892,25471.024,"proportion",0.383999999998196,NA
+"record","08455","B_quality","duration_ppv",0.985014960047231,23804.892,24167.036,"proportion",0.383999999998196,NA
+"record","08455","B_quality","episode_sensitivity",1,2,2,"proportion",0.383999999998196,NA
+"record","08455","B_quality","false_alarms_per_answered_hour",1.40872974168369,14,35776.912,"per hour",0.383999999998196,NA
+"record","08455","B_quality","false_alarms_per_known_hour",1.36872256037153,14,36822.656,"per hour",0.383999999998196,NA
+"record","08455","B_quality","unmatched_alarms_per_answered_hour",4.62868343696069,46,35776.912,"per hour",0.383999999998196,NA
+"record","08455","B_quality","pred_burden_answered",0.675492507570245,24167.036,35776.912,"proportion",0.383999999998196,NA
+"record","08455","B_quality","ref_burden_answered",0.685610764841862,24529.036,35776.912,"proportion",0.383999999998196,NA
+"record","08455","B_quality","ref_burden_full",0.691721531439774,25471.024,36822.656,"proportion",0.383999999998196,NA
+"record","08455","B_quality","burden_diff_pp",-1.01182572716168,-361.999999999993,35776.912,"percentage points",0.383999999998196,NA
+"record","08455","B_quality","burden_bound_lower",0.656302032640434,24167.036,36823.04,"proportion",0.383999999998196,NA
+"record","08455","B_quality","burden_bound_upper",0.684711637062013,25213.164,36823.04,"proportion",0.383999999998196,NA
+"record","08455","B_quality","burden_error_min",-6.03333333333321,-361.999999999993,NA,"minutes",0.383999999998196,NA
+"record","08455","B_quality","missed_negative_min",12.0690666666665,724.143999999993,NA,"minutes",0.383999999998196,NA
+"record","08455","B_quality","missed_abstain_min",1.98253333333341,118.952000000005,NA,"minutes",0.383999999998196,NA
+"record","08455","B_quality","missed_no_input_min",13.7172666666667,823.036,NA,"minutes",0.383999999998196,NA
+"record","08455","B_quality","missed_unknown_min",0,0,NA,"minutes",0.383999999998196,NA
+"record","08455","B_quality","unmatched_alarms",46,46,NA,"count",0.383999999998196,NA

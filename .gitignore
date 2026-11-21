@@ -2,3 +2,5 @@ rawdata/
 *.Rcheck/
 *.tar.gz
 .Rhistory
+results/*/ledger.rds
+results/*/match_compare.rds

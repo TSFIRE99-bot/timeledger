@@ -1,0 +1,3 @@
+"detector","known_time_own","known_time_shared","known_time_discarded","event_time_discarded","episodes_eligible_own","episodes_eligible_shared","episodes_discarded","discarded_episode_ids"
+"A_answer",915397.532,890031.008,25366.524,8462.44400000002,233,229,4,"04043:e002;04126:e001;04126:e002;04126:e004"
+"B_quality",915397.532,890031.008,25366.524,8462.44400000002,233,229,4,"04043:e002;04126:e001;04126:e002;04126:e004"

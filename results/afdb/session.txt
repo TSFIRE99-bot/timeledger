@@ -1,0 +1,7 @@
+list(session = list(time = "2026-11-21 03:06:43 UTC", R = "R version 4.6.2 (2026-10-29 ucrt)", 
+    platform = "x86_64-w64-mingw32", os = "Windows 11 x64 (build 26300)", 
+    timeledger = "0.1.0"), exhibit = list(record_largest_unknown = "04048", 
+    record_largest_AB_gap = "04126"), seconds = c(ledger = 16.6782400608063, 
+match = 0.8904128074646, compare = 1.56650519371033, bootstrap = 1.7431378364563, 
+sensitivity = 0.208019971847534, epicmp = 2.82507014274597, exhibit = 18.1437590122223, 
+end = 1.29877805709839), n_ledger_rows = 153764L)

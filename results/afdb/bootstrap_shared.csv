@@ -1,0 +1,10 @@
+"detector","metric","estimate","lower","upper","B","n_undefined","n_subjects"
+"A_answer","answered_sensitivity",0.950358212840907,0.92563306724036,0.970302611572068,2000,0,25
+"B_quality","answered_sensitivity",0.950358212840907,0.92563306724036,0.970302611572068,2000,0,25
+"B_quality - A_answer","answered_sensitivity",0,0,0,2000,0,25
+"A_answer","false_alarms_per_known_hour",4.11760934962841,2.64961874784104,5.73258495058978,2000,0,25
+"B_quality","false_alarms_per_known_hour",4.12974375832083,2.6576980122217,5.75309474010887,2000,0,25
+"B_quality - A_answer","false_alarms_per_known_hour",0.0121344086924218,0,0.0244705611049784,2000,0,25
+"A_answer","burden_diff_pp",9.10866602076855,4.74227303181837,13.8103969888867,2000,0,25
+"B_quality","burden_diff_pp",9.10866602076855,4.74227303181837,13.8103969888867,2000,0,25
+"B_quality - A_answer","burden_diff_pp",0,0,0,2000,0,25

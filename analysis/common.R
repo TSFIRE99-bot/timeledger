@@ -167,11 +167,17 @@ run_epicmp_check <- function(db, dir, exe, workdir) {
       tst <- file.path(workdir, paste0(r$record, ".tst"))
       write_wfdb_rhythm(tst, p, r$fs)
       old <- setwd(workdir)
-      out <- tryCatch(system2(exe, c("-r", r$record, "-a", "atr", "tst", "-A", "-"),
-                              stdout = TRUE, stderr = TRUE,
-                              env = "WFDB=."), error = function(e) conditionMessage(e))
+      Sys.setenv(WFDB = ".")
+      out <- tryCatch(suppressWarnings(system2(exe, c("-r", r$record, "-a", "atr", "tst", "-A", "-"),
+                              stdout = TRUE, stderr = TRUE)),
+                      error = function(e) conditionMessage(e))
       setwd(old)
       ex <- tryCatch(wfdb_parse_epicmp(out), error = function(e) NULL)
+      if (is.null(ex) || !length(ex$STP) || is.na(ex$STP)) {
+        ex <- list(STP = NA, FN = NA, PTP = NA, FP = NA, ref_overlap = NA,
+                   ref_duration = NA, test_overlap = NA, test_duration = NA)
+        message("epicmp output for ", r$record, ": ", paste(out, collapse = " | "))
+      }
       ours <- wfdb_epicmp_af(r$atr, read_wfdb_ann(tst), n_samples = r$hea$n_samples,
                              fs = r$fs)
       to_s <- function(x) x / r$fs
