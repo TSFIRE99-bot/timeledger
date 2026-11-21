@@ -1,0 +1,4 @@
+rawdata/
+*.Rcheck/
+*.tar.gz
+.Rhistory

@@ -1,0 +1,32 @@
+Package: timeledger
+Type: Package
+Title: Auditable Time Accounting for Evaluating Continuous Event Detectors
+Version: 0.1.0
+Authors@R: person("Tejas", "Menneni", role = c("aut", "cre", "cph"),
+    email = "maintainer@example.org")
+Description: Evaluates detectors of events in long continuous recordings,
+    such as atrial fibrillation monitors, when detectors cover different
+    parts of a recording, abstain, lose their input, or split one true event
+    into several alarms. All inputs are reduced to one table of disjoint
+    half-open time intervals per record that states the reference rhythm,
+    whether input was available, and what each detector answered. Every
+    reported quantity (answer coverage, sensitivity on answered time,
+    full-period capture, episode detection under a named matching rule,
+    false-alarm burden and event burden with bounds for incomplete
+    predictions) is a sum over that table, reported with its numerator,
+    denominator and excluded time, and traceable to the intervals behind it.
+    Includes an exact one-to-one episode matching rule, paired comparisons
+    on own, shared and full time, a subject-level cluster bootstrap, a
+    base-R reader and writer for 'WFDB' annotation files, and a
+    compatibility mode that reproduces the atrial fibrillation statistics of
+    the 'WFDB' program 'epicmp' (Moody 2020,
+    <https://physionet.org/content/wfdb/10.7.0/>).
+License: GPL (>= 3)
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: graphics, stats, utils
+Suggests: tinytest, knitr, rmarkdown
+VignetteBuilder: knitr
+URL: https://github.com/OWNER/timeledger
+BugReports: https://github.com/OWNER/timeledger/issues
+Language: en-US
