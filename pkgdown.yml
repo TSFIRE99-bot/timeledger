@@ -4,7 +4,7 @@ pkgdown_sha: ~
 articles:
   comparing-monitors: comparing-monitors.html
   timeledger: timeledger.html
-last_built: 2026-11-21T16:37Z
+last_built: 2026-11-21T16:41Z
 urls:
   reference: https://tsfire99-bot.github.io/timeledger/reference
   article: https://tsfire99-bot.github.io/timeledger/articles
