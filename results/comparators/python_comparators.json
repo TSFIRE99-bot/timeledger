@@ -1,0 +1,38 @@
+{
+  "versions": {
+    "python": "3.13.15",
+    "numpy": "2.5.5",
+    "timescoring": "0.0.7",
+    "sed_eval": "0.2.1",
+    "wfdb": "4.3.1"
+  },
+  "timescoring": {
+    "abstention_representable": false,
+    "note": "Hypotheses are a set of event intervals over the whole recording; abstained time can only be scored as 'no event'.",
+    "sample_sensitivity": 0.3333333333333333,
+    "sample_precision": 0.5,
+    "event_sensitivity": 0.5,
+    "event_precision": 0.5,
+    "event_fp": 1,
+    "event_fp_per_day": 14.399999999999999,
+    "fp_rate_denominator_hours": 1.6666666666666667,
+    "default_params_event_sensitivity": 0.3333333333333333,
+    "default_params_fp": 2
+  },
+  "sed_eval": {
+    "abstention_representable": false,
+    "note": "Segment metrics are computed over segments spanned by the reference and estimate lists; there is no per-system scored region.",
+    "segment_recall": 0.3333333333333333,
+    "segment_precision": 0.5,
+    "event_recall": 0.5,
+    "event_precision": 0.5
+  },
+  "cpsc2021": {
+    "ran": false,
+    "error_type": "AttributeError",
+    "error": "module 'numpy' has no attribute 'float'.\n`np.float` was a deprecated alias for the builtin `float`. To avoid this error in existing code, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.\nThe aliases was originally deprecated in NumPy 1.20; for more details and guidance see the original release note at:\n    https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations",
+    "note": "score_2021.py uses np.float, removed in NumPy 1.24; the scorer as distributed fails on any AF record with current NumPy.",
+    "abstention_representable": false,
+    "design": "Scores onset/offset positions within beat tolerances and a record-level class; AF and AFL are pooled; no notion of unanswered time."
+  }
+}
