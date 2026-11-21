@@ -1,13 +1,13 @@
 # Small worked examples with known answers
 
 - `"acceptance"`: a 100-minute recording with complete reference. True
-  AF on \\\[10, 20)\\ and \\\[40, 60)\\; the detector flags \\\[10,
-  20)\\ and \\\[70, 80)\\, abstains on \\\[40, 60)\\ and otherwise
-  answers "no AF". Under one-to-one positive-overlap matching: answer
-  coverage 80%, answered-time sensitivity 100%, full-period capture
-  33.3%, episode detection 1/2, one unmatched alarm, 0.75 false alarms
-  per answered hour, predicted burden 25% and reference burden 12.5% on
-  answered time, and full-period predicted burden between 20% and 40%.
+  AF on `[10, 20)` and `[40, 60)`; the detector flags `[10, 20)` and
+  `[70, 80)`, abstains on `[40, 60)` and otherwise answers "no AF".
+  Under one-to-one positive-overlap matching: answer coverage 80%,
+  answered-time sensitivity 100%, full-period capture 33.3%, episode
+  detection 1/2, one unmatched alarm, 0.75 false alarms per answered
+  hour, predicted burden 25% and reference burden 12.5% on answered
+  time, and full-period predicted burden between 20% and 40%.
 
 - `"burden_mismatch"`: predicted and reference AF durations are equal
   (20 minutes each) but never overlap, so the burden error is zero while

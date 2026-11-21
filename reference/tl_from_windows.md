@@ -66,7 +66,7 @@ tl_from_windows(record, detector, decided_at, response, window_start = NULL,
   detector, or for at most `max_hold`. This uses no future signal.
 
 - `mode = "window"` (retrospective): each decision is assigned to its
-  own window \\\[window_start, window_end)\\. Where windows overlap, the
+  own window `[window_start, window_end)`. Where windows overlap, the
   window decided last wins. Window ends must increase with window
   starts.
 

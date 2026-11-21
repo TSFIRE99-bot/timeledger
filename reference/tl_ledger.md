@@ -1,7 +1,7 @@
 # Build the time ledger
 
 `tl_ledger()` is the centre of the package. It cuts every record's
-target period into disjoint half-open intervals \\\[start, end)\\,
+target period into disjoint half-open intervals `[start, end)`,
 splitting wherever the reference state, the observation status, or any
 detector's response changes. Each row states what was known about that
 stretch of time, so every metric in the package is a sum over ledger

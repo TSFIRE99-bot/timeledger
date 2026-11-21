@@ -3,7 +3,7 @@
 Builds the record table that anchors every other input. Each record has
 its own clock: `start` and `end` give the target period, in the same
 time unit as the interval tables, and intervals are half-open,
-\\\[start, end)\\.
+`[start, end)`.
 
 ## Usage
 

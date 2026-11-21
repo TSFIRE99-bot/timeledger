@@ -101,7 +101,7 @@ explicit here.</p>
     <h2 id="details">Details<a class="anchor" aria-label="anchor" href="#details"></a></h2>
 
 <ul><li><p><code>mode = "hold"</code> (real time): a decision issued at <code>decided_at</code> holds from that moment until the next decision of the same record and detector, or for at most <code>max_hold</code>. This uses no future signal.</p></li>
-<li><p><code>mode = "window"</code> (retrospective): each decision is assigned to its own window \([window_start, window_end)\). Where windows overlap, the window decided last wins. Window ends must increase with window starts.</p></li>
+<li><p><code>mode = "window"</code> (retrospective): each decision is assigned to its own window <code>[window_start, window_end)</code>. Where windows overlap, the window decided last wins. Window ends must increase with window starts.</p></li>
 </ul><p>Time not covered by any decision gets no row; its meaning is then set by
 the <code>missing</code> argument of <code><a href="tl_ledger.html">tl_ledger()</a></code>, unless <code>gap_response</code> is given.</p>
     </div>
