@@ -1,0 +1,144 @@
+---
+title: "Comparing two monitoring policies on a real recording"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Comparing two monitoring policies on a real recording}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", fig.width = 7,
+                      fig.height = 3)
+```
+
+This vignette runs a complete comparison on record 04015 of the MIT-BIH Atrial
+Fibrillation Database (Moody and Mark 1983; PhysioNet, Open Data Commons
+Attribution License 1.0), which ships with the package as annotation files.
+The detector input is the database's unaudited beat annotation stream, so no
+reference information reaches the detector.
+
+```{r}
+library(timeledger)
+ext <- function(f) system.file("extdata", f, package = "timeledger")
+hea <- read_wfdb_header(ext("04015.hea"))
+atr <- read_wfdb_ann(ext("04015.atr"))
+qrs <- read_wfdb_ann(ext("04015.qrs"))
+beats <- wfdb_beats(qrs, hea$fs)
+c(fs = hea$fs, hours = hea$n_samples / hea$fs / 3600, beats = nrow(beats),
+  last_beat_hours = max(beats$time) / 3600)
+```
+
+Beats stop at 10.0 hours here, roughly 14 minutes short of the end of the
+signal. We mark that tail as unavailable input in the observation table, so it
+is not scored as "no AF".
+
+## Reference
+
+```{r}
+ref <- wfdb_rhythm_intervals(atr, "04015", hea$fs, hea$n_samples)
+head(ref)
+table(ref$label)
+```
+
+The few samples before the first rhythm annotation have no stated rhythm and
+are labelled `"(unlabelled)"`; we treat them as unknown.
+
+## A small RR-irregularity detector with two operating policies
+
+A 64-beat window is scored every 8 beats from past beats only. The window is
+called AF when the normalised RMSSD of its RR intervals exceeds 0.1. Policy B
+additionally abstains when more than 5% of the window's RR intervals are
+implausible (outside 0.3 to 2 s). These are two policies of one detector,
+written for this vignette; they are not a validated AF detector.
+
+```{r}
+bt <- beats$time
+rr <- diff(bt)
+ends <- seq(64, length(rr), by = 8)
+stat <- t(vapply(ends, function(e) {
+  x <- rr[(e - 63):e]
+  c(nrmssd = sqrt(mean(diff(x)^2)) / mean(x),
+    implausible = mean(x < 0.3 | x > 2))
+}, numeric(2)))
+resp_a <- ifelse(stat[, "nrmssd"] > 0.1, "positive", "negative")
+resp_b <- ifelse(stat[, "implausible"] > 0.05, "abstain", resp_a)
+T_end <- hea$n_samples / hea$fs
+pred <- rbind(
+  tl_from_windows("04015", "A", decided_at = bt[ends + 1], response = resp_a,
+                  until = max(bt)),
+  tl_from_windows("04015", "B", decided_at = bt[ends + 1], response = resp_b,
+                  reason = ifelse(resp_b == "abstain", "implausible RR", NA),
+                  until = max(bt)))
+obs <- data.frame(record = "04015", start = c(0, min(bt), max(bt)),
+                  end = c(min(bt), max(bt), T_end),
+                  status = c("unavailable", "available", "unavailable"),
+                  reason = c("beats not started", NA, "beat stream ended"))
+```
+
+## Ledger, metrics and comparison
+
+```{r}
+rec <- tl_records("04015", 0, T_end, fs = hea$fs, n_samples = hea$n_samples)
+led <- tl_ledger(rec, ref, pred, observation = obs, event = "(AFIB",
+                 unknown = "(unlabelled)", missing = "abstain")
+all(tl_check(led)$ok)
+summary(led, by = c("response"))
+```
+
+```{r}
+cmp <- tl_compare(led, c("A", "B"), policy = "one_to_one",
+                  min_episode_time = 30)
+cmp$table[cmp$table$metric %in% c("answer_coverage", "answered_sensitivity",
+                                  "full_capture", "episode_sensitivity",
+                                  "false_alarms_per_known_hour",
+                                  "burden_diff_pp"), ]
+cmp$discarded[, c("detector", "known_time_discarded", "event_time_discarded",
+                  "episodes_discarded")]
+```
+
+Restricting both policies to the time when both answered gives one comparison;
+reporting each on its own answered time and on the full period gives the others.
+The `discarded` table states what the shared comparison leaves out.
+
+## Look at the time behind the numbers
+
+```{r, fig.alt = "Timeline of record 04015 showing reference AF, the responses of policies A and B, and the time included in the shared comparison."}
+# The shared ledger has the same rows as `led`; its reference-known rows are
+# the time used by the shared comparison.
+plot(led, from = 0, to = 4 * 3600, time_scale = 3600, xlab = "hours",
+     include = list(`shared time` = cmp$shared_ledger$reference != "unknown"))
+```
+
+```{r}
+m <- cmp$own_match
+fa <- m$alarms[m$alarms$detector == "B" & m$alarms$status == "false", ]
+head(fa[, c("alarm_id", "start", "end", "positive_time")])
+tl_explain(led, m, alarm = fa$alarm_id[1])[, c("start", "end", "reference",
+                                               "response", "issued_at")]
+```
+
+## WFDB epicmp conventions
+
+`wfdb_epicmp_af()` reproduces the AF statistics of the WFDB program `epicmp`
+for the conventions documented in its help page. It needs the responses as a
+WFDB test annotation file, which cannot represent abstention, so abstained time
+is written as non-AF.
+
+```{r}
+tmp <- tempfile(fileext = ".tst")
+write_wfdb_rhythm(tmp, pred[pred$detector == "B", ], fs = hea$fs)
+str(wfdb_epicmp_af(atr, read_wfdb_ann(tmp), n_samples = hea$n_samples,
+                   fs = hea$fs))
+```
+
+## Uncertainty
+
+With many records, resample subjects, not seconds or episodes:
+
+```{r, eval = FALSE}
+cb <- tl_contributions(led, cmp$own_match)
+tl_bootstrap(cb, c("full_capture", "false_alarms_per_known_hour"), B = 2000)
+```
+
+A single record has one subject, so the bootstrap is not run here.

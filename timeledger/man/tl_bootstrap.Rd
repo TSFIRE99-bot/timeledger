@@ -11,8 +11,8 @@ zero are undefined; they are counted and left out of the percentile
 interval.
 }
 \usage{
-tl_bootstrap(contributions, metrics, B = 2000, conf = 0.95, summary =
-  c("pooled", "record_mean"), seed = NULL)
+tl_bootstrap(contributions, metrics, B = 2000, conf = 0.95,
+  summary = c("pooled", "record_mean"), seed = NULL)
 }
 \arguments{
 \item{contributions}{Output of \code{\link[=tl_contributions]{tl_contributions()}}, possibly row-bound

@@ -116,9 +116,20 @@ usage_of <- function(nm) {
   }, "")
   meth <- regmatches(nm, regexec("^(print|summary|plot|as\\.data\\.frame)\\.(tl_\\w+)$", nm))[[1]]
   head <- if (length(meth)) sprintf("\\method{%s}{%s}", meth[2], meth[3]) else nm
-  s <- paste0(head, "(", paste(a, collapse = ", "), ")")
-  # wrap
-  strwrap(s, width = 78, exdent = 2)
+  # Wrap only between arguments, never inside a default value.
+  lines <- character()
+  cur <- paste0(head, "(")
+  for (k in seq_along(a)) {
+    piece <- paste0(a[k], if (k < length(a)) "," else ")")
+    if (nchar(cur) + nchar(piece) + 1 > 78 && !grepl("\\($", cur)) {
+      lines <- c(lines, cur)
+      cur <- paste0("  ", piece)
+    } else {
+      cur <- if (grepl("\\($", cur)) paste0(cur, piece) else paste(cur, piece)
+    }
+  }
+  if (!length(a)) cur <- paste0(cur, ")")
+  c(lines, cur)
 }
 
 # Group by rdname

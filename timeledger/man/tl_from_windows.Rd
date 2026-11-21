@@ -10,8 +10,8 @@ explicit here.
 \usage{
 tl_from_windows(record, detector, decided_at, response, window_start = NULL,
   window_end = NULL, reason = NA_character_, mode = c("hold", "window"),
-  max_hold = Inf, until = NULL, gap_response = NULL, gap_reason = "no current
-  decision")
+  max_hold = Inf, until = NULL, gap_response = NULL,
+  gap_reason = "no current decision")
 }
 \arguments{
 \item{record,detector}{Identifiers (recycled).}

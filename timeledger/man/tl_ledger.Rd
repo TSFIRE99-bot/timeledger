@@ -12,8 +12,8 @@ traced back to the seconds behind it.
 }
 \usage{
 tl_ledger(records, reference, predictions, observation = NULL, event = "AF",
-  unknown = "unknown", missing = "unknown", time_unit = "s", on_warning =
-  c("keep", "error"))
+  unknown = "unknown", missing = "unknown", time_unit = "s",
+  on_warning = c("keep", "error"))
 }
 \arguments{
 \item{records}{Record table, usually from \code{\link[=tl_records]{tl_records()}}: columns \code{record},

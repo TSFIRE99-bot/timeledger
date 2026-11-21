@@ -1,0 +1,8 @@
+"file","results","fails","passes"
+"test_acceptance.R",33,0,33
+"test_bruteforce.R",1,0,1
+"test_compare.R",31,0,31
+"test_edge_cases.R",71,0,71
+"test_invariants.R",14,0,14
+"test_validation.R",21,0,21
+"test_wfdb.R",33,0,33

@@ -1,0 +1,540 @@
+database,name,version,file,bytes,sha256,url,license,downloaded
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,00735.atr,36,7af0f263a195c9637cb8e125c697d99484a9e6f79646a599e6f7e443e02d2af1,https://physionet.org/files/afdb/1.0.0/00735.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,00735.hea,15,0883ded310ad2df6a9932521bd89e384ef8aa60addd0a15e1d62ab747b1efbaf,https://physionet.org/files/afdb/1.0.0/00735.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,00735.qrs,80468,73b9d34fa5cbfa2bd44cdb63b82c82d1972a6047ee9289b19c8c2c9e32565575,https://physionet.org/files/afdb/1.0.0/00735.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,03665.atr,204,cb51f1277383ff111f0485dd9ea0f6db94266a68c50be52385647c1e473614dd,https://physionet.org/files/afdb/1.0.0/03665.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,03665.hea,15,543ac7a086afac65cd3e8ee69b544168f1be954669a8d14051f21dc7b8a27e59,https://physionet.org/files/afdb/1.0.0/03665.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,03665.qrs,105532,704eaa5f65494a6d21f9e95a917d24418c73bbd9809eae11b505aa31144ef618,https://physionet.org/files/afdb/1.0.0/03665.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04015.atr,198,ea11d47f1a52422939eadb46c544b1ae42c2111afbe1fd14afd43f4469fa2c8d,https://physionet.org/files/afdb/1.0.0/04015.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04015.hea,110,71bc68d08d79f6e18d6097a039fe5bf8965192ab9456e6458eb7e8d217d97297,https://physionet.org/files/afdb/1.0.0/04015.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04015.qrs,88012,d0f8d5fe5bf6e97412780ea1602446cc4f37c55581ce3d3a3771602ade62f912,https://physionet.org/files/afdb/1.0.0/04015.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04043.atr,2318,098cb44c066d3a662d07810f54c6439cbbbc8229bfc686a73ecccc528a92bde8,https://physionet.org/files/afdb/1.0.0/04043.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04043.hea,108,5756b5a8b6613706ad436614ff90a4fd89361072944ac369f1926e4fbfcf9551,https://physionet.org/files/afdb/1.0.0/04043.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04043.qrs,123832,d8842d655e1a4e79a6d5d3de9bbdcedb9816be4f789adcd209c977044fee741b,https://physionet.org/files/afdb/1.0.0/04043.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04048.atr,204,4fa9fcd2301079fa3c84eb994f5c5629c6e712311e2110aeebbc45cee1232ffb,https://physionet.org/files/afdb/1.0.0/04048.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04048.hea,109,bc6a4149f5a79673d17bb495bfc8c3a34574d8a639076d5f812a68abeeb5ebcd,https://physionet.org/files/afdb/1.0.0/04048.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04048.qrs,79900,e954bd484d6549a7bd2df0687cd9a90c90b7aa9899a1c24ac645a14d4cbc0102,https://physionet.org/files/afdb/1.0.0/04048.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04126.atr,204,7b21ce5b08bc6e9a53af5dbfa7a98beb57548ae2fb83a4ce6eab2507bd46bcd2,https://physionet.org/files/afdb/1.0.0/04126.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04126.hea,107,b8b0a61fe284b2a9e77ff7a41105ffc8e03282691f021b89c9c4682e4eb40ec9,https://physionet.org/files/afdb/1.0.0/04126.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04126.qrs,85722,2946ae430838693d7b3245bee2aa1578fcfd73e80c5b1ece88a847fca673bde7,https://physionet.org/files/afdb/1.0.0/04126.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04746.atr,148,bcd2eab8aabd780cd11ad648caa21234c594c79e65479e5c4d41eaee09c1602a,https://physionet.org/files/afdb/1.0.0/04746.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04746.hea,109,7eb1f73b75b6ed6e668b007d6dd9f0645280d5989197a58199edfa7529ffa888,https://physionet.org/files/afdb/1.0.0/04746.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04746.qrs,95748,3642fede18f51f8d61b79d722f9fb0915e95dc5db983152ad156e4f85a661bc7,https://physionet.org/files/afdb/1.0.0/04746.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04908.atr,234,5589eb55199fad1ea3650426eeda567a519e246299a87c0f4a9e197879c8fee1,https://physionet.org/files/afdb/1.0.0/04908.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04908.hea,105,13c190ed1db4376e708a996eee83358bb34f7581d54040c82d2291eb8c116bf5,https://physionet.org/files/afdb/1.0.0/04908.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04908.qrs,123522,6048186e43cb9f9117d29ab7e926c6d3bfb72788484b3fa77baa2a97244e65c6,https://physionet.org/files/afdb/1.0.0/04908.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04936.atr,1012,80439512a64d81f2de5f0206fe96937a8dcaef08668566d880720f016bd99ee3,https://physionet.org/files/afdb/1.0.0/04936.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04936.hea,99,b2d9a89bece090f7ee951512a11d822a686f5417b68425a8e311d646d2b60489,https://physionet.org/files/afdb/1.0.0/04936.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,04936.qrs,107294,9244ed0bbf5983cd9bad98e13866489891ebe220d8220fb151e26512c27e89c5,https://physionet.org/files/afdb/1.0.0/04936.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05091.atr,220,41a108a914abeac6480e7c3398893b666fa6cdd487b2f47a734fcfd50a5342f1,https://physionet.org/files/afdb/1.0.0/05091.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05091.hea,109,e9985ed4f52d7a2f3784437f38f1ec103ef67049be01167b31e3ad839e510423,https://physionet.org/files/afdb/1.0.0/05091.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05091.qrs,73606,80e2b781f55fe764c1cd2d77f5e1d59b3e60a1b0c90e2140b18c152a2bed2059,https://physionet.org/files/afdb/1.0.0/05091.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05091.qrsc,73558,d36cc3f0f030df643ebd1d8686d789803a1029a9bcd9e4945541e960673bcb08,https://physionet.org/files/afdb/1.0.0/05091.qrsc,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05121.atr,574,2e62d1e266ae9bc11a7252d46cf39d18cdd4de0f6224432af1325bba3b2236a7,https://physionet.org/files/afdb/1.0.0/05121.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05121.hea,107,d42c5038173a42920c955b6a1f55e7c916e0394167be5aab30d06ca23783190e,https://physionet.org/files/afdb/1.0.0/05121.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05121.qrs,99764,9416f8a4120025b893afb228dfac97ba097b383606bf62c1da55161c4ebe0efa,https://physionet.org/files/afdb/1.0.0/05121.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05261.atr,304,ae7fc9d48b372f6e98be7bb2f07e3bf11d1f1d713e2c8289bf3ca56150743028,https://physionet.org/files/afdb/1.0.0/05261.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05261.hea,110,2869f373344d4dbba2f6d665643276a4f92522cde30917ebe1be2a48c7c05f96,https://physionet.org/files/afdb/1.0.0/05261.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,05261.qrs,91070,6c9e5ba94ecdea0b073e3af7bcc6ca94dd33b1ffe742871bd708bc4ef42acb8e,https://physionet.org/files/afdb/1.0.0/05261.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,06426.atr,738,4a408b70a9d219319b8134f362926653cbcd7eae1b78e807e373922f1393ab96,https://physionet.org/files/afdb/1.0.0/06426.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,06426.hea,106,3bfe448da7a850f9dea9f387cd1221b108b53ea9acc949b3dc4ca321d46859bf,https://physionet.org/files/afdb/1.0.0/06426.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,06426.qrs,110312,9ffd733a3452b687e581e3d6e3128fec0a0f508bd1af2eb1eb38b536061ba257,https://physionet.org/files/afdb/1.0.0/06426.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,06453.atr,176,acf9d0fee2cdb53a15b8b4532c2baf6c06c48ebd94ecbaa767abe49a4989d75d,https://physionet.org/files/afdb/1.0.0/06453.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,06453.hea,109,528f8ddb7d7e235ee11a7fe0f3a03ad8bae58550fb6359b15ba899aadcf494f0,https://physionet.org/files/afdb/1.0.0/06453.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,06453.qrs,69676,6fc3c0b1b4bcda92277da22724a1864c058082914c5009dd529571bfb9229c3a,https://physionet.org/files/afdb/1.0.0/06453.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,06995.atr,156,6979f40a5faf89168de9e32077593e01ff8c7c1c63b8481fdcfcee8b653fd6a9,https://physionet.org/files/afdb/1.0.0/06995.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,06995.hea,106,6545947d36e21da7d263ac926f557fa94d71843c6c2138b74b1b128f122e6205,https://physionet.org/files/afdb/1.0.0/06995.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,06995.qrs,110380,ece952cdfa6facb2922a7949023220970211bc928cb7893a200f127a208995da,https://physionet.org/files/afdb/1.0.0/06995.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07162.atr,12,d85aec2198f1becf8e591cdf5b8054ed195f468ecdca1a24fb695bb60d95300d,https://physionet.org/files/afdb/1.0.0/07162.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07162.hea,107,0160f1ea740acaf0130663a77c2875adbbebd199101918e184b1a92f59e91438,https://physionet.org/files/afdb/1.0.0/07162.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07162.qrs,78598,6eba56fd5afcacc45b60521042f1c527033ea07e3eb720ee8ec8d21172988554,https://physionet.org/files/afdb/1.0.0/07162.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07859.atr,12,aba591ee4103ef6203429c73360fca92f1fb085f5f177f01e387beb268eafea5,https://physionet.org/files/afdb/1.0.0/07859.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07859.hea,108,7169307bc268d62f54d2f81f6e9b32793a456f8516ea7297f1f1f370e6b54fe0,https://physionet.org/files/afdb/1.0.0/07859.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07859.qrs,120596,c0e98246705ccc63161ddd36b5ddcc14c3a869054af3f4f8155d4e4bf2fb550a,https://physionet.org/files/afdb/1.0.0/07859.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07859.qrsc,123786,dc3cca346a7eab99b84f8dd968d89ac7b0cade862f7f6a3c94e9cd29391e35c1,https://physionet.org/files/afdb/1.0.0/07859.qrsc,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07879.atr,58,f2411dda8bb2236deae85423ee1a421621b6d8836ad4e3c22dbf17d437dbf3bf,https://physionet.org/files/afdb/1.0.0/07879.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07879.hea,108,2b58cfc1767d46906eb5bd59a4ae40443af49afbef88c5daca9c0161b9475e76,https://physionet.org/files/afdb/1.0.0/07879.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07879.qrs,113274,0fd9d26d3ccbcf63545eaf6b5acb1b02e685cde6869c77932ec6fec63aab6dab,https://physionet.org/files/afdb/1.0.0/07879.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07910.atr,138,9fa22639f3c2b49641f3c906f2f7e5ff3f25826e5ef53da53c438f2f8244502e,https://physionet.org/files/afdb/1.0.0/07910.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07910.hea,105,3e88b57053aff195ef305691ab441e2dd3fcd391d9551a39f53076ad8fae270e,https://physionet.org/files/afdb/1.0.0/07910.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,07910.qrs,73206,aaca86aaf68b8e55328ca3ddaaeb874d9f3b642c9ddd1623f235ef418f982cf8,https://physionet.org/files/afdb/1.0.0/07910.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08215.atr,54,f0f184834adb4938928a3c3f71eaebf821c385ec0786d9f135e381a19cb36060,https://physionet.org/files/afdb/1.0.0/08215.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08215.hea,108,2afdc76074948d5eb1d3f3a4d2bfcf37460b5df68595510a8c5b0071060d50a9,https://physionet.org/files/afdb/1.0.0/08215.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08215.qrs,86714,cf19b38f22ba1e17e867de338af2265d4c1968d07377e4870ac95ba4295d4a6e,https://physionet.org/files/afdb/1.0.0/08215.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08219.atr,1100,16b4313cce7e5d447d0638b54cf036d5e455a05c33e60632d3b62ccb2c0bc029,https://physionet.org/files/afdb/1.0.0/08219.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08219.hea,107,b61a456962eaa4971aa573d92b9a87c5d77fa0af31461b05f1b44f51a03b8fa9,https://physionet.org/files/afdb/1.0.0/08219.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08219.qrs,118588,60c5824ffdda4de98e9b355738e914ce770c87fcf8e728061c440bbb72bbac23,https://physionet.org/files/afdb/1.0.0/08219.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08378.atr,226,27019ff0d5e79b643452050a68d0489cde7e0800f37261d20b250b6d5085a26c,https://physionet.org/files/afdb/1.0.0/08378.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08378.hea,100,885a93e92f09f2783852e88d8ab5a2afc3a62826890e94f651099f6f87414c37,https://physionet.org/files/afdb/1.0.0/08378.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08378.qrs,91032,cb649a97c81c1f760060e1428c5e5cc90fc138a1b6234721aab43aee4b7cf61e,https://physionet.org/files/afdb/1.0.0/08378.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08405.atr,52,a867234797532a4b4b49b84f643567746511c81e995699e512779d13e89dc305,https://physionet.org/files/afdb/1.0.0/08405.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08405.hea,101,860b72d8c964c7215916459d9816bd3871eebadee72055b2445770f31bded0dd,https://physionet.org/files/afdb/1.0.0/08405.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08405.qrs,117714,1c68364f396476468963f060e108c5d2d82e64246a7b31d9cfd109dd63e78495,https://physionet.org/files/afdb/1.0.0/08405.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08434.atr,92,820f5a279e62ed4a2f54aaf10da4ba2f7f3f38cdde3080fada9e26d8588e6e89,https://physionet.org/files/afdb/1.0.0/08434.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08434.hea,108,b7d83d1e475e678f2ccd0a8fb09f4d02c76e5744686598d40b6dfb789f18df08,https://physionet.org/files/afdb/1.0.0/08434.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08434.qrs,79714,982ebe31e5688341e115577bff35d4a2712f9c0bfaaee89a473b0af521626a66,https://physionet.org/files/afdb/1.0.0/08434.qrs,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08455.atr,52,6fe48479ebe68d7da0f4577e5e4931c54212cd2d0d82d09afd14f010f621f663,https://physionet.org/files/afdb/1.0.0/08455.atr,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08455.hea,99,19ba7f4dd6d9843deb30f693effc980a764f9c2e25ce4a4283be9dc7cbbc6be0,https://physionet.org/files/afdb/1.0.0/08455.hea,ODC-By-1.0,2026-11-20
+afdb,MIT-BIH Atrial Fibrillation Database,1.0.0,08455.qrs,119106,18be95753d6f399a648df0fa3710971eff3bd8277d3527ea92528c125a604be0,https://physionet.org/files/afdb/1.0.0/08455.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,00.atr,213306,6da987cbb782a98f3ba7ea359bad377e4f581ca79e38f9ddb03cae86a4e194dc,https://physionet.org/files/ltafdb/1.0.0/00.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,00.hea,117,b7adc2dce84f616172b1475f394540a7704f92417b8709514a6244efd4152e07,https://physionet.org/files/ltafdb/1.0.0/00.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,00.qrs,212472,4100394a0f24e447a8fce440864a49a40477d6a4964cd2b82a6845e26d7b2981,https://physionet.org/files/ltafdb/1.0.0/00.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,01.atr,188010,50cc64abd0d72147d7195e298c1bbff40d6fa3627037476586287742c04f8b0f,https://physionet.org/files/ltafdb/1.0.0/01.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,01.hea,119,28ab3b9d2fe55031c3f2b6d4c09c82342286ab2e5274b63b2202918393439ff3,https://physionet.org/files/ltafdb/1.0.0/01.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,01.qrs,179120,f758245d6205a115118a01bc0adc2eb3598f12227dcaffc19d6389f4da79c8d1,https://physionet.org/files/ltafdb/1.0.0/01.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,03.atr,185166,b2053cc55e2feeb8e01a242c0c4700fe6678e602998bdc3973a26a402f5cf8be,https://physionet.org/files/ltafdb/1.0.0/03.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,03.hea,122,19bf6745435af7caa0cd59ae689e4cd24f495b4c2c8d7ccf11419e601af61b79,https://physionet.org/files/ltafdb/1.0.0/03.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,03.qrs,162302,e04a39e48eaa900c7fbeb6483b95da2a647a43d4afe0f47ba52d1391798ab350,https://physionet.org/files/ltafdb/1.0.0/03.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,05.atr,226138,8bbe4c47b7b1428b573c28a84af307453c9fc34e8d60d039c242735d621f50da,https://physionet.org/files/ltafdb/1.0.0/05.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,05.hea,120,e62cc28a1ce500bbbbc9771d2265388d6e0db51bec4c026cf78000bb5a5a1653,https://physionet.org/files/ltafdb/1.0.0/05.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,05.qrs,225818,26e87921bb46a92da6787d10453fe95caef6c86bc6cd4736faf7dad122713114,https://physionet.org/files/ltafdb/1.0.0/05.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,06.atr,211882,0e4802070d63b097beca01ce0c495e78a9c3b78d817d758961bded74f0f685d7,https://physionet.org/files/ltafdb/1.0.0/06.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,06.hea,117,04f20b48a72b854b59eb006da4f1a01ff9bbc7ff4ad0c7347ec2726c7843d410,https://physionet.org/files/ltafdb/1.0.0/06.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,06.qrs,210914,01283a675571766a537dda121c2ebd02dbdaed9c360970f30e907e415243512d,https://physionet.org/files/ltafdb/1.0.0/06.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,07.atr,223542,4202bd5655edda682b2bfe69805973f63053415036f6f6d9618b67fe8fb0ed79,https://physionet.org/files/ltafdb/1.0.0/07.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,07.hea,121,337f1e8d5d44b3ac2c0db7048fb035e9d711584c62c539b5214d2bf3df89c40e,https://physionet.org/files/ltafdb/1.0.0/07.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,07.qrs,216360,e125e15495283396c45331a107e52e99035867f66a4713861124c7fe12a6f422,https://physionet.org/files/ltafdb/1.0.0/07.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,08.atr,216980,14d108a79c6dcea50985a874d5738822327d72fa07f61e7f725e55698461b2e3,https://physionet.org/files/ltafdb/1.0.0/08.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,08.hea,120,81d4d6a019cd5f54df79b3054338fad6eec784488b37fc5e2cc8fb86c971e225,https://physionet.org/files/ltafdb/1.0.0/08.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,08.qrs,216238,bb9393a58a1ec81136944ddc0022a931ff1356ef01b47c08bbf5c7fb587067a4,https://physionet.org/files/ltafdb/1.0.0/08.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,10.atr,215422,8c7e0c69805012e3350959fa87ca7036eb9097a16a5f1445f8291129f83d4fbb,https://physionet.org/files/ltafdb/1.0.0/10.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,10.hea,121,b07d0821345732eec7ebfe97c35f92515e358649fa360a15ca5dcb9f76a2d5ce,https://physionet.org/files/ltafdb/1.0.0/10.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,10.qrs,213020,478445f9ec80893d586909e452a675f113eca882e942425f34c5953b41d6fdbc,https://physionet.org/files/ltafdb/1.0.0/10.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,100.atr,196064,e450f1a7e82ac6a3d6eb73125806de77d98f8ff7fa0809bc01d49f1d5a7a6b12,https://physionet.org/files/ltafdb/1.0.0/100.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,100.hea,121,56bfbc06c0e9cf8e151a8069ba2dc87b9e4b41af70c1558824e7ffdde5357419,https://physionet.org/files/ltafdb/1.0.0/100.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,100.qrs,190440,0479ef39266c6a2f7a6944e7384a97da907498fdccaa931968d2f86c8006e889,https://physionet.org/files/ltafdb/1.0.0/100.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,101.atr,206280,8cd504e88863c6899f746ca3295bbf8061f3e7d2aae7cb14e67033edfda3dc4a,https://physionet.org/files/ltafdb/1.0.0/101.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,101.hea,124,39bd335dd1b316df8d2b3c757b5d3eaeba6e268894784f6c6ae11496ecdf4c5d,https://physionet.org/files/ltafdb/1.0.0/101.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,101.qrs,187050,6dbdf6e621baac2de5f4fc7841a921c53fa8f8e41debc704137640705a75f1d8,https://physionet.org/files/ltafdb/1.0.0/101.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,102.atr,229514,0a395b6989f192ea0cad0da0a908ec53166b79ec41c435d6c9403455b3bdb19f,https://physionet.org/files/ltafdb/1.0.0/102.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,102.hea,123,6404eeb5de65de09749b351112a055bc7cf6faf9e25895051b8eb722685a9530,https://physionet.org/files/ltafdb/1.0.0/102.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,102.qrs,228794,f47373599ac483a50dc2ef496c7c6662a999c0784cfa35e4e4d3aa8ff9c6e5d7,https://physionet.org/files/ltafdb/1.0.0/102.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,103.atr,336264,d95b84ff1ff10a1bc218e4efbe645b3f6244d5c804c2c56b971d12fce20398d6,https://physionet.org/files/ltafdb/1.0.0/103.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,103.hea,126,b70446b431951525c5f2e733076c58ca95065a5bf58fb8a2201d72b98814278d,https://physionet.org/files/ltafdb/1.0.0/103.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,103.qrs,302834,7a8449470cbc25c84aff254f9f99e59082c387865fa3a44c0ffc81c0ad4fbe3e,https://physionet.org/files/ltafdb/1.0.0/103.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,104.atr,168798,d63afed5ad907bbcb8e06670d14295c1be01412d36efdc7ae6b21b33da748d5a,https://physionet.org/files/ltafdb/1.0.0/104.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,104.hea,122,b4aeed758bbaf2048ff15027f829da8dbcf333871c901686da7e7ccb675ce876,https://physionet.org/files/ltafdb/1.0.0/104.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,104.qrs,168048,530cd4594e01816465ea38ed9f011a067ad189683dbe8571bb43991c744685fe,https://physionet.org/files/ltafdb/1.0.0/104.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,105.atr,146956,0b0d178a73aa9749c7604d0b7012f011669c8c88c81df64a9e6ef6e083a2340c,https://physionet.org/files/ltafdb/1.0.0/105.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,105.hea,123,7a0dc303cd2521a4fb9f3a2feac6fdecf3b00671b834a41b8b797e67e3c59f1e,https://physionet.org/files/ltafdb/1.0.0/105.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,105.qrs,132686,0329a74feec35e31842e8876414ef810100a9d46c3eaa1173d410de50eda582c,https://physionet.org/files/ltafdb/1.0.0/105.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,11.atr,205250,88247821794d1453edc8150a1f118f0c4086c53c9a2503f58d26b821664a7151,https://physionet.org/files/ltafdb/1.0.0/11.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,11.hea,119,3e98bbafa656a558234aca205fc230a55cdf76b15dc6bdeb1538aa87eeebbd43,https://physionet.org/files/ltafdb/1.0.0/11.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,11.qrs,204964,bc06423e5516e704f72b73407e9cffacb4d6bd70b93df3e6898329330166130d,https://physionet.org/files/ltafdb/1.0.0/11.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,110.atr,211822,91411dbedd9d877e5c26b34fd4f36f9813c7ea0512fc29a3728bbf9308c8e66e,https://physionet.org/files/ltafdb/1.0.0/110.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,110.hea,125,02507b1f40f70d8cf82b6671d9ae809a8d07a61850dc1f3a48eb705aba8cc079,https://physionet.org/files/ltafdb/1.0.0/110.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,110.qrs,143824,64f351d0800714a837026c7e68a0fc1056c8e9c2d11bff69054b67621f8fd6ab,https://physionet.org/files/ltafdb/1.0.0/110.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,111.atr,205942,3ea7122a6e2b66cb24a2f82591eaf9e29bac9779be6fd335f5178598dbbeaa85,https://physionet.org/files/ltafdb/1.0.0/111.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,111.hea,124,d814307fc741d7327f714644852cf0a2f639bca711469823bdca7bc1e752a7a7,https://physionet.org/files/ltafdb/1.0.0/111.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,111.qrs,198714,1f7ec6797e46818b88e922bbe2e78184265195a9b4e0391b47758c740c70231a,https://physionet.org/files/ltafdb/1.0.0/111.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,112.atr,249326,e70d1698be89ae99eb20fc2ff33e9b7e6db82f3d87657c497e67dd00542c6192,https://physionet.org/files/ltafdb/1.0.0/112.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,112.hea,125,f3591b958857682a16e405156688b2de46b75b57aa8d0a5759b3d03da2d18b44,https://physionet.org/files/ltafdb/1.0.0/112.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,112.qrs,50718,4e9d48f0e487752069aafd75f0cfa6bba3581c765eee30cfa3d1648af290509a,https://physionet.org/files/ltafdb/1.0.0/112.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,113.atr,225854,7af01562e68764b71d1da099f2ad84421bb074d779029e7d63c8ad7b7f82a806,https://physionet.org/files/ltafdb/1.0.0/113.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,113.hea,125,b7b187cb79106a86c15e30e3d86da340901c65dcd6737d390e947d5aa258219f,https://physionet.org/files/ltafdb/1.0.0/113.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,113.qrs,225250,0321ea2ad4fde35348182556d7ae30a8d2318a05c0298adec7e038c1d41ad2fc,https://physionet.org/files/ltafdb/1.0.0/113.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,114.atr,226610,d66b5e814bae5e55c6c9b098f5c23132e407c6c24aec64af94da1cb7ee50bf26,https://physionet.org/files/ltafdb/1.0.0/114.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,114.hea,123,4e9ed7ad0d8156e7b0053ffaf756d30d40f86bb9c0d37a0f183931885a8f8be1,https://physionet.org/files/ltafdb/1.0.0/114.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,114.qrs,222784,51fa595c59cf0840c1ed106bc38642ee0990f4b84f463408618d27dbd01d5b79,https://physionet.org/files/ltafdb/1.0.0/114.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,115.atr,221536,bd4a84c22e2cf615f5be975e682348713b521b389e7b7e66765657e310f7afe0,https://physionet.org/files/ltafdb/1.0.0/115.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,115.hea,121,9a81898bc782defdef64812627a12e2b7089b6863cae4c64f2efc8efeb40d1aa,https://physionet.org/files/ltafdb/1.0.0/115.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,115.qrs,218026,1ef853a6d4e6b8eea976c484d2c65546bdd12ca5e1c55715cbc086a2291d3d9a,https://physionet.org/files/ltafdb/1.0.0/115.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,116.atr,235492,6dbe1ec438f5238af3bcb5455cd4e5bac5f56b1514583845af02d60e674372d7,https://physionet.org/files/ltafdb/1.0.0/116.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,116.hea,124,197218a78626132ea53dd9248b738aed8545c6ef6e3d007d58551a145ec758b9,https://physionet.org/files/ltafdb/1.0.0/116.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,116.qrs,223942,6e559b3dede580ea6217c5270c3ccf28198de5968e3098a4f305dbb1b0605b18,https://physionet.org/files/ltafdb/1.0.0/116.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,117.atr,200300,21741067b3dbed9175f402ed3a21105fdcd6f2073e5358a63b9f13135a135e93,https://physionet.org/files/ltafdb/1.0.0/117.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,117.hea,125,a7d1a5c59461e4c5aca1bdddef3cca74886c9e392827488f16b2fb55ae5ecd36,https://physionet.org/files/ltafdb/1.0.0/117.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,117.qrs,200144,7271c073b800731227890a390ba72f280e4686eb4bf3ee3a25540f814d087c35,https://physionet.org/files/ltafdb/1.0.0/117.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,118.atr,250496,66a03206548edd641fc50ecf9b2cd85e1e995a00db2c98c7ba9d9acc98ee88c7,https://physionet.org/files/ltafdb/1.0.0/118.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,118.hea,125,52d2f1d303e4b153ecf1963077005ee7debb39ece01d777667f90edd27124431,https://physionet.org/files/ltafdb/1.0.0/118.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,118.qrs,225244,056b02aa11223fa64f7a407a0f498067f13d3595bbe2928eaf46f8dc78822ea2,https://physionet.org/files/ltafdb/1.0.0/118.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,119.atr,203128,b7e1450300bf0d4136d4c35725939b18f05b78522b569e6397dcb6383aa70cb6,https://physionet.org/files/ltafdb/1.0.0/119.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,119.hea,123,d0b80679c8ebeb530a4e6cf31c5e961353f0a828331e22afb25e0c0729115d07,https://physionet.org/files/ltafdb/1.0.0/119.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,119.qrs,183268,d55e5f2f1a4ffb13b861e8942ffebf1c09b32af07153ec225de5cc9dae0169de,https://physionet.org/files/ltafdb/1.0.0/119.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,12.atr,234318,67a9c0b99aba201506777c8efb9570cbc8f13f921c0971e762ea1eb03fc1aba0,https://physionet.org/files/ltafdb/1.0.0/12.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,12.hea,122,b284601d174229241cc4b55925cd0a464834869fc752b3ddc7a77f589dce350e,https://physionet.org/files/ltafdb/1.0.0/12.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,12.qrs,234304,ff63a8dfa49b211de2e73b461a21cc6a1a061ad73e32ebec72998c0b67cef082,https://physionet.org/files/ltafdb/1.0.0/12.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,120.atr,221754,4d8e01704cb7ccf92bc3c28e07b5494dbca0c31356c425b5cde392ac4fba5baf,https://physionet.org/files/ltafdb/1.0.0/120.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,120.hea,123,236b9976f289bfdfd26d762eec8002b37322bc77252b9af74cf6c58459bcd5b8,https://physionet.org/files/ltafdb/1.0.0/120.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,120.qrs,221196,faf99da802eaeca1150fceeca509aa367ccdcfc5314da3f4142f4393201a4e91,https://physionet.org/files/ltafdb/1.0.0/120.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,121.atr,176184,cedfddb0fb0ee8cda3f2a078afdcfacfdafb792f018b5e54d33624786d60e145,https://physionet.org/files/ltafdb/1.0.0/121.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,121.hea,123,4729bdd64bf912c4b16154b973c1cf83171ebfdf6eabca7a5ca87a17102a4bc1,https://physionet.org/files/ltafdb/1.0.0/121.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,121.qrs,147562,66c66901fb7e6c3f489f9e7bd1dfbd555f617b25850c2f6db326cc76ea477813,https://physionet.org/files/ltafdb/1.0.0/121.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,122.atr,191614,9ff307d63f6679dc6110c3949bf43dbc942325fb660a2e02b86a507c75d21aef,https://physionet.org/files/ltafdb/1.0.0/122.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,122.hea,124,2b952f2199b84ff0cfeb8a3877908ff7d69ae2d0fe74fd32c96753be442cfc76,https://physionet.org/files/ltafdb/1.0.0/122.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,122.qrs,107882,118bfe4d6c908cedb790ac4c696e34621933cb93a9acdc9c92e02f17d64332ed,https://physionet.org/files/ltafdb/1.0.0/122.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,13.atr,141860,34ecf354d784c229dc31a178eef4b0360767b14ee39fd66cc091d5caa2889bcd,https://physionet.org/files/ltafdb/1.0.0/13.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,13.hea,121,7bd5bd5901ce1dda5a964591dff71cada81f749aa64c9141eab9c5236aa76ce2,https://physionet.org/files/ltafdb/1.0.0/13.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,13.qrs,137940,e8b2f6602864720619a8d8312faa40d61a38a404ba85f053ba1541721f49eb1d,https://physionet.org/files/ltafdb/1.0.0/13.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,15.atr,187620,4ea48e17859880231f15a7bfdee03d90c50adf0083e031885ee8ac10ebf0df85,https://physionet.org/files/ltafdb/1.0.0/15.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,15.hea,122,4dd356b4ed0249daf3b085169f267055c0f43e5ce7d53b04d0d0717c7cb66002,https://physionet.org/files/ltafdb/1.0.0/15.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,15.qrs,170760,51b46868d62fdc0abf89a3d82a707fc4497c972830a8a316f5da06031e8838ed,https://physionet.org/files/ltafdb/1.0.0/15.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,16.atr,249856,1b63fbbf99be7dad600103fc035b637d4b2aab8301748d58431b7e3af77a4bf0,https://physionet.org/files/ltafdb/1.0.0/16.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,16.hea,123,1c5ce64ffc55781735bd7930df039ae46ec8c0f3614a843aeab6ebff2114d28c,https://physionet.org/files/ltafdb/1.0.0/16.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,16.qrs,247802,2d9e33835c4f6c427d8716f4a91ed9983ed9da9c8f13615467d8465e351aeb10,https://physionet.org/files/ltafdb/1.0.0/16.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,17.atr,276150,48b787e922d27160ddea00fb517703a49db98e0b1003bb8c11ec4c2993265366,https://physionet.org/files/ltafdb/1.0.0/17.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,17.hea,122,91f942f6651a28f3bf30277f5c8fba9287ebc8706a35bc9f45f43f92e4fbd405,https://physionet.org/files/ltafdb/1.0.0/17.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,17.qrs,277192,b2a75ea304629ab16f855f47d7adea626cccc8bda7f59944d53d67e78f2a09bf,https://physionet.org/files/ltafdb/1.0.0/17.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,18.atr,283056,40660099d39f4d53bc65caa4591ded79e153d3fe353b02ce07cea6ea86725378,https://physionet.org/files/ltafdb/1.0.0/18.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,18.hea,124,8e4e7700b1f52a58789af34cbb3f7c32c87eed72a444a4d37ef27d6414b46bbf,https://physionet.org/files/ltafdb/1.0.0/18.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,18.qrs,283388,05f3f6caf8600a045213d50a2b644f74917a67580aedeed03f029a2c565bdb04,https://physionet.org/files/ltafdb/1.0.0/18.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,19.atr,217032,ef8740bc30a34e8c37b5b5f18711a5ac58c36f4e7f9d7953d2d6944c33abe33f,https://physionet.org/files/ltafdb/1.0.0/19.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,19.hea,121,11ec39c1ec7fd35e045d7e10473142681bef5a519344c3aba2860bd5df2ec927,https://physionet.org/files/ltafdb/1.0.0/19.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,19.qrs,215580,c3e0fb5b496eefed2293996613cd0a17712ba5a485943b00d540890d0ae7fcdf,https://physionet.org/files/ltafdb/1.0.0/19.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,20.atr,216040,bf6f2a7d714b2379b720e4f73090edd917dd4602f4c84cc6873866b2a416d7f9,https://physionet.org/files/ltafdb/1.0.0/20.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,20.hea,113,24af9b8362e60f51957dd8116cc7bd0fa8e3a11435af5115d918eb904f6bbfea,https://physionet.org/files/ltafdb/1.0.0/20.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,20.qrs,216214,1617f4d41a936cc7de6aa99b8d68cf079fba5eb189571d38f4e66df31f52ac95,https://physionet.org/files/ltafdb/1.0.0/20.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,200.atr,165564,cb2f96d439560645710757d4e49077240944940f03074546a75146df44eedf3f,https://physionet.org/files/ltafdb/1.0.0/200.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,200.hea,125,84c3c5770775131476bdad231e2012f1a9135f520ef36624fc7d6d806916785e,https://physionet.org/files/ltafdb/1.0.0/200.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,200.qrs,165056,2e1cee8bdd84983d00529bb45dc605c1c9d032a9dae1663d341cb0e4a7640da0,https://physionet.org/files/ltafdb/1.0.0/200.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,201.atr,183586,d11c471523cd2d4ff36948d60cde1d16526a58b7131892c08ee6872d933d17fa,https://physionet.org/files/ltafdb/1.0.0/201.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,201.hea,124,7f6783d54cbdfbead480388b7f50c5cb8a442f81d112b77da538b5276c0b85bc,https://physionet.org/files/ltafdb/1.0.0/201.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,201.qrs,167772,bea36ecd8bd3d414984409113c604e04a86b4a15064c08a17bc3caeec4c9a5b5,https://physionet.org/files/ltafdb/1.0.0/201.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,202.atr,291278,a84e12398cb51eed94b2baa2c36749a131d89edc55dd1f135b5966b352a1eb91,https://physionet.org/files/ltafdb/1.0.0/202.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,202.hea,123,842bbde2767a8e990e631ca764e639312af30784ee253c83d29bb21dbc7e45be,https://physionet.org/files/ltafdb/1.0.0/202.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,202.qrs,290634,46aa8ba39cb848a00123fc4c491de09f0fd2cd128b365b37e6512f077d654ac6,https://physionet.org/files/ltafdb/1.0.0/202.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,203.atr,147800,fdcb20c39dc1ad7a100cd71800903f6d4483a80c0bbfddbe28f6ce2be725a038,https://physionet.org/files/ltafdb/1.0.0/203.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,203.hea,123,6e92940dfea69c6d776ce84eb0c5a8a9d430e7ee955e9345e551b9edc497df82,https://physionet.org/files/ltafdb/1.0.0/203.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,203.qrs,147610,96dddb7b596dde13c4bc9c98acc4fba164b2c9b3165d448489ad77e9bf228810,https://physionet.org/files/ltafdb/1.0.0/203.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,204.atr,278266,26c372db9fd396f89d3e73afa56253db79075a5027988aac21c15637432fc2de,https://physionet.org/files/ltafdb/1.0.0/204.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,204.hea,125,d5d24e241298094593fcdded021d54fffab65f53c74d29cf6e9259f230bb1d53,https://physionet.org/files/ltafdb/1.0.0/204.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,204.qrs,271778,e19373667933cc2bfa3c6f4ff2eb7feb0a0e25b207661fe205613bfe83cb2c26,https://physionet.org/files/ltafdb/1.0.0/204.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,205.atr,233032,df74fbbf75be72050685e34d2da29f240560539040a7695e0a4760cd58b2f884,https://physionet.org/files/ltafdb/1.0.0/205.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,205.hea,125,2be920f8bcb0b2cfbb4b3132a4aca0d6ae7f6340b09a8dfff2aea3eadadb0790,https://physionet.org/files/ltafdb/1.0.0/205.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,205.qrs,233024,c6179ee3474fe2ed8d5f3975cc59320127a21f4b2fec5e54003fef0f45b8c21e,https://physionet.org/files/ltafdb/1.0.0/205.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,206.atr,242950,09f489b7c7122d3a9b863c692988703debd8bff90fcca9bea2ea65759e31e8a2,https://physionet.org/files/ltafdb/1.0.0/206.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,206.hea,123,8190b662b8c0259dc4fd22b353cec5f2f9a33b3aff681cf3472f8333393dca87,https://physionet.org/files/ltafdb/1.0.0/206.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,206.qrs,222838,b6ecbb6851715c94687b150a0b3c30011d5a54320ac852aab5436b59da01767c,https://physionet.org/files/ltafdb/1.0.0/206.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,207.atr,262854,900416492670380c15073fcf9a559509f52f94eb3f5f28cafb661c54e4621adf,https://physionet.org/files/ltafdb/1.0.0/207.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,207.hea,124,b3ba07f4c0fcaa39a56b26a21784de32e8f46a32a9140c0ceabc80da65fa950c,https://physionet.org/files/ltafdb/1.0.0/207.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,207.qrs,259524,5ef2b81d3199e3ca7e892e1c554802762bebce4eed8730fcb26d87d0e1d8d836,https://physionet.org/files/ltafdb/1.0.0/207.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,208.atr,241572,14c228386aefa45bb9b0325982e611132c1637ff6860192b3c096c48bd67ee8e,https://physionet.org/files/ltafdb/1.0.0/208.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,208.hea,125,db6a6a7b4c841a063d57249b669e44d5027f3452dd080c2f1a9708a57dc44049,https://physionet.org/files/ltafdb/1.0.0/208.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,208.qrs,116976,873991cb45de60e496b8602635ae2bef61ae17a13631f9da42e79cd216c137b0,https://physionet.org/files/ltafdb/1.0.0/208.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,21.atr,167832,ceead46f5531e941e55a91f1f6ab35977015b5cd7509e2f4c9b3d733eebe7c38,https://physionet.org/files/ltafdb/1.0.0/21.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,21.hea,120,9eef27ae599aff689bc0928e33d3d6c5ea1dd1834deaf048c58bf9edf7d4acfa,https://physionet.org/files/ltafdb/1.0.0/21.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,21.qrs,171196,942a49b012a454ade4e627f8de89d8eb5c6d370dbf16866b2b3b20578c7b01b0,https://physionet.org/files/ltafdb/1.0.0/21.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,22.atr,271602,a6c0185ca9643b98c614d014ca883bc060dc39a0515b642e042c440aab0316b2,https://physionet.org/files/ltafdb/1.0.0/22.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,22.hea,121,708ca5559e4d61c3a4fbf8c939ccc5beb450f2c0b7b00560f022da279f4ae233,https://physionet.org/files/ltafdb/1.0.0/22.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,22.qrs,260724,fa277afac23f649f76d281ddf11bba36d60f9f9ee8eb5f7f938498e1db76735b,https://physionet.org/files/ltafdb/1.0.0/22.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,23.atr,217982,d4075baad01666ea7f15130349a6fd6c6561751df56aacf8f89953e287b88986,https://physionet.org/files/ltafdb/1.0.0/23.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,23.hea,124,5183bcdbb7335ec61e5d87dbc2ea8c54f414c8e8407d11c0014760d0ccdcd5ef,https://physionet.org/files/ltafdb/1.0.0/23.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,23.qrs,199664,f7411209138108512f32b04127c7614fd311974bd2d21ba285139ef2b5c443a2,https://physionet.org/files/ltafdb/1.0.0/23.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,24.atr,202874,3dd5e07b942a5f4d558497edd65d75ef4ef543a341279c1688d6b38df5bdc4cb,https://physionet.org/files/ltafdb/1.0.0/24.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,24.hea,122,a7f29585706928ac35daf993bc55edd066ee257b6a30ef245e9d299a561eb0a0,https://physionet.org/files/ltafdb/1.0.0/24.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,24.qrs,180430,d68b71a9add4a89a5cc2255438b1066705931e44ac1dff8413e324e32705a8d6,https://physionet.org/files/ltafdb/1.0.0/24.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,25.atr,226170,3937604ebd2e452b99e7516a27a5bfe75005134896feecdbe665443063d83f67,https://physionet.org/files/ltafdb/1.0.0/25.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,25.hea,119,1939c3518a54297c202223a1368009f56c3e81559218a17dbe5bdccac6517de1,https://physionet.org/files/ltafdb/1.0.0/25.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,25.qrs,220144,e858df51d78970eb437334bb5165e8d017c1d53a3d21006da5c4570b081994bf,https://physionet.org/files/ltafdb/1.0.0/25.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,26.atr,141974,61dee88773fd3ca9305b6fc6d15d87f801cd725be2cff29e68d9e48a3227ebae,https://physionet.org/files/ltafdb/1.0.0/26.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,26.hea,121,4d4f2a4c5f14458d95e205050df74afb316a5b70ebceceb1705f79742a31588a,https://physionet.org/files/ltafdb/1.0.0/26.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,26.qrs,137986,2e5e0103f347097050bf22e06865478d50637aaa08759ba87a4efb7a9e55c640,https://physionet.org/files/ltafdb/1.0.0/26.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,28.atr,200476,b0387f128b146cca9edf706877e44ce753eb907b826bb7cb70c595c9b65826c5,https://physionet.org/files/ltafdb/1.0.0/28.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,28.hea,120,d202efe2179a94736802fe4e19659b244a0bdbd61844714b58ce1ab45460e176,https://physionet.org/files/ltafdb/1.0.0/28.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,28.qrs,198144,b0973adb5e50b5e3e1648c25ade625cf19be5f52bf9b58f48cbc90cba81b6ba7,https://physionet.org/files/ltafdb/1.0.0/28.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,30.atr,62560,3868fc9562d968365cd65f3c8603afba8806e8f5973c1ff75423c4dbbfc620da,https://physionet.org/files/ltafdb/1.0.0/30.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,30.hea,121,384635383f3b7c3914b6a2ce24dae8b65c5d1bc90a380293c36c691657a9145a,https://physionet.org/files/ltafdb/1.0.0/30.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,30.qrs,64448,f71d8203c44e1a542b9fa8b349787787016f1407444f6ecb44660a52182f9da6,https://physionet.org/files/ltafdb/1.0.0/30.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,32.atr,186964,332fccde63a88b8dd62d948444a229679dbfffaa996c4ab375fbbe03e32456c1,https://physionet.org/files/ltafdb/1.0.0/32.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,32.hea,122,4087cf0ba2eeed801091a218ccb2915289ab4d374dbd3a2c656b69a9738eca4b,https://physionet.org/files/ltafdb/1.0.0/32.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,32.qrs,179520,4ffdee0ed13d0b4bff837dcd3f11aa0cf0c57e1627f57730085524136ed28644,https://physionet.org/files/ltafdb/1.0.0/32.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,33.atr,244290,6e9c1efc472d04d177efd05fd76a625b60611e0434a8794b6dbe6a5bd8877568,https://physionet.org/files/ltafdb/1.0.0/33.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,33.hea,120,0209681fa947908d1c53ee2cea5e9f7c2b8282f0026fc3cbc22c7625bc96ecba,https://physionet.org/files/ltafdb/1.0.0/33.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,33.qrs,242344,ee48d36003502a9075c55f60126dc1b9d2a2872b6780a0e196c3e0944a696e78,https://physionet.org/files/ltafdb/1.0.0/33.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,34.atr,270434,da67c40dc2edafbabf33ce643cf8c5084663ddeff8b37d393596100b83e4376a,https://physionet.org/files/ltafdb/1.0.0/34.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,34.hea,120,4ab5f328030508134f5127bc521bb9f1e36589b93efd2f3fb1d04f5216672f68,https://physionet.org/files/ltafdb/1.0.0/34.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,34.qrs,270664,807b87feb1b56b5c2b41e26e9933ed70eb65c7554eac5c91692381d18a7b487c,https://physionet.org/files/ltafdb/1.0.0/34.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,35.atr,179928,69e7265b79630d46e06e6c672c61a9d93290ccdd2f101d125252459379d8d606,https://physionet.org/files/ltafdb/1.0.0/35.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,35.hea,121,075135c543322cdcfd359fc521c8e5d377e33ec6648e059fcc88363feba60c43,https://physionet.org/files/ltafdb/1.0.0/35.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,35.qrs,178030,d5fcf112340bc1ec726e717d9aa8df9e09f13f94c58d103e60cf9ed60a5b4c9f,https://physionet.org/files/ltafdb/1.0.0/35.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,37.atr,149988,314f3e88efec241d5fc35e332862e7862e3e946d5ad73dd532eb2b21e9f9583e,https://physionet.org/files/ltafdb/1.0.0/37.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,37.hea,120,f0599d1e4e94255a74e9b88d696683298bdaabfedaab37a44c0cacfaa92ef5a9,https://physionet.org/files/ltafdb/1.0.0/37.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,37.qrs,129088,14cf8b7a6f84bbaf1da88e4b9ee4cf6320f135d366589e79d1d2e3e10cea49d5,https://physionet.org/files/ltafdb/1.0.0/37.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,38.atr,180020,84baf8ac1692f8cfe30889ec9f4ca964d97a491d3465c1b9e7519cc5d4c515a5,https://physionet.org/files/ltafdb/1.0.0/38.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,38.hea,120,d398b38ba4e2b8c4e1abeee4867e4dc084e489e7e2c6fe072f3f81fd3cc2e7e4,https://physionet.org/files/ltafdb/1.0.0/38.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,38.qrs,162718,58a1328dcbc07e5586f63c229cdf3b8ee632fa54b9df6bddb1f076d21b5e0839,https://physionet.org/files/ltafdb/1.0.0/38.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,39.atr,230514,263fce8fd2f5c03c220b6109c0ae10c53e19fd28251908cecf2f03996c54d271,https://physionet.org/files/ltafdb/1.0.0/39.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,39.hea,121,7320d850e177cbf3d264c1ca7afef918e2abf51bac052c9490c4d18f57075ba9,https://physionet.org/files/ltafdb/1.0.0/39.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,39.qrs,227896,707163e18681bddea48b6031e4c6584f6ccbbe20f9b0c3d7068825d7ddfaa6e1,https://physionet.org/files/ltafdb/1.0.0/39.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,42.atr,230624,853f1a5820a91728b225025da800840df2f823414c533040bc40dae9c5748a19,https://physionet.org/files/ltafdb/1.0.0/42.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,42.hea,118,a4741b7fa82ba483668434d1db17ad369614f98cefb29eaa46d969563141275f,https://physionet.org/files/ltafdb/1.0.0/42.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,42.qrs,230444,6bffeceea8d45eb2587404be223d3a0fdab145a1a6e4cf57f086014091bc939a,https://physionet.org/files/ltafdb/1.0.0/42.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,43.atr,214126,f3d20049625735258a264db119222b5734bc0fe15bd8ed5762c5aff9a12a9e4c,https://physionet.org/files/ltafdb/1.0.0/43.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,43.hea,119,c02155ae3b9cb667e0c060d75d3e693016fde7ad2339af924dbe901cafdcbb98,https://physionet.org/files/ltafdb/1.0.0/43.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,43.qrs,214622,d3b6a2515f5361f39666cdfe0f9483e6b599977427ce43d9774411098e714a07,https://physionet.org/files/ltafdb/1.0.0/43.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,44.atr,295026,0f3e7390b8a5da2e58cd6cabf4cd8cc579ae1ebf1b48987860420a2a11874158,https://physionet.org/files/ltafdb/1.0.0/44.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,44.hea,119,42330f6cfc33ef22cdd11f9c10fa1def8c7ded3f3c6324dca7aebdd91f32c042,https://physionet.org/files/ltafdb/1.0.0/44.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,44.qrs,293688,0b6a8c49f9108381a4a9ee09a0dfb40ea2692cec1a30571fed793c9257be29cd,https://physionet.org/files/ltafdb/1.0.0/44.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,45.atr,195296,ecad0f41bb672dc3dfab94792b0b24547655b717fe011366c202eb84f8b5e158,https://physionet.org/files/ltafdb/1.0.0/45.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,45.hea,124,c74f03c629bfd3844ba17e6d5c1ac7e61d160e5356f2f569f2e74a01d931f6a5,https://physionet.org/files/ltafdb/1.0.0/45.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,45.qrs,142672,54e46e8a60c549ee58ca4ecb32d22b6df198bc3fff7c9d04241dc00f7588065a,https://physionet.org/files/ltafdb/1.0.0/45.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,47.atr,190842,eba818c57293a450ee6c54149e3961a0fdf38db75296fc1d2f52431cfd344224,https://physionet.org/files/ltafdb/1.0.0/47.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,47.hea,124,c4b4e1a3f5771bdea49975ee2de750196aebcdcce999a937a66fa04cdb5c7371,https://physionet.org/files/ltafdb/1.0.0/47.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,47.qrs,178116,e8c915c09a7f7c8afdd358eedf76159733d9990176d3a6635b17bb7cfcf2aef6,https://physionet.org/files/ltafdb/1.0.0/47.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,48.atr,293770,a5c211ef506757a8179e8dcb2ec2e2e88db6f5a3cdc7b1f33f3beb688ea229fa,https://physionet.org/files/ltafdb/1.0.0/48.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,48.hea,124,2d474a96d614e14701def99ea7539214c38bf2e885d4f283ce4cb84a8c77ffa7,https://physionet.org/files/ltafdb/1.0.0/48.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,48.qrs,293404,dfafc53d790dde6f5024ff2163c83a9a9a7427b92bbcbedf2f12c6c0ab26463c,https://physionet.org/files/ltafdb/1.0.0/48.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,49.atr,161006,ac64d9d455dcce7c8993f9133be9cb1b42ff33c3c9aa9ec2474c6476e6b13c77,https://physionet.org/files/ltafdb/1.0.0/49.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,49.hea,121,9b23b385b0b409fc6fde790c762f54de2a8a66ba2ebfcb1dda34d651676a96dc,https://physionet.org/files/ltafdb/1.0.0/49.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,49.qrs,160366,07d78116baeb0497a72e9f07212b976f8f425645652200818e301a695ee2aa70,https://physionet.org/files/ltafdb/1.0.0/49.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,51.atr,195216,37b8d60633c2058241081914944dc76dbeea895c5f230bee350aa757337b4d0e,https://physionet.org/files/ltafdb/1.0.0/51.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,51.hea,121,265fe6b9dfa80b8c333785965da073fbe65224b05384f032c4735016580e1c39,https://physionet.org/files/ltafdb/1.0.0/51.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,51.qrs,188622,3eba5b16ba1c8d1e72d668b2b04af062d55d3530acd72b5e9fb1560482d2d333,https://physionet.org/files/ltafdb/1.0.0/51.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,53.atr,113384,2a3044001cc617d98923ebfe1fab7ac96cdc8df70efbfeae376d5c226545d8d3,https://physionet.org/files/ltafdb/1.0.0/53.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,53.hea,119,5cd7a1e08ea9ded8483fd435ca58b23411ff2b13d97d0148815d98949b30af35,https://physionet.org/files/ltafdb/1.0.0/53.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,53.qrs,98646,f2cacdd67e7339d9f86b670dabbf2e890883bb5dbec5cc54dc3d736e13e134f7,https://physionet.org/files/ltafdb/1.0.0/53.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,54.atr,236428,9d0b8d59c75379c305d31c7ca613a51da2cce5801569961b29238b70d487e2b1,https://physionet.org/files/ltafdb/1.0.0/54.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,54.hea,118,45c699a740a4fdb747e8001e513104fc9497db8ae488fd619788a6eb76fa5daa,https://physionet.org/files/ltafdb/1.0.0/54.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,54.qrs,238510,bf8a988826541f342834a61aa70184e2aa8951ed3746accb31ad89adae3aef5e,https://physionet.org/files/ltafdb/1.0.0/54.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,55.atr,214096,b32be960f0244aef959a79c153158cfff61090293bdf2e42079125659a2ace5b,https://physionet.org/files/ltafdb/1.0.0/55.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,55.hea,122,e77a529e02d191d9c37740ae8d4c7e1c9ad14e4fbe97f3c64dc28f13b0d2f7ae,https://physionet.org/files/ltafdb/1.0.0/55.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,55.qrs,214160,b2ffd292da5d594ff6da7f2bbc86a625e990f5aabdc25fa70b5c89f0409e7a7b,https://physionet.org/files/ltafdb/1.0.0/55.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,56.atr,264326,045f3d2748bfc0af9721ae4de91d0192ef570cf12e97e1334ac782b0fb6c104e,https://physionet.org/files/ltafdb/1.0.0/56.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,56.hea,124,f4c2649e4dc5b2f3961400125596f1d26e659adc75256b639a307b97d6ffd6e0,https://physionet.org/files/ltafdb/1.0.0/56.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,56.qrs,217198,1d1085eb8c3ed0242f56213759430ad73dc304eda9109a37d7dfa621b6df8653,https://physionet.org/files/ltafdb/1.0.0/56.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,58.atr,229880,bf458a23391abf4617d4dff9e2f3baf43f77c27335475ae1efe26c2a2cb31bd3,https://physionet.org/files/ltafdb/1.0.0/58.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,58.hea,119,8fea3753fd2f5cf6a7e547e8a6ce75ecc3b417131d7c1944f3bd9cd2fe587c45,https://physionet.org/files/ltafdb/1.0.0/58.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,58.qrs,216468,6a5be8a6aa185d9e3143bd19fb2b7a23b11e1cf138b5bc0fc991d47cd2303728,https://physionet.org/files/ltafdb/1.0.0/58.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,60.atr,233680,c9849d2a2fb5c8f6f364fa4f6abfbf2826cd028bad5db5c7aff6c1596c7cb255,https://physionet.org/files/ltafdb/1.0.0/60.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,60.hea,123,55fb46f74fe8a09e41beb88138a51d727fd4b5700a09c4c071c087b92e8b3ecf,https://physionet.org/files/ltafdb/1.0.0/60.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,60.qrs,235704,ce648bce30eeaa964fdf08b6ffbf9c80198a9ee12e2f5ecc75a14f6f9f59177e,https://physionet.org/files/ltafdb/1.0.0/60.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,62.atr,248636,52d5bc35c19a45a9bfb4922832034bd75ca5b4c19ce61a69f57ed1bccf58a07b,https://physionet.org/files/ltafdb/1.0.0/62.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,62.hea,121,64467bd0d69ce102402b27e06e2ed565b8f7d8f2c79e1496f2cfee11b2de07b7,https://physionet.org/files/ltafdb/1.0.0/62.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,62.qrs,125984,2e12b980f26f5acaed559bc143034d53dd6a38e7c4d585e2e9ca7913a304c04a,https://physionet.org/files/ltafdb/1.0.0/62.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,64.atr,239590,c272292ebc7a5818b2e0205a13a1bb485fa9f31de1f384cece6ea8b3fec2eec8,https://physionet.org/files/ltafdb/1.0.0/64.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,64.hea,122,c97f560d3fef716f120902039b51f0928d875d636609236f3b5f5b3bf48a1cd5,https://physionet.org/files/ltafdb/1.0.0/64.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,64.qrs,239996,92724b09d1a86871bb4e301d239d9e09117f81f21158c06ce87f7825695f32e4,https://physionet.org/files/ltafdb/1.0.0/64.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,65.atr,192242,497bf49e7069583d29f4206dd763b7a02fa2452bc4c882bfe871dc1f05f76dd4,https://physionet.org/files/ltafdb/1.0.0/65.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,65.hea,122,b6feb07082637b389929f4893bca17e5d7fe8ef25823d98ea60aff6a6d6078ae,https://physionet.org/files/ltafdb/1.0.0/65.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,65.qrs,192214,ad9d57c8a37eb8e7478e0c3dc785527c519c3a991c42b900e860a2216f7224a0,https://physionet.org/files/ltafdb/1.0.0/65.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,68.atr,369716,d7c6a0ce73e981b35e2fc21984b4ce2f52b467a701c1b5bd950b23e1132310f5,https://physionet.org/files/ltafdb/1.0.0/68.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,68.hea,120,3f08ad6f480ee9a4bdaf7685a76d98e42874de7b55ac4ad516af907d2261686c,https://physionet.org/files/ltafdb/1.0.0/68.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,68.qrs,369848,b3a4ab46aa1c9538e42424cc373687d00f08317558763ac6902a1071038d0ff5,https://physionet.org/files/ltafdb/1.0.0/68.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,69.atr,283078,2c8363891d1851c3fd81176d787ddb017bbdc2b4c3dd45e66b648025f55f35da,https://physionet.org/files/ltafdb/1.0.0/69.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,69.hea,122,df70548082d552243874f8feee6896c2e6846a235a29e156f6f99b29481dde5c,https://physionet.org/files/ltafdb/1.0.0/69.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,69.qrs,285306,66466812450caa76ad8fa031c981fc345cff8083ce11bf50cae55b11d73d2fe9,https://physionet.org/files/ltafdb/1.0.0/69.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,70.atr,256702,5eb791cc8cbe117ff74bcc89aa708e7d138c50873f46e6930c80eaf32cc54bb4,https://physionet.org/files/ltafdb/1.0.0/70.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,70.hea,117,341f66dbe0beb50025a84fe45d901147ea260cdd2b42034c749732ef4c972ea5,https://physionet.org/files/ltafdb/1.0.0/70.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,70.qrs,259406,272d87a2a7fc5d1b35b5aab5dcaf41ea67c6448a0766489e8fb1ec4c9ecdd61e,https://physionet.org/files/ltafdb/1.0.0/70.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,71.atr,250434,a36cba3b5bf572575e8741c565163e3f54d3c1d5296cfd401778d7396be5ddeb,https://physionet.org/files/ltafdb/1.0.0/71.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,71.hea,122,6c65dab434768c0c6fb482b84424c6ea50bb46ba1a52bf40fd6c1193ab938434,https://physionet.org/files/ltafdb/1.0.0/71.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,71.qrs,252976,a91916eed521882eadc3a1c8e0ffd84bf254d8748e55f7cd581c0902aea8709a,https://physionet.org/files/ltafdb/1.0.0/71.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,72.atr,289868,0bb164b1be2f78c225554138f065a13905c6ef739a31857785095c4a63229881,https://physionet.org/files/ltafdb/1.0.0/72.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,72.hea,122,73587b8af3ad366e1ea35332df6e5e211e9cc15196d75f3ed62fb9a63734268a,https://physionet.org/files/ltafdb/1.0.0/72.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,72.qrs,288410,98de241a6268a177b0d73f858d06d85f9110a7a6b7d5f8d9c7b69e98f081320e,https://physionet.org/files/ltafdb/1.0.0/72.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,74.atr,212188,92fc1e5fcb43e34cdbf6393787a128b4bfd1f325c43e52a402b3cbf76e1491d5,https://physionet.org/files/ltafdb/1.0.0/74.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,74.hea,122,0a1075288d7715346200aeb3ce33c7c4fa816af5afb98562b2deec043811b46e,https://physionet.org/files/ltafdb/1.0.0/74.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,74.qrs,192316,624cb5ef77896d0b1a763410ff84848bbcc422d5426c149a84f12bc37e996b7e,https://physionet.org/files/ltafdb/1.0.0/74.qrs,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,75.atr,253574,7cac6a1021851c09d520880440813ec441586f56756f1a57c82ab2a03399ecef,https://physionet.org/files/ltafdb/1.0.0/75.atr,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,75.hea,120,46a6869f9d8e7039f8c36a9424122f000c43aaf224162b87db848c5e15270923,https://physionet.org/files/ltafdb/1.0.0/75.hea,ODC-By-1.0,2026-11-20
+ltafdb,Long Term AF Database,1.0.0,75.qrs,255598,a60d7c9808d45f21939ce8c2355a5605c073097427a76631d299a0ccd7dbae38,https://physionet.org/files/ltafdb/1.0.0/75.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a01.apn,3908,b7404271c576572ce8c99af1fe455cae2954dce1c18caf21a61a25bf1c00f803,https://physionet.org/files/apnea-ecg/1.0.0/a01.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a01.hea,55,3df82d6715ec61e9a3d1a8a514e11012a5c42ab4de6a441e37745c5d1067cee7,https://physionet.org/files/apnea-ecg/1.0.0/a01.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a01.qrs,59878,52e73fe9f8c6075a71c79c4bb9df385f5a4d8fb4afeb3ee180072cc9718ca7db,https://physionet.org/files/apnea-ecg/1.0.0/a01.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a02.apn,4220,4f2541a460552115815bc6281c9a4158e15ababdbf3dd8f98bc7252a4ab9bc10,https://physionet.org/files/apnea-ecg/1.0.0/a02.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a02.hea,55,e9e5e172566acc5eea921b45964357129671eda30b566b549b5f59bdb15f71ad,https://physionet.org/files/apnea-ecg/1.0.0/a02.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a02.qrs,70498,9ac3abf47c5a8f544fb3d596d6cea009093d03e5be7422e87ff1e932d887cc8f,https://physionet.org/files/apnea-ecg/1.0.0/a02.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a03.apn,4148,74a415ec32df680de4f23a741c70d56dffad72e39784ca88cfd1a834a556bc0b,https://physionet.org/files/apnea-ecg/1.0.0/a03.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a03.hea,57,e7abcdbe645fb0fa1bf68bf7a9ce6066921a5803994ab8592a2bd0d6b08fd929,https://physionet.org/files/apnea-ecg/1.0.0/a03.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a03.qrs,68520,7be1c2a31027fe40158f9498c16acf95a38b2f7e5ff5f4a1573401929c002307,https://physionet.org/files/apnea-ecg/1.0.0/a03.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a04.apn,3932,3c3dfc0443e041a391eee8027ebec371bc01b88d45f9c00dff897f4dba8ea1ba,https://physionet.org/files/apnea-ecg/1.0.0/a04.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a04.hea,57,1ce5fd413a939a375cad29335dbeafbf17cf9068ffa4355cbfae98c608c1cfa4,https://physionet.org/files/apnea-ecg/1.0.0/a04.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a04.qrs,62488,2efc17e716614c3325cc82507ce693c42fec7fbfe6435e78e41553341954d006,https://physionet.org/files/apnea-ecg/1.0.0/a04.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a05.apn,3628,cc58ec7d822b351405c0f82a9d7248c656d2ed8cd3d5831fa97710114c5a3d78,https://physionet.org/files/apnea-ecg/1.0.0/a05.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a05.hea,57,fbbd2a0639282da077658ef6d97b73a62a1c278742e7a949d28e085037800717,https://physionet.org/files/apnea-ecg/1.0.0/a05.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a05.qrs,57558,d7395ad0632a996506e95f072e850345cf4ad8a4c688757f78275540fd9ae85d,https://physionet.org/files/apnea-ecg/1.0.0/a05.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a06.apn,4076,7293c0ab71865cd5f7fb035746fcb2b5629d0eca8e17656ceae296fd7b2777ff,https://physionet.org/files/apnea-ecg/1.0.0/a06.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a06.hea,57,e98765eafc496fbc487f7f63a8a214251c0d9222320c260b2a089c95c55b4e87,https://physionet.org/files/apnea-ecg/1.0.0/a06.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a06.qrs,54578,11b47573e01a0911db5f479823aeec1c0b56d13402965ad4d35557610bec091e,https://physionet.org/files/apnea-ecg/1.0.0/a06.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a07.apn,4084,b072e25d8f6aec6ffd41cdd30d91a56766b8999e9e90e94bd1c709992feebac4,https://physionet.org/files/apnea-ecg/1.0.0/a07.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a07.hea,56,761be244c45c5aaa3d32172705aba2d41fcbec6ec95ce9a1a74ca05c2a13a0f2,https://physionet.org/files/apnea-ecg/1.0.0/a07.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a07.qrs,74958,64cdf8b4a36b584dfe25d7cf335e92c3351447dc49be13c3aac6c7a03e7b4d99,https://physionet.org/files/apnea-ecg/1.0.0/a07.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a08.apn,4004,d820abefb6e247e4d907ebb729cd42d57e10675fa4f14909a774e7fc9c9913c7,https://physionet.org/files/apnea-ecg/1.0.0/a08.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a08.hea,57,2aa2f111176253a170526bf2c5eb29bf3c93a2118a917203b7316c8bbaa9a523,https://physionet.org/files/apnea-ecg/1.0.0/a08.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a08.qrs,82292,321d6118d8d7e084eecb8f9a60e9dc72d3c3b870c06c7ce03e0057b33c1da2f1,https://physionet.org/files/apnea-ecg/1.0.0/a08.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a09.apn,3956,45d7882378680ef868145525e1764127fc75a47aa4fe6aa8ed12ef5922407e48,https://physionet.org/files/apnea-ecg/1.0.0/a09.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a09.hea,55,726464fa873b2cb545be2e3b1fba8d95e6ce6cf21cc7c862994c30a88cf18505,https://physionet.org/files/apnea-ecg/1.0.0/a09.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a09.qrs,63108,7ad51e9dd086177ff79d10c8b96e3c0a50a9f983812923dcb2ad71e805c86e26,https://physionet.org/files/apnea-ecg/1.0.0/a09.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a10.apn,4132,b1bb21936513472d0f3b7686373a99dd812c8db06d38a61d9c35164923c353d6,https://physionet.org/files/apnea-ecg/1.0.0/a10.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a10.hea,56,5849ee07602b9c08c6eff47d7ce70d56d88bde88f0814c8d745aba9094b377ee,https://physionet.org/files/apnea-ecg/1.0.0/a10.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a10.qrs,64612,30be6d10e6da7f0fe1f96d7f1f47b2247265259bf5e76c3c574e7d21b8c3bc1c,https://physionet.org/files/apnea-ecg/1.0.0/a10.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a11.apn,3724,7bbd22e8b4c969ce3e402f1a967d16587556653e61ee0e4a6ca1ce7efcea9e90,https://physionet.org/files/apnea-ecg/1.0.0/a11.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a11.hea,56,82e260412a6ed057b45d55e9094effdbfbcf23b8be94ecb0f253b73c1f11b5b4,https://physionet.org/files/apnea-ecg/1.0.0/a11.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a11.qrs,66392,702072321029168e7e8d3856615aa68a42b018ab6878d7488202f2783c20b0f2,https://physionet.org/files/apnea-ecg/1.0.0/a11.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a12.apn,4612,0ff6ea5b50b9fbd8ac9c27fbbeec66997eed8503d06a828bc36c45c9abaa1a40,https://physionet.org/files/apnea-ecg/1.0.0/a12.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a12.hea,56,4a8ba096cb6c640ce1e2cea2ca8e17387ed80c5ac6c53b7656ad335990fdd85c,https://physionet.org/files/apnea-ecg/1.0.0/a12.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a12.qrs,67882,e23ea2a04aa12bb9f355b9ca353ffc1b576f7e5414ad6474e20d0bf9be1e0fe8,https://physionet.org/files/apnea-ecg/1.0.0/a12.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a13.apn,3956,1e49f08df1dd745984508267ec6edb46c2dae2cd27f8d99d0c3914b2f8501eef,https://physionet.org/files/apnea-ecg/1.0.0/a13.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a13.hea,56,b8919e36935a11d0eaec8348494adc84ed496b34bd5bfed3db5ecc86682fd566,https://physionet.org/files/apnea-ecg/1.0.0/a13.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a13.qrs,79586,e937150d76c3829b4bb7fc74f711c004e814ae36afef314ff832dbfdc39ae4e4,https://physionet.org/files/apnea-ecg/1.0.0/a13.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a14.apn,4068,341ec102b563829650916f11e84a8150f113f1fabccc0de1459887283cc1b93a,https://physionet.org/files/apnea-ecg/1.0.0/a14.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a14.hea,56,e1acb7294a51d3bb386de099d91bc4d5c80b42d90c9e307856e0727f175d2555,https://physionet.org/files/apnea-ecg/1.0.0/a14.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a14.qrs,58038,35708d9026c8d46a6c65bed316388f489954845e6cbe56e3197acb30a4d3de23,https://physionet.org/files/apnea-ecg/1.0.0/a14.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a15.apn,4076,a232b61fd8bbc3f774a39644bb2ed108cf46b861443538b0f29f9595e3089d29,https://physionet.org/files/apnea-ecg/1.0.0/a15.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a15.hea,57,eed4e0f2f2bcd0d0cef3e1977d1fb265f47478b8611590242bb52eccecb399c0,https://physionet.org/files/apnea-ecg/1.0.0/a15.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a15.qrs,67976,de5da07952b045772dedc859ef3a650bc03b1f84ae4240267b44c3878bb81567,https://physionet.org/files/apnea-ecg/1.0.0/a15.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a16.apn,3852,87bb4980908458388abc7faa450960dc4452794e6531f1fe93665a1ceddbd61d,https://physionet.org/files/apnea-ecg/1.0.0/a16.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a16.hea,56,bac49254500c4efb9623627063ffe0cb5b8c859ccb09fa545c1898b116f9fdad,https://physionet.org/files/apnea-ecg/1.0.0/a16.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a16.qrs,69920,68b7c7851d51be72a88805fd29323de2cb1b4cdb84f0c15ee5bd7f08eef6bf66,https://physionet.org/files/apnea-ecg/1.0.0/a16.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a17.apn,3876,31bc45c847336561190d6cc6cc5d601ead931b9c4c3f90a088af3dd54b240286,https://physionet.org/files/apnea-ecg/1.0.0/a17.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a17.hea,56,e4b7f7cdab5c39cdd3fe38d9df7658897ac34edc27c5ff57997da68a84d60698,https://physionet.org/files/apnea-ecg/1.0.0/a17.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a17.qrs,73006,7ea8694223eb581f9390e5a3903dc98ca7f4e247d5a6561a200b9ae50e131718,https://physionet.org/files/apnea-ecg/1.0.0/a17.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a18.apn,3908,1365b34bdf4a8dd1dd6077a3b757a088c24f3dad36e93ab2c7cf71d6d67febd1,https://physionet.org/files/apnea-ecg/1.0.0/a18.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a18.hea,55,1b7e8ab0b71200f346cd8ca63ae599ae3da07e3bb584519b11e7e6bbc69374c0,https://physionet.org/files/apnea-ecg/1.0.0/a18.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a18.qrs,60510,b7b21c4a0b8b3ab21116e0f348f88963985284b51664f6dca9cbc162470dd2e9,https://physionet.org/files/apnea-ecg/1.0.0/a18.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a19.apn,4012,a1f450a472ea2f2eaf9bdca3dcd19339721e0f69f3d8df963969847d91635eaa,https://physionet.org/files/apnea-ecg/1.0.0/a19.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a19.hea,57,0433ba5f9b45d580fe8b2c617423bdd250bc227c51af50cd8773b3ab65aa17c7,https://physionet.org/files/apnea-ecg/1.0.0/a19.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a19.qrs,77554,4ddd265c2ad40ac9078bd8f44f7e48db04921bc163a9469b16bb2defed5e3fe1,https://physionet.org/files/apnea-ecg/1.0.0/a19.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a20.apn,4076,cca12f85d02f5d10bf360483838a429199c34d0b6a18551fce9b32ba4f77482c,https://physionet.org/files/apnea-ecg/1.0.0/a20.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a20.hea,55,06dec6fe0895ab86cd73dc8a4acf699eed95c025b29197bc74376807038cd9ae,https://physionet.org/files/apnea-ecg/1.0.0/a20.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,a20.qrs,68960,97e89745fe12eb421bd2eed36d3c7bd09dd230770645f55af64a81b888bce811,https://physionet.org/files/apnea-ecg/1.0.0/a20.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b01.apn,3892,f217a9702e885eff675cb9092530de06826c136463f80bf51c5099e47e5cd7d6,https://physionet.org/files/apnea-ecg/1.0.0/b01.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b01.hea,57,3a14c83f3a69326ac8ed4d1788bfe25ec7ab2e9f93392ebad05e3f4fc387da87,https://physionet.org/files/apnea-ecg/1.0.0/b01.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b01.qrs,70202,88428ea4d7bc7abeaebcc92632232103437ffe28e1abfead630f8fbc519369ce,https://physionet.org/files/apnea-ecg/1.0.0/b01.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b02.apn,4132,055087f6c8a17b9d0c100c111554f9e73edba79b8c4c9fd0539d90f48d51a881,https://physionet.org/files/apnea-ecg/1.0.0/b02.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b02.hea,56,3e2f72bae453d31c400d56d9898c040d3cfac2005b578d70f70c5c7ca18d9fe3,https://physionet.org/files/apnea-ecg/1.0.0/b02.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b02.qrs,70800,b3930ee15f2957dd9e37f4a4cbe11ba4326816b00ebb67e43d8094ffc07b4532,https://physionet.org/files/apnea-ecg/1.0.0/b02.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b03.apn,3524,4b536017d072a922d3bedd0e8622e7cbd1bdfd3040f46dc85fd3f1aff9b9a1e2,https://physionet.org/files/apnea-ecg/1.0.0/b03.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b03.hea,54,d02a4cc06bdd6fb9184c4d73b294d6ac967af3e3c2f4dc1f4eb6787c01cd4d0b,https://physionet.org/files/apnea-ecg/1.0.0/b03.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b03.qrs,58180,f92f66b14523de39cb4075bf432329da25a3f2d874db2cd204d2470a3dd7e23a,https://physionet.org/files/apnea-ecg/1.0.0/b03.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b04.apn,3428,d213441cbeef8f0685f6f7acc544b716c7149ae7214cdd76edf47977fb024529,https://physionet.org/files/apnea-ecg/1.0.0/b04.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b04.hea,55,0164b632326de05b6194fad94beb6bbda4a769262f7ffc177ef483014c770d8d,https://physionet.org/files/apnea-ecg/1.0.0/b04.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b04.qrs,50166,6c923254b31fd6a03ef7ed06c696b1575df12748f68274caf1ad13efaf46551c,https://physionet.org/files/apnea-ecg/1.0.0/b04.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b05.apn,3460,f2d6450dc91f67f3e2a6e144518a972b8e9a4339e2f397751498b4f8d46f63f7,https://physionet.org/files/apnea-ecg/1.0.0/b05.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b05.hea,56,b31450cc314b68a09a7c1da58890be98466b47538ed1313203586ecf61c9f92a,https://physionet.org/files/apnea-ecg/1.0.0/b05.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,b05.qrs,58716,b3f677bdafcb0f69c47cd384e4444ff9597a35a8ed5355932dddd27780b4dee5,https://physionet.org/files/apnea-ecg/1.0.0/b05.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c01.apn,3868,92fc5b054de48704d7608543aab7cc9220cb716027c82ce63488ac5cc3409bb5,https://physionet.org/files/apnea-ecg/1.0.0/c01.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c01.hea,56,995f3c16c102c6421d65c4ffdd23539f2e471cc1be671e459f2d28ab56374f91,https://physionet.org/files/apnea-ecg/1.0.0/c01.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c01.qrs,55756,b2f6684ff65b9878dc8e46a3a7651f07b66050bffe693e720bb84adce96d5b15,https://physionet.org/files/apnea-ecg/1.0.0/c01.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c02.apn,4012,53e0b39c105932192d7729e486b481f8e8d64729c3de4d84cc5a6e80fbc2e6d4,https://physionet.org/files/apnea-ecg/1.0.0/c02.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c02.hea,54,59fd5496a19dc0a4d832f67a696c310b63106a8c7357c2bf32a33d23af4cec7a,https://physionet.org/files/apnea-ecg/1.0.0/c02.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c02.qrs,64462,9ac633165082494e685c87332290d2b7a0a099301d9e8217fc0a9accdd59bd96,https://physionet.org/files/apnea-ecg/1.0.0/c02.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c03.apn,3628,c2e4fb5ed0dc412e1ba75bd77ef296168e0c33944eaf7103be2699eeeb11e1b5,https://physionet.org/files/apnea-ecg/1.0.0/c03.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c03.hea,54,ec50921ca7643d90553e0f92b70bf21d3be7d9340f95bf37d83e78320116e046,https://physionet.org/files/apnea-ecg/1.0.0/c03.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c03.qrs,47548,cb7ef33e831994f6450835c8121a005f9a071a8fa39fb1da0c80bc9ad0a97dce,https://physionet.org/files/apnea-ecg/1.0.0/c03.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c04.apn,3852,323b3981841f62f12e7dcb541c78eacb7c099bffa39d25880176ff0274981d7a,https://physionet.org/files/apnea-ecg/1.0.0/c04.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c04.hea,54,9934b29ed84da559704b5939a925c613ff77187cd58aef94c02470f3385141ed,https://physionet.org/files/apnea-ecg/1.0.0/c04.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c04.qrs,57056,0fdf5f6edcc3f24004e8021341ff2e729fc1abcb694b96ca5080274a641dd648,https://physionet.org/files/apnea-ecg/1.0.0/c04.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c05.apn,3724,11833a0f60cdf385363135c0092478175ffb60e70468df5bc5ae66ab774875ee,https://physionet.org/files/apnea-ecg/1.0.0/c05.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c05.hea,57,4e798d73ff0c3419325357643004292ed1d78c945c7f382242edd078005d54ce,https://physionet.org/files/apnea-ecg/1.0.0/c05.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c05.qrs,56132,9fd3b7e11331f1f0de5b3a719251e88794070f947b98bb49e8fa769f1d0a4ba1,https://physionet.org/files/apnea-ecg/1.0.0/c05.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c06.apn,3740,d90492bee77e4078bf76f8dbe1045396df2d98f758f6b846ae2c125df3d80e14,https://physionet.org/files/apnea-ecg/1.0.0/c06.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c06.hea,55,f105f93707672e32e45fd38047667dcb300474fd46c0318ac218c6be6fcf1c08,https://physionet.org/files/apnea-ecg/1.0.0/c06.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c06.qrs,56350,c663ce922009027303ca94adb30f3166720eb95f7ea0ecea1bdc8021bbd474d6,https://physionet.org/files/apnea-ecg/1.0.0/c06.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c07.apn,3428,8dca58700463882c8d5da8e472b2f0e15880866b8f5aea1042099e80c2ba19b8,https://physionet.org/files/apnea-ecg/1.0.0/c07.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c07.hea,56,35130c1f7a4cb745072f3fb54410c321038fb74aca777622843a6a5b9ccaca02,https://physionet.org/files/apnea-ecg/1.0.0/c07.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c07.qrs,63946,dc08fd623ea6347b94a72158179162460760ef8935ebdf026b91d70b9d6f9c96,https://physionet.org/files/apnea-ecg/1.0.0/c07.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c08.apn,4100,2f1305cee721abb11c6018d8aa1f4498d84975b4c11996f3c1bf267ef70622fe,https://physionet.org/files/apnea-ecg/1.0.0/c08.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c08.hea,58,b1e1693e85b650c2c0cdc33d3dec6c82b7fa1c6e12da62d8d8a578e20e55db08,https://physionet.org/files/apnea-ecg/1.0.0/c08.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c08.qrs,61978,e36055e1caa7f69d109857f57748f9e4d49853c0dff058dcaf76d14beaa6fc8a,https://physionet.org/files/apnea-ecg/1.0.0/c08.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c09.apn,3740,e5e9a15d39cc4bff825ef1f1589d7e002a34b00bf6a32f178257b9989a3b89f3,https://physionet.org/files/apnea-ecg/1.0.0/c09.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c09.hea,56,bb82cf12e7a4ab3d1c786e781bd4817ab8fd8cee59973f05a8a743f3684eb4ea,https://physionet.org/files/apnea-ecg/1.0.0/c09.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c09.qrs,62470,ee1b4016a5ff1db0e987effab81ecad0cc56b6af69cd7c3a02bda4821e0ffa4b,https://physionet.org/files/apnea-ecg/1.0.0/c09.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c10.apn,3444,de83ba15545ece44fe16cbd01605ae60f4b6fcadc362695361e6c6a6bef0c3b2,https://physionet.org/files/apnea-ecg/1.0.0/c10.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c10.hea,53,cafbc17088b65ad698c9d47e7198f7bd3c9274f5be90bdd253c8d25b30b41923,https://physionet.org/files/apnea-ecg/1.0.0/c10.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,c10.qrs,48120,9628161d7163f834febae62316a5c71f7bb7d0cfbd64a19bbee493d344a152d6,https://physionet.org/files/apnea-ecg/1.0.0/c10.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x01.apn,4180,fd8d2fa78e38abb7c2afa5a9e9890d9372b52b8534f08674d5c94b61035d7aec,https://physionet.org/files/apnea-ecg/1.0.0/x01.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x01.hea,54,2464f22c9de84860371d2035fc87dfcfe944fd2a8054dcc573e8550bd1a2ba4c,https://physionet.org/files/apnea-ecg/1.0.0/x01.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x01.qrs,72944,f452a84c7f2c46e9fff7cec0e0e7df667262103e46bf5f98ad20f1218e9770e7,https://physionet.org/files/apnea-ecg/1.0.0/x01.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x02.apn,3748,2d9f92bdaa4195b849af9080aab9a0617e6e670f99e26f7dd3f60d048791fd4f,https://physionet.org/files/apnea-ecg/1.0.0/x02.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x02.hea,55,df9b0a618702c226a868cfa0d376b982c4d95dd6beab6435755f39c1a00fde48,https://physionet.org/files/apnea-ecg/1.0.0/x02.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x02.qrs,79364,6b11454bd7987b3870652e2c3bd9051b8be6f5a0774f4236c0bc5d4a33794f6b,https://physionet.org/files/apnea-ecg/1.0.0/x02.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x03.apn,3716,a728580d7b6d8efd249d1790c4351a4b734e6e65a9f15d15758c09dd8db27709,https://physionet.org/files/apnea-ecg/1.0.0/x03.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x03.hea,56,cb15d54b39067da855fe2db95632700ff4b0eeb22be83a6ed56e88e4e40837e9,https://physionet.org/files/apnea-ecg/1.0.0/x03.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x03.qrs,66960,d9acb3802f9ff65f8b69d6bd3c3d17dae3d5c53cbb55864526b6f4b34c3c1324,https://physionet.org/files/apnea-ecg/1.0.0/x03.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x04.apn,3852,323b3981841f62f12e7dcb541c78eacb7c099bffa39d25880176ff0274981d7a,https://physionet.org/files/apnea-ecg/1.0.0/x04.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x04.hea,54,64c605026b0c1f4f845f7d08d61bf26f0bfe6251aeb2298192ba57dd34b2069e,https://physionet.org/files/apnea-ecg/1.0.0/x04.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x04.qrs,51108,7c11f11795aa96a14ae5ee576abd40045d3210d2ac8e329dba6f93d4fa0361cf,https://physionet.org/files/apnea-ecg/1.0.0/x04.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x05.apn,4036,b31cdb7e432ebb6a346a8146f3dbc003ed8f8d3fc048892ed1df1078e6cf920d,https://physionet.org/files/apnea-ecg/1.0.0/x05.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x05.hea,56,1b04207f1757bc074df287db1a7eb006d944fcc625a145857477fcae32ff6627,https://physionet.org/files/apnea-ecg/1.0.0/x05.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x05.qrs,70878,8f0b738720e067b23b7f9c8b5ae7054e2ed3cb618238aab71cec3006446741b6,https://physionet.org/files/apnea-ecg/1.0.0/x05.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x06.apn,3596,984bd409e348ccba7f38db23de2742582c27750af457630c81ed75dd674b127c,https://physionet.org/files/apnea-ecg/1.0.0/x06.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x06.hea,54,8a20622328f71149a1c8410462be64e430f5f0d00ce2d862946ff3cb650a3f5d,https://physionet.org/files/apnea-ecg/1.0.0/x06.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x06.qrs,44378,caa18f5a1c14d6460cccd83279c6022fcd0d5bdb652f28f9fb15893d32f5bccb,https://physionet.org/files/apnea-ecg/1.0.0/x06.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x07.apn,4068,a27a4c2672595cdec5bec8241ba6668e24f93b770923e0cf3afab8e77c11d5f8,https://physionet.org/files/apnea-ecg/1.0.0/x07.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x07.hea,57,c7000b725c7a6577cd299db27dc250473a586c125c35f83cb03029c98116116c,https://physionet.org/files/apnea-ecg/1.0.0/x07.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x07.qrs,64284,71255387c19da5ea50edcc39af43b1c62e3f24e53a28836614da56be24b5397e,https://physionet.org/files/apnea-ecg/1.0.0/x07.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x08.apn,4132,0fe025be29c6de18235429385240396d2ea0ab8d91f015d18db93ace9d12ffeb,https://physionet.org/files/apnea-ecg/1.0.0/x08.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x08.hea,57,2e47d83959c0ecfbcb9545890a1916f71306955bd4a2fe61e775808b7b3c365c,https://physionet.org/files/apnea-ecg/1.0.0/x08.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x08.qrs,71702,ad56cc24463f27b56a73af7bd3da6bf6d30a2fa23890f2ac36fb00accd21b809,https://physionet.org/files/apnea-ecg/1.0.0/x08.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x09.apn,4060,5bcd064ce8fd0fcc3f06679e5ecafd3f325b51b867c7141c26fb5c3b04c7cd01,https://physionet.org/files/apnea-ecg/1.0.0/x09.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x09.hea,56,527dcc52725a88188506b4e1fe4927b8c21d71c06474b0060790ddd7aad63191,https://physionet.org/files/apnea-ecg/1.0.0/x09.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x09.qrs,75416,60f137c3bfd81ac5f223c12e8927b1dd0646f30a652484b67a34e4066b434240,https://physionet.org/files/apnea-ecg/1.0.0/x09.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x10.apn,4076,dd246283ce96dd7c30fea6e567f18513e00ab535ebd124bfc29dc84de82ac2f0,https://physionet.org/files/apnea-ecg/1.0.0/x10.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x10.hea,56,65bcf88e05c35230d3240df3b3009952d4bf847b21b5085fdf668698aa05f5d2,https://physionet.org/files/apnea-ecg/1.0.0/x10.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x10.qrs,83144,3f913400e3a0c920a5cf88113a73cbb7abc8eec4c3fb045b2afd4748527af56e,https://physionet.org/files/apnea-ecg/1.0.0/x10.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x11.apn,3652,abc9e4997022c7f91c956758675c1f47902d37184177895b78a3d8c95359d4d2,https://physionet.org/files/apnea-ecg/1.0.0/x11.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x11.hea,54,06e36bd1f5c16be88ad5a5b61919f6ed8c462d670c3e6f86810f551e7479e8a5,https://physionet.org/files/apnea-ecg/1.0.0/x11.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x11.qrs,60052,cf5e9e807dc6c9a14aadd6debcbeebf2b43bc6b3f625c5fbe811a93a61c88bde,https://physionet.org/files/apnea-ecg/1.0.0/x11.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x12.apn,4212,d6ee0fb89876cbfe078c2ea232f10b7586ab707ab908d8dbcfae8e3b73dec9b9,https://physionet.org/files/apnea-ecg/1.0.0/x12.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x12.hea,57,288cd6f9aa0cd391b8a2ee858d2c92b9716d957da42938c42325c86c8c8666d8,https://physionet.org/files/apnea-ecg/1.0.0/x12.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x12.qrs,76730,cc5c30952d15a0704d06c904a999e7db7bd8b0a8196a347371dffcc69ff3c1f2,https://physionet.org/files/apnea-ecg/1.0.0/x12.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x13.apn,4044,0b78394fbaead10741f73368e83b661f6f413cf9f0b9a7ef7ee80936f6e82d15,https://physionet.org/files/apnea-ecg/1.0.0/x13.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x13.hea,56,8428a5b2c297677cd797b3627fc5d41fed82ef3693c8014ba0373f9698cc3725,https://physionet.org/files/apnea-ecg/1.0.0/x13.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x13.qrs,71996,1136e8af1b05586cff75953b08b78aa56f07141921bb12df4f9f6914b129ad9d,https://physionet.org/files/apnea-ecg/1.0.0/x13.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x14.apn,3916,34c2db8772e8bbe6e7dd9f6dd10450ff71440bfe67df97b284832d6c68a0ab56,https://physionet.org/files/apnea-ecg/1.0.0/x14.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x14.hea,54,78a89b423f4c376033ab67c0893c8bdb035cfb874f1922dc50b2bd953ec79a23,https://physionet.org/files/apnea-ecg/1.0.0/x14.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x14.qrs,78174,10fc06174e4beffe7b5230df2ab9711a58f34a1b77d5034f475a6fd0f1ebb5f8,https://physionet.org/files/apnea-ecg/1.0.0/x14.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x15.apn,3980,0182666d838be78c850ac2f77f7cc13cd149f83c4f00abcc970aeca3d0915c66,https://physionet.org/files/apnea-ecg/1.0.0/x15.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x15.hea,55,6b56600ff583240564eb46fd30dd4911a02dc8e986676afd47d84e9b39d74181,https://physionet.org/files/apnea-ecg/1.0.0/x15.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x15.qrs,60572,23720a04ecd822e47a182c1a880c4c955e9047af2147cc31983fe7a48fd9f6fa,https://physionet.org/files/apnea-ecg/1.0.0/x15.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x16.apn,4116,ffc671160a73ee4333dc8afe4a5a9e5e91324aeecb2da744fdb733ccde876d55,https://physionet.org/files/apnea-ecg/1.0.0/x16.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x16.hea,55,25f16eada5167ff38180ecbbdbde5c1adeecb30d5378966e791ce38b4961c7c3,https://physionet.org/files/apnea-ecg/1.0.0/x16.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x16.qrs,69272,c743b8e68705e9512b67ffa6e0d4c2f7254472254e9eb360b507bd6f1cb48f2c,https://physionet.org/files/apnea-ecg/1.0.0/x16.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x17.apn,3196,79f3a663e6e51a4b898f23362973834b60e5ead07e9a80da412da9e85df03311,https://physionet.org/files/apnea-ecg/1.0.0/x17.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x17.hea,55,ba31f5b06231b0cebaf14a37947b7e4a45bedd56d2b5cfe112eadbf8c934e463,https://physionet.org/files/apnea-ecg/1.0.0/x17.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x17.qrs,39136,7f3b7d5b38175e53f341499bc9659947263c3bd9e6002df98885cd30a8bc47f0,https://physionet.org/files/apnea-ecg/1.0.0/x17.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x18.apn,3668,54b920e90ec62e75ad27b7b9c0451c43351a5657d6522ccc8fb77a709b4b264b,https://physionet.org/files/apnea-ecg/1.0.0/x18.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x18.hea,55,5815ca3f6dc191699c999741890ceb809684dacb5f8c1a04279ef1a1e5d7182b,https://physionet.org/files/apnea-ecg/1.0.0/x18.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x18.qrs,50022,8ef85282f13e334ff7c53c51547f8984bd367cefbe83551dc1c3722ceb4ce792,https://physionet.org/files/apnea-ecg/1.0.0/x18.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x19.apn,3892,c62f02b541d1c1ac7fd7b637c93e15871befe613b2d7a185ba3d2279992bc2ca,https://physionet.org/files/apnea-ecg/1.0.0/x19.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x19.hea,55,aaa44a90f5b2293fd460cf365f94f44da4055a2dd9e4aad3498cc239e4ea1229,https://physionet.org/files/apnea-ecg/1.0.0/x19.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x19.qrs,62406,d4f80acca4a710a75b5dc6613355f910ccfee92fba6331810ba0406e720b4e6f,https://physionet.org/files/apnea-ecg/1.0.0/x19.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x20.apn,4100,904e7b36dd96fb30cbd5c93cb9ece7939332eba8829b190c8601d9f8e1b8b097,https://physionet.org/files/apnea-ecg/1.0.0/x20.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x20.hea,55,32a03998b201ab190cf1f36554915e92967fd3c2accbde69c7c62c4c14170788,https://physionet.org/files/apnea-ecg/1.0.0/x20.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x20.qrs,78284,5963d19cc45b40b16889cb91d17b0ee302b9ac4da7a8998c087a45d88c0d8bd5,https://physionet.org/files/apnea-ecg/1.0.0/x20.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x21.apn,4076,8ab759ba9cf5418b0dd59caf85948031a93509b2206a7fe6c0a9805536231a81,https://physionet.org/files/apnea-ecg/1.0.0/x21.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x21.hea,55,50f9d28e8a215152d6b94cfebbe80a2effd26e68bce3bd325e57f47e2fe7c755,https://physionet.org/files/apnea-ecg/1.0.0/x21.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x21.qrs,66034,46e3533cabeababf300f0dfc75682112144929946dd1711afdc0fd2eb49a5e0f,https://physionet.org/files/apnea-ecg/1.0.0/x21.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x22.apn,3852,e1e0c0fcfd3d24fe26e42962f051ee53aa11ad621f7db739e9e8afa486e57a23,https://physionet.org/files/apnea-ecg/1.0.0/x22.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x22.hea,55,d3d91eef180d33e8e8602d0a9c8cd2c6db4015cc2d6321c3fd2507ce4b8ae4cd,https://physionet.org/files/apnea-ecg/1.0.0/x22.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x22.qrs,58168,c35524544b7fdabb1d8835e0dea47f4f27e935e38454e85d5f231b311da491e5,https://physionet.org/files/apnea-ecg/1.0.0/x22.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x23.apn,4212,4f7b7e84da06f3a3e2a6403a3be444ecd918f41a085997465fc4ee0c0f022da4,https://physionet.org/files/apnea-ecg/1.0.0/x23.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x23.hea,54,9cd8facf5d518ac48a3f14e9a5e761c92c305f09e45acb04dd6b5ef561ceae91,https://physionet.org/files/apnea-ecg/1.0.0/x23.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x23.qrs,76576,8a059e3f7240f1f5221791c36247c280aaf8e308279b3dc0b059e5066b7687b3,https://physionet.org/files/apnea-ecg/1.0.0/x23.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x24.apn,3428,e004a7133e2a2302f0b69319f7537609670d7aadb1718e2370f868a563ccb9d0,https://physionet.org/files/apnea-ecg/1.0.0/x24.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x24.hea,56,c0944aa94bd8aed202fdf9debd7281cec0772cdbf16c167e331a6c57d2643f38,https://physionet.org/files/apnea-ecg/1.0.0/x24.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x24.qrs,43804,276938f5fbcaaf0a6cbd85ae6139cb25d6b6f2f9d2dba9cb3361f7cc5ae0b7e2,https://physionet.org/files/apnea-ecg/1.0.0/x24.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x25.apn,4076,a8f8f2df215d9b8fa4de5e86318cae91dfe231a5077b3d234f153257215eea66,https://physionet.org/files/apnea-ecg/1.0.0/x25.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x25.hea,56,ae9d784f3de7931cb8065c8056e647ad70ffa1f8e86c00ab862a3fdbaabb5e6a,https://physionet.org/files/apnea-ecg/1.0.0/x25.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x25.qrs,65104,eb62771919dae65588fcc5a5372572fbb8ac0e67541b27bde9add60c8813d50a,https://physionet.org/files/apnea-ecg/1.0.0/x25.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x26.apn,4156,eadee1f177691be63c37932941a5ea402d8521681a64946636469a29d00c0d7b,https://physionet.org/files/apnea-ecg/1.0.0/x26.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x26.hea,57,e571cfa590077ee59fc47437211e60bc980e50d7c33d8fa834d9cc7f38a4e92d,https://physionet.org/files/apnea-ecg/1.0.0/x26.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x26.qrs,64662,1e1139ad830ba7ff2844bbe954f600a8879527670505fc9c307136b0db0e03ae,https://physionet.org/files/apnea-ecg/1.0.0/x26.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x27.apn,3980,37402615a4e36f917f07011d996f26df388806b2d522ec755ef5495e3da59dfb,https://physionet.org/files/apnea-ecg/1.0.0/x27.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x27.hea,55,6eee070bb3a54c000533100d5949ff32c673181e9d9c2d2749fbb3b94b807529,https://physionet.org/files/apnea-ecg/1.0.0/x27.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x27.qrs,79996,f093ce1c996328efe1bfcfee23ffabbc4ec926d8ba6774f23de1c7de0b93deb5,https://physionet.org/files/apnea-ecg/1.0.0/x27.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x28.apn,3956,c30b6d6afcd6a9d0773abce1d07e69f1c3144b5a480455f4858dfeaba8d83923,https://physionet.org/files/apnea-ecg/1.0.0/x28.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x28.hea,54,a048beaa0fd685a5200d5fbb853cee3869cad995b7ca7fb6b9526871209ab63f,https://physionet.org/files/apnea-ecg/1.0.0/x28.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x28.qrs,75346,f8268357dcb671780b8c840bd174892c3de2b88f7b45f1cd7391df7d83f25417,https://physionet.org/files/apnea-ecg/1.0.0/x28.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x29.apn,3756,683359666f8a7b56c1c1a90b8009b739d44c8f071a5b67bb13539587b1d725bb,https://physionet.org/files/apnea-ecg/1.0.0/x29.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x29.hea,55,64811c43b1bdd9cdca9529078edf58f574cbb79dcf36168ad52eb794efc08d70,https://physionet.org/files/apnea-ecg/1.0.0/x29.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x29.qrs,61342,f56759657a9ecb2d0a33e619f169eda065f9d8a3a69dfc5e223f9831aa376f48,https://physionet.org/files/apnea-ecg/1.0.0/x29.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x30.apn,4084,1391b3ac6e11717fcb1b23f3024c64709c257a0f468a7cb327335b54b7f7d04c,https://physionet.org/files/apnea-ecg/1.0.0/x30.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x30.hea,55,ae966c74154b200c83513fc8cf671d013b5aa147b7e0305f35bb612717277078,https://physionet.org/files/apnea-ecg/1.0.0/x30.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x30.qrs,73038,c3926d0f506f6b9a5bf6188f9a065532a6f5a765c39e2d3146a2cdca278ab25c,https://physionet.org/files/apnea-ecg/1.0.0/x30.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x31.apn,4452,5832d2e3983da79faba49c82e4d263fe703325dc5f44598995e2efbcb36c7a9c,https://physionet.org/files/apnea-ecg/1.0.0/x31.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x31.hea,55,c6f77593b2e1f36d8f5348b2517be3972621b7180952097a1e98acfc9b2921f4,https://physionet.org/files/apnea-ecg/1.0.0/x31.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x31.qrs,68344,c4931c955ad5723dc22d0251f264ae16cface136f2ebb6a9f942d0d4d56e49e4,https://physionet.org/files/apnea-ecg/1.0.0/x31.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x32.apn,4300,fa50f039cbdd9ff284fa9912ae6e8f234d5a8388e8f48c2c319cc05665b14548,https://physionet.org/files/apnea-ecg/1.0.0/x32.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x32.hea,57,469d970b675031f0d476989bec83ff03f1e68033b13ac8c99b6ab91d03e1bcc5,https://physionet.org/files/apnea-ecg/1.0.0/x32.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x32.qrs,68238,e838d8517ec1d64c985cb6d11a53c8f14bd2d83cefd626b8f22cef23a45e7e88,https://physionet.org/files/apnea-ecg/1.0.0/x32.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x33.apn,3780,88919088174667b726f98f901a1749ed12961f9481a683f9cfbbcbe2a27ff401,https://physionet.org/files/apnea-ecg/1.0.0/x33.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x33.hea,53,57cc9a794378303997a9558f10882845c4552fe93ae723de7c0a18cbf867072b,https://physionet.org/files/apnea-ecg/1.0.0/x33.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x33.qrs,68220,6148c08ef408e97bcd69aaf314951b2f3d3fea1887788fed2a226ca9081c09eb,https://physionet.org/files/apnea-ecg/1.0.0/x33.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x34.apn,3796,1228552eff50962b691eae72094e1ab21af94066d9a58dee026def7c2a25e481,https://physionet.org/files/apnea-ecg/1.0.0/x34.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x34.hea,55,f533412ab9ba3c171c38788e0df6e26044f60543fa7ef28edbcf8100997fadac,https://physionet.org/files/apnea-ecg/1.0.0/x34.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x34.qrs,68506,e721e68d64e03da53a232921da6a44df0c7ebe21435f6b309981aa1455e26eda,https://physionet.org/files/apnea-ecg/1.0.0/x34.qrs,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x35.apn,3860,926e89dadac901bddd37f36355f55807b3f1d84fa19ffefcc0646f4b6123da19,https://physionet.org/files/apnea-ecg/1.0.0/x35.apn,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x35.hea,55,c9ab2c5f75fba8f153f5b71f1ff6e662b63fd070a820bce62b6d9850b5023881,https://physionet.org/files/apnea-ecg/1.0.0/x35.hea,ODC-By-1.0,2026-11-20
+apnea-ecg,Apnea-ECG Database,1.0.0,x35.qrs,58202,f4b7e1140c31665acd4b8d010a413e254dfcda2c5f085dffd012e9ad9c4bf779,https://physionet.org/files/apnea-ecg/1.0.0/x35.qrs,ODC-By-1.0,2026-11-20

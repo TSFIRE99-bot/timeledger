@@ -9,8 +9,8 @@ row produced carries a reason starting with \code{"simulated"}; results from
 these experiments must be labelled as simulated.
 }
 \usage{
-tl_simulate_outages(ledger, n, duration, mode = c("random",
-  "event_concentrated"), seed = NULL, max_tries = 1000)
+tl_simulate_outages(ledger, n, duration,
+  mode = c("random", "event_concentrated"), seed = NULL, max_tries = 1000)
 }
 \arguments{
 \item{ledger}{A \code{tl_ledger} (used for records, reference and predictions).}

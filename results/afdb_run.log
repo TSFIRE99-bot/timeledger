@@ -1,0 +1,5 @@
+done afdb rows: 153764 
+       load      ledger       match     compare   bootstrap sensitivity 
+       16.9         0.9         1.2         1.4         0.2         2.6 
+     epicmp     exhibit 
+       14.5         1.4 

@@ -7,9 +7,10 @@ Pairs reference episodes with detector alarms under a named policy and
 records the overlap behind every decision.
 }
 \usage{
-tl_match(ledger, policy = c("one_to_one", "any_overlap"), scope = c("full",
-  "answered"), min_overlap = 0, min_episode_time = 0, learning_period = 0,
-  episode_merge_gap = 0, alarm_merge_gap = 0, alarm_min_duration = 0)
+tl_match(ledger, policy = c("one_to_one", "any_overlap"),
+  scope = c("full", "answered"), min_overlap = 0, min_episode_time = 0,
+  learning_period = 0, episode_merge_gap = 0, alarm_merge_gap = 0,
+  alarm_min_duration = 0)
 }
 \arguments{
 \item{ledger}{A \code{tl_ledger}.}

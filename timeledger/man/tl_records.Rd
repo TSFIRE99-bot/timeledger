@@ -8,8 +8,8 @@ own clock: \code{start} and \code{end} give the target period, in the same time 
 as the interval tables, and intervals are half-open, \eqn{[start, end)}.
 }
 \usage{
-tl_records(record, start = 0, end, subject = record, fs = NA_real_, n_samples
-  = NA_real_)
+tl_records(record, start = 0, end, subject = record, fs = NA_real_,
+  n_samples = NA_real_)
 }
 \arguments{
 \item{record}{Character record identifiers (unique).}

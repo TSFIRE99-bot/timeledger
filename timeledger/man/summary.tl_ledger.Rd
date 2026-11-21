@@ -6,8 +6,8 @@
 Duration totals for every state in a ledger
 }
 \usage{
-\method{summary}{tl_ledger}(object, by = c("reference", "observation",
-  "response"), ...)
+\method{summary}{tl_ledger}(object,
+  by = c("reference", "observation", "response"), ...)
 }
 \arguments{
 \item{object}{A \code{tl_ledger}.}

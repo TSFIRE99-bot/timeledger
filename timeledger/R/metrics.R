@@ -288,11 +288,12 @@ tl_record_mean <- function(metrics) {
 print.tl_metrics <- function(x, digits = 4, ...) {
   y <- as.data.frame(x)
   class(y) <- "data.frame"
-  y$estimate <- signif(y$estimate, digits)
+  if (!is.null(y$estimate)) y$estimate <- signif(y$estimate, digits)
   cat(sprintf("<tl_metrics> time unit: %s\n", attr(x, "time_unit")))
-  print(y[, c("level", "record", "detector", "metric", "estimate",
-              "numerator", "denominator", "unit", "undefined_reason")],
-        row.names = FALSE)
+  cols <- intersect(c("level", "record", "detector", "metric", "estimate",
+                      "numerator", "denominator", "unit", "undefined_reason"),
+                    names(y))
+  print(y[, cols, drop = FALSE], row.names = FALSE)
   invisible(x)
 }
 

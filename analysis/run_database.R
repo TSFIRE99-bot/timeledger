@@ -75,7 +75,8 @@ sens <- rbind(
 write.csv(sens, file.path(out, "sensitivity_analyses.csv"), row.names = FALSE)
 
 tic("epicmp")
-exe <- normalizePath("comparators/epicmp/bin/epicmp.exe")
+exe <- normalizePath(Filter(file.exists, c("comparators/epicmp/bin/epicmp.exe",
+                                           "comparators/epicmp/bin/epicmp"))[1])
 ep <- run_epicmp_check(db, dir, exe, file.path(tempdir(), paste0("epicmp_", db_name)))
 write.csv(ep, file.path(out, "epicmp_check.csv"), row.names = FALSE)
 

@@ -12,8 +12,9 @@ executable was tested on the records described in the package's
 verification report.
 }
 \usage{
-wfdb_epicmp_af(ref, test, n_samples, fs, start_time = 300 * fs, end_time =
-  NULL, min_length = 0, exclude_short_all = FALSE, exclude_afl = FALSE)
+wfdb_epicmp_af(ref, test, n_samples, fs, start_time = 300 * fs,
+  end_time = NULL, min_length = 0, exclude_short_all = FALSE,
+  exclude_afl = FALSE)
 }
 \arguments{
 \item{ref,test}{Annotation tables from \code{\link[=read_wfdb_ann]{read_wfdb_ann()}} (all

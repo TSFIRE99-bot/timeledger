@@ -1,7 +1,7 @@
-list(session = list(time = "2026-11-21 03:16:46 UTC", R = "R version 4.6.2 (2026-10-29 ucrt)", 
+list(session = list(time = "2026-11-21 03:37:53 UTC", R = "R version 4.6.2 (2026-10-29 ucrt)", 
     platform = "x86_64-w64-mingw32", os = "Windows 11 x64 (build 26300)", 
     timeledger = "0.1.0"), exhibit = list(record_largest_unknown = "64", 
-    record_largest_AB_gap = "122"), seconds = c(ledger = 143.324518918991, 
-match = 8.76631498336792, compare = 71.4517810344696, bootstrap = 56.7258598804474, 
-sensitivity = 1.13102698326111, epicmp = 68.8597011566162, exhibit = 194.0846118927, 
-end = 15.121927022934), n_ledger_rows = 1205762L)
+    record_largest_AB_gap = "122"), seconds = c(ledger = 130.756343126297, 
+match = 8.82936191558838, compare = 14.4465539455414, bootstrap = 14.5815060138702, 
+sensitivity = 1.29999399185181, epicmp = 26.4701669216156, exhibit = 107.508646011353, 
+end = 15.3331170082092), n_ledger_rows = 1205762L)

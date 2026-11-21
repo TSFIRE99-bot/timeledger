@@ -9,8 +9,9 @@ positive, negative, abstained, no-input and unknown responses; the
 reference lane distinguishes event, non-event and unknown time.
 }
 \usage{
-\method{plot}{tl_ledger}(x, record = NULL, from = NULL, to = NULL, detectors
-  = NULL, include = NULL, time_scale = 1, xlab = "time", legend = TRUE, ...)
+\method{plot}{tl_ledger}(x, record = NULL, from = NULL, to = NULL,
+  detectors = NULL, include = NULL, time_scale = 1, xlab = "time",
+  legend = TRUE, ...)
 }
 \arguments{
 \item{x}{A \code{tl_ledger}.}
