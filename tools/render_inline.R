@@ -17,6 +17,7 @@ body <- x[(yend + 1):length(x)]
 out <- character()
 i <- 1
 figs <- character()
+tabs <- character()
 while (i <= length(body)) {
   l <- body[i]
   if (grepl("^```[{]r", l)) {
@@ -33,11 +34,14 @@ while (i <= length(body)) {
     } else if (grepl("echo = TRUE", l)) {
       out <- c(out, "```r", code, "```", "")
       for (e in parse(text = code)) eval(e, env)
-    } else if (label == "prior") {
+    } else if (any(grepl("knitr::kable", code))) {
       kl <- grep("knitr::kable", code)[1]
       for (e in parse(text = code[seq_len(kl - 1)])) eval(e, env)
-      p <- get("prior", env)
-      out <- c(out, "[Table 1]", apply(p, 1, paste, collapse = " | "), "")
+      obj <- sub("^.*knitr::kable[(]([A-Za-z0-9_.]+).*$", "\\1", code[kl])
+      p <- get(obj, env)
+      tabs <- c(tabs, label)
+      out <- c(out, sprintf("[Table %d]", length(tabs)),
+               apply(p, 1, paste, collapse = " | "), "")
     } else {
       grDevices::pdf(NULL)
       for (e in parse(text = code)) eval(e, env)
@@ -62,7 +66,9 @@ for (k in seq_along(figs)) {
   txt <- gsub(sprintf("Figure \\\\@ref\\(fig:%s\\)", figs[k]), paste("Figure", k), txt)
   txt <- gsub(sprintf("\\\\@ref\\(fig:%s\\)", figs[k]), k, txt)
 }
-txt <- gsub("Table \\\\@ref\\(tab:prior\\)", "Table 1", txt)
+for (k in seq_along(tabs)) {
+  txt <- gsub(sprintf("Table \\\\@ref\\(tab:%s\\)", tabs[k]), paste("Table", k), txt)
+}
 txt <- gsub("\\\\(CRANpkg|BIOpkg|pkg)\\{([^}]+)\\}", "\\2", txt)
 writeLines(c(paste("#", title), "", "Abstract.", abstract, "", txt), args[2], useBytes = TRUE)
 cat("wrote", args[2], "\n")

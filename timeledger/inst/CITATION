@@ -1,0 +1,13 @@
+bibentry(
+  bibtype = "Manual",
+  title = "{timeledger}: Auditable Time Accounting for Evaluating Continuous Event Detectors",
+  author = person("Tejas", "Menneni"),
+  year = "2026",
+  note = paste("R package version", meta$Version),
+  url = "https://github.com/TSFIRE99-bot/timeledger",
+  textVersion = paste0(
+    "Menneni T (2026). timeledger: Auditable Time Accounting for Evaluating ",
+    "Continuous Event Detectors. R package version ", meta$Version, ". ",
+    "https://github.com/TSFIRE99-bot/timeledger"
+  )
+)

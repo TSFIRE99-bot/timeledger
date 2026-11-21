@@ -16,7 +16,9 @@ jobs:
         config:
           - {os: ubuntu-latest, r: 'release'}
           - {os: ubuntu-latest, r: 'devel'}
-          - {os: windows-latest, r: 'release'}
+          # The PDF manual is checked on Linux and macOS; TinyTeX on the
+          # Windows runner fails without reporting an Rd problem.
+          - {os: windows-latest, r: 'release', args: '"--no-manual", '}
           - {os: macos-latest, r: 'release'}
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -37,6 +39,6 @@ jobs:
       - uses: r-lib/actions/check-r-package@v2
         with:
           working-directory: timeledger
-          args: 'c("--as-cran")'
+          args: 'c(${{ matrix.config.args }}"--as-cran")'
           error-on: '"warning"'
           upload-snapshots: false

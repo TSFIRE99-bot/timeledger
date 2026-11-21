@@ -1,0 +1,44 @@
+url: https://tsfire99-bot.github.io/timeledger/
+template:
+  bootstrap: 5
+reference:
+  - title: Build and check the ledger
+    contents:
+      - tl_records
+      - tl_ledger
+      - tl_validate
+      - tl_check
+      - summary.tl_ledger
+      - tl_split
+      - tl_restrict
+  - title: Episodes, alarms and matching
+    contents:
+      - tl_episodes
+      - tl_alarms
+      - tl_match
+  - title: Metrics, comparisons and uncertainty
+    contents:
+      - tl_metrics
+      - tl_get
+      - tl_record_mean
+      - tl_contributions
+      - tl_compare
+      - tl_bootstrap
+  - title: Inspect
+    contents:
+      - tl_trace
+      - plot.tl_ledger
+  - title: Prepare predictions and experiments
+    contents:
+      - tl_from_windows
+      - tl_simulate_outages
+      - tl_fixture
+  - title: WFDB files and epicmp compatibility
+    contents:
+      - read_wfdb_header
+      - read_wfdb_ann
+      - wfdb_rhythm_intervals
+      - wfdb_beats
+      - write_wfdb_rhythm
+      - wfdb_epicmp_af
+      - wfdb_parse_epicmp

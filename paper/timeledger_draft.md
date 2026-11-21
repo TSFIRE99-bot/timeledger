@@ -431,9 +431,19 @@ prediction rows, abstention, missing input, reference time before the first
 rhythm label, atrial flutter, the matching rule, touching intervals, the minimum
 episode duration, the learning period, records without a stated length, the
 false-alarm exposure, pooled versus equal-record summaries, and the unit of
-resampling. The repository lists each decision with the default of each tool
-and, where it was measured, its effect on these data. In timeledger each
-of them is an argument, a ledger state, or a reported column.
+resampling. Table 2 lists the decisions whose effect was measured on
+these data, with the default of each tool. In timeledger each of them is
+an argument, a ledger state, or a reported column.
+
+[Table 2]
+Meaning of time with no prediction row | no event | dropped | state of previous rhythm annotation | LTAFDB B sensitivity 0.948 with unanswered time dropped vs 0.841 with it scored as no AF
+Reference time before first rhythm label | not AF | not AF | not AF | LTAFDB A false alarms per known hour 2.835 (unknown) vs 2.888 (counted as normal)
+Atrial flutter | analyst choice | analyst choice | ends AF episode; included in +P unless -x | AFDB A full capture 0.931 (AFL not AF) vs 0.919 (AFL as AF)
+Episode matching rule | any overlap | any overlap | any overlap | LTAFDB A episode sensitivity 0.455 (one-to-one) vs 0.957 (any overlap)
+Records without a stated length | analyst choice | analyst choice | no episodes selected | AFDB 00735 and 03665: 8 episodes and 105 false alarms scored vs none by epicmp
+False-alarm exposure | recording hours | answered hours | not reported | LTAFDB B 1.89 per answered hour vs 1.67 per known hour
+Pooled versus equal-record summary | analyst choice | analyst choice | per record | LTAFDB A false alarms per known hour 2.84 pooled vs 0.14 median record
+
 
 The Python libraries behave similarly on the 100-minute example. With zero
 tolerances, `timescoring` and `sed_eval` report sample or segment sensitivity

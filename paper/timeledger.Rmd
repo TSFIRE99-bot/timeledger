@@ -483,9 +483,26 @@ prediction rows, abstention, missing input, reference time before the first
 rhythm label, atrial flutter, the matching rule, touching intervals, the minimum
 episode duration, the learning period, records without a stated length, the
 false-alarm exposure, pooled versus equal-record summaries, and the unit of
-resampling. The repository lists each decision with the default of each tool
-and, where it was measured, its effect on these data. In \pkg{timeledger} each
-of them is an argument, a ledger state, or a reported column.
+resampling. Table \@ref(tab:decisions) lists the decisions whose effect was measured on
+these data, with the default of each tool. In \pkg{timeledger} each of them is
+an argument, a ledger state, or a reported column.
+
+```{r decisions}
+di <- read.csv("results/comparators/decision_inventory.csv", check.names = FALSE)
+keep <- c("Meaning of time with no prediction row",
+          "Reference time before first rhythm label", "Atrial flutter",
+          "Episode matching rule", "Records without a stated length",
+          "False-alarm exposure", "Pooled versus equal-record summary")
+di <- di[match(keep, di$decision), ]
+tab <- data.frame(Decision = di$decision,
+                  harbinger = di[["conv_fill (harbinger default)"]],
+                  yardstick = di[["conv_drop (yardstick default)"]],
+                  epicmp = di[["epicmp 10.7.0"]],
+                  `Measured effect` = di[["measured effect"]],
+                  check.names = FALSE)
+knitr::kable(tab, caption = "Consequential decisions, the default of three existing tools, and the effect measured on AFDB or LTAFDB with the frozen detector (full inventory and sources in results/comparators/decision\_inventory.csv).",
+             booktabs = TRUE)
+```
 
 The Python libraries behave similarly on the 100-minute example. With zero
 tolerances, `timescoring` and `sed_eval` report sample or segment sensitivity

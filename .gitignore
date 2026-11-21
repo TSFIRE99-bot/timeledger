@@ -4,3 +4,4 @@ rawdata/
 .Rhistory
 results/*/ledger.rds
 results/*/match_compare.rds
+timeledger/docs/
