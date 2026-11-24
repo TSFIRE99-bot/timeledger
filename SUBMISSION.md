@@ -44,8 +44,8 @@ The journal lists these as reasons for desk rejection when missing:
 
 ## 5. Archive and submit the article (you)
 
-1. Archive the repository on Zenodo (GitHub integration) to get a DOI; cite
-   that version in the article.
+1. Done: archived on Zenodo, all-versions DOI 10.5281/zenodo.24489065
+   (version record 10.5281/zenodo.24489066), cited in the article.
 2. Update the article: CRAN version, release history, any outside use, and
    remove `draft: true`.
 3. Check the rendered PDF from the `render-article` CI artifact (20-page limit,

@@ -41,6 +41,11 @@ compatibility mode, not a claim of standards compliance).
 
 The package depends only on base R (`graphics`, `stats`, `utils`).
 
+## Citation
+
+Menneni T (2026). timeledger: Auditable Time Accounting for Evaluating
+Continuous Event Detectors. Archived at https://doi.org/10.5281/zenodo.24489065.
+
 ## Installation
 
 ```r

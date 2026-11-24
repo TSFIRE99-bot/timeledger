@@ -9,3 +9,4 @@ private/
 results/ai_detector/
 results/R_CMD_check.log
 cran/
+zenodo/

@@ -522,8 +522,9 @@ reduced false alarms lowered full-period AF capture by
 of its ungated value, and the shared-time comparison that hid this discarded
 16.8% of the
 eligible episodes. The package, the analysis code and every saved result
-behind the numbers in this article are available in the reproduction
-repository.
+behind the numbers in this article are available at
+<https://github.com/TSFIRE99-bot/timeledger> and archived on Zenodo
+(doi:10.5281/zenodo.24489065).
 
 # Acknowledgements and use of generative AI
 

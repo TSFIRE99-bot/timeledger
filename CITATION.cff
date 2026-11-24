@@ -9,6 +9,7 @@ authors:
 version: 0.1.0
 date-released: 2026-11-21
 license: GPL-3.0-or-later
+doi: 10.5281/zenodo.24489065
 repository-code: "https://github.com/TSFIRE99-bot/timeledger"
 url: "https://tsfire99-bot.github.io/timeledger/"
 keywords:

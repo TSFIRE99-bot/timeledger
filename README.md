@@ -17,6 +17,8 @@ Continuous Event Detectors in R".
 | `tools/` | Rd generator, vignette-code runner, inline renderer, test summary |
 | `VERDICTS.md` | Whether the software is complete and whether it is ready for The R Journal |
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.24489065 (all versions).
+
 Reproduce everything with `bash reproduce.sh` (about 15 minutes, needs
 internet for the PhysioNet download).
 
