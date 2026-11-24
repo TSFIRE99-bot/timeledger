@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "timeledger: Auditable Time Accounting for Evaluating Continuous Event Detectors"
+type: software
+authors:
+  - family-names: Menneni
+    given-names: Tejas
+    affiliation: Columbus State Community College
+version: 0.1.0
+date-released: 2026-11-21
+license: GPL-3.0-or-later
+repository-code: "https://github.com/TSFIRE99-bot/timeledger"
+url: "https://tsfire99-bot.github.io/timeledger/"
+keywords:
+  - R
+  - event detection
+  - evaluation
+  - atrial fibrillation
+  - continuous monitoring

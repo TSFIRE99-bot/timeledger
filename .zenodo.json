@@ -1,0 +1,29 @@
+{
+  "title": "timeledger: Auditable Time Accounting for Evaluating Continuous Event Detectors",
+  "upload_type": "software",
+  "description": "R package and reproduction materials. timeledger reduces reference annotations, input availability and detector responses to one table of disjoint half-open time intervals per record, so that every evaluation metric for continuous event detectors (answer coverage, sensitivity on answered time, full-period capture, episode detection, false-alarm burden, event burden with bounds) is reported with its numerator, denominator and excluded time and can be traced to the intervals behind it. The repository also contains the analyses of the MIT-BIH Atrial Fibrillation Database and the Long Term AF Database, the comparison with WFDB epicmp and with existing R packages, benchmarks, and the R Journal article source.",
+  "creators": [
+    {
+      "name": "Menneni, Tejas",
+      "affiliation": "Columbus State Community College"
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "R",
+    "event detection",
+    "evaluation",
+    "atrial fibrillation",
+    "abstention",
+    "continuous monitoring",
+    "WFDB",
+    "PhysioNet"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/TSFIRE99-bot/timeledger",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
